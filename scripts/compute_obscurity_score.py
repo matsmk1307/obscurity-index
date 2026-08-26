@@ -2,13 +2,19 @@
 obskur-spiller-dataset-plan.md) and write data/processed/obscurity_ranking.csv
 -- the single source-of-truth file the site's JSON is generated from.
 
-Score = average of two inverted percentile ranks, both within the population
-that passes the filter:
-  - obscurity_minutes: 1 - percentile_rank(total_minutes_top5)   (fewer minutes -> higher)
-  - obscurity_value:   1 - percentile_rank(peak_market_value_eur) (lower peak value -> higher)
+Score = average of two inverted percentile ranks:
+  - obscurity_minutes: 1 - percentile_rank(total_minutes_top5) within the whole
+    eligible pool (fewer minutes -> higher)
+  - obscurity_value:   1 - peak_value_pct_in_league, i.e. how cheap the player's
+    peak value was relative to *peers in their own primary league* (computed in
+    build_dataset.py). A flat cross-league percentile here would reintroduce the
+    same bias that made the filter itself league-skewed -- see chat: Ligue 1 had
+    a 26.6% obscurity-filter pass rate vs Premier League's 13.4% under a flat
+    EUR cutoff, because PL market values run structurally higher regardless of
+    a player's actual obscurity.
 
-Score is in [0, 1]; 1.0 would mean lowest minutes AND lowest peak value in the
-whole eligible pool.
+Score is in [0, 1]; 1.0 would mean lowest minutes in the whole pool AND the
+cheapest peak value within one's own league.
 """
 
 from pathlib import Path
@@ -41,7 +47,7 @@ def main() -> None:
     )
 
     eligible["obscurity_minutes"] = 1 - eligible["total_minutes_top5"].rank(pct=True)
-    eligible["obscurity_value"] = 1 - eligible["peak_market_value_eur"].rank(pct=True)
+    eligible["obscurity_value"] = 1 - eligible["peak_value_pct_in_league"]
     eligible["obscurity_score"] = (
         eligible["obscurity_minutes"] + eligible["obscurity_value"]
     ) / 2
@@ -73,6 +79,7 @@ def main() -> None:
         "total_minutes_top5",
         "total_appearances",
         "peak_market_value_eur",
+        "peak_value_pct_in_league",
         "obscurity_score",
     ]
     ranked_out = ranked[out_cols]

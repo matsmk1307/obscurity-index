@@ -20,7 +20,11 @@ PERIOD_START_SEASON = 2012  # 2012/13 -- justert fra 2010/11 pga. datahull i app
 PERIOD_END_SEASON = 2019  # 2019/20
 
 MAX_MINUTES = 9_000  # ~100 kamper -- strammet inn fra 18 000 (se chat), 68 % passerte da
-MAX_MARKET_VALUE_EUR = 7_000_000  # justert opp fra 3M etter testutvalg-sjekk (se chat)
+
+# Markedsverdi-terskel: liga-relativ percentil (se build_dataset.py for full
+# begrunnelse) -- en flat EUR-sum ga Ligue 1 dobbelt så høy obskur-rate som
+# Premier League (26,6 % mot 13,4 %), fordi PL-markedet er strukturelt dyrere.
+MARKET_VALUE_PERCENTILE_CUTOFF = 0.5  # under/lik median peak-verdi i egen hovedliga
 
 # Topplag-liste fra obskur-spiller-dataset-plan.md, pkt. 3.
 # Napoli telles kun de siste ~5 sesongene av perioden (planen sier "siste ~5 år") --
@@ -94,6 +98,25 @@ def main() -> None:
     valuations = pd.read_csv(RAW_DIR / "player_valuations.csv")
     peak_value_by_player = valuations.groupby("player_id")["market_value_in_eur"].max()
 
+    # Hovedliga (mest minutter i perioden) + percentil-rang av peak-verdi innad
+    # i den ligaen -- regnet over HELE studiepopulasjonen, ikke bare utvalget,
+    # ellers blir "median i egen liga" meningsløst for et utvalg på 10.
+    players_in_period = in_period["player_id"].unique()
+    primary_league_by_player = (
+        in_period.groupby(["player_id", "competition_id"])["minutes_played"]
+        .sum()
+        .reset_index()
+        .sort_values("minutes_played", ascending=False)
+        .drop_duplicates("player_id")
+        .set_index("player_id")["competition_id"]
+    )
+    pop = pd.DataFrame({"player_id": players_in_period})
+    pop["primary_league"] = pop["player_id"].map(primary_league_by_player)
+    pop["peak_value"] = pop["player_id"].map(peak_value_by_player)
+    pop["peak_value_pct_in_league"] = pop.groupby("primary_league")["peak_value"].rank(pct=True)
+    pct_by_player = pop.set_index("player_id")["peak_value_pct_in_league"]
+    league_by_player = pop.set_index("player_id")["primary_league"]
+
     rows = []
 
     for player_id, name in PLAYERS:
@@ -159,15 +182,23 @@ def main() -> None:
         )
 
         peak_value = peak_value_by_player.get(player_id)
+        primary_league = league_by_player.get(player_id, "-")
+        value_pct = pct_by_player.get(player_id)
         if pd.isna(peak_value) or peak_value is None:
             add_row(rows, player_id, name, "Peak markedsverdi (EUR)", None, "ingen data funnet", "INFO")
             peak_value_ok = None
         else:
             peak_value = int(peak_value)
-            peak_value_ok = peak_value <= MAX_MARKET_VALUE_EUR
+            peak_value_ok = pd.notna(value_pct) and value_pct <= MARKET_VALUE_PERCENTILE_CUTOFF
             add_row(
                 rows, player_id, name, "Peak markedsverdi (EUR)",
-                peak_value, f"terskel <= {MAX_MARKET_VALUE_EUR:,}".replace(",", " "),
+                peak_value, f"hovedliga: {primary_league}",
+                "INFO",
+            )
+            add_row(
+                rows, player_id, name, "Peak-verdi percentil i hovedliga",
+                round(float(value_pct), 3) if pd.notna(value_pct) else None,
+                f"terskel <= {MARKET_VALUE_PERCENTILE_CUTOFF} (median i {primary_league})",
                 "PASS" if peak_value_ok else "FAIL",
             )
 

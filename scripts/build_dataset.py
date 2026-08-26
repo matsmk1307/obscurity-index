@@ -22,7 +22,14 @@ PERIOD_START_SEASON = 2012  # 2012/13 -- appearances.csv has no data before 2012
 PERIOD_END_SEASON = 2019  # 2019/20
 
 MAX_MINUTES = 9_000  # ~100 kamper -- strammet inn fra 18 000 (se chat), 68 % passerte da
-MAX_MARKET_VALUE_EUR = 7_000_000  # justert opp fra 3M etter testutvalg-sjekk (se chat)
+
+# Markedsverdi-terskel: liga-relativ percentil, ikke en fast EUR-sum. En flat
+# terskel (testet: 7M) straffet Premier League uforholdsmessig hardt (PL-markedet
+# er strukturelt dyrere) og ga Ligue 1 en kunstig høy "obskur-rate" (26,6 % mot
+# PL sine 13,4 %, se chat). Percentilen regnes blant alle spillere med samme
+# hovedliga (mest minutter i perioden), så "obskur på verdi" betyr det samme
+# uansett hvilken liga du tilhører.
+MARKET_VALUE_PERCENTILE_CUTOFF = 0.5  # under/lik median peak-verdi i egen hovedliga
 
 # Topplag-liste fra obskur-spiller-dataset-plan.md, pkt. 3. Scope: all-time
 # (hele karrieren, ikke bare studieperioden) -- se begrunnelse i chat/plan.
@@ -99,15 +106,36 @@ def main() -> None:
         "peak_market_value_eur"
     )
 
+    # Hovedliga = ligaen der spilleren har flest minutter i studieperioden.
+    primary_league = (
+        in_period.groupby(["player_id", "competition_id"])["minutes_played"]
+        .sum()
+        .reset_index()
+        .sort_values("minutes_played", ascending=False)
+        .drop_duplicates("player_id")
+        .set_index("player_id")["competition_id"]
+        .rename("primary_league")
+    )
+
     summary = career_agg.set_index("player_id")
     summary = summary.join(peak_value, how="left")
+    summary = summary.join(primary_league, how="left")
     summary["ever_played_top_club"] = summary.index.isin(ever_top_club_set)
     summary["played_in_period"] = summary.index.isin(players_in_period)
+
+    # Percentil-rang av peak-verdi blant spillere med samme hovedliga (kun
+    # relevant/meningsfullt for studiepopulasjonen, dvs. played_in_period).
+    in_pop = summary[summary["played_in_period"]]
+    value_pct_in_league = in_pop.groupby("primary_league")["peak_market_value_eur"].rank(
+        pct=True
+    )
+    summary["peak_value_pct_in_league"] = value_pct_in_league
+
     summary["passes_obscurity_filter"] = (
         (summary["total_minutes_top5"] <= MAX_MINUTES)
         & summary["played_in_period"]
         & (~summary["ever_played_top_club"])
-        & (summary["peak_market_value_eur"] <= MAX_MARKET_VALUE_EUR)
+        & (summary["peak_value_pct_in_league"] <= MARKET_VALUE_PERCENTILE_CUTOFF)
     )
     # Restrict output to the study population: players who actually appeared
     # in a top-5 league during 2012/13-2019/20 (pkt. 1 in the plan).
