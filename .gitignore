@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Rådata fra Kaggle (~700MB, én fil over GitHubs 100MB-grense) -- last ned på
+# nytt med scripts/download_data.py i stedet for å versjonere den.
+data/raw/

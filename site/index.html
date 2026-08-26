@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obscurity Index</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --border: #2a2e38;
+    --text: #e8e9ec;
+    --muted: #9aa0ab;
+    --accent: #6ee7b7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 3rem 1.5rem 1.5rem;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0 0 0.5rem;
+    font-size: 2.2rem;
+    letter-spacing: -0.02em;
+  }
+  header p {
+    margin: 0;
+    color: var(--muted);
+    max-width: 640px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 4rem;
+  }
+  .criteria {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1.5rem 0 2.5rem;
+  }
+  .criteria span {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  thead th {
+    text-align: left;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border);
+  }
+  tbody td {
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.92rem;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: rgba(255,255,255,0.03); }
+  .rank {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    width: 2.5rem;
+  }
+  .name { font-weight: 600; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .score {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  th.num { text-align: right; }
+  .muted { color: var(--muted); font-size: 0.82rem; }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    padding: 2rem 0 3rem;
+  }
+  @media (max-width: 640px) {
+    .hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🕵️ Obscurity Index</h1>
+    <p>De 50 mest obskure fotballspillerne i Premier League, La Liga, Serie A, Bundesliga og Ligue 1, 2012/13&ndash;2019/20 &mdash; spillere med lite spilletid, lav markedsverdi, og som aldri har spilt for et av storklubbene.</p>
+  </header>
+  <main>
+    <div class="criteria">
+      <span>&le; 9 000 ligaminutter (~100 kamper)</span>
+      <span>&ge; 30 kamper</span>
+      <span>Aldri i topplag</span>
+      <span>&le; 7M&euro; peak markedsverdi</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th class="rank">#</th>
+          <th>Spiller</th>
+          <th class="hide-mobile">Nasjonalitet</th>
+          <th class="hide-mobile">Posisjon</th>
+          <th class="num">Kamper</th>
+          <th class="num hide-mobile">Minutter</th>
+          <th class="num">Peak-verdi</th>
+          <th class="num">Score</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <p class="muted" style="margin-top:1.5rem">
+      Kilde: <a href="https://www.kaggle.com/datasets/davidcariboo/player-scores" style="color:inherit">davidcariboo/player-scores</a> (Transfermarkt-data via Kaggle).
+      Score = gjennomsnitt av inverterte percentil-ranger for karriereminutter og peak markedsverdi.
+    </p>
+  </main>
+  <footer>obscurity-index</footer>
+
+  <script src="data.js"></script>
+  <script>
+    const eur = (v) => new Intl.NumberFormat("nb-NO", { maximumFractionDigits: 0 }).format(v) + " €";
+
+    const rows = document.getElementById("rows");
+    PLAYERS.forEach((p) => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td class="rank">${p.rank}</td>
+        <td class="name">${p.name}</td>
+        <td class="hide-mobile">${p.nationality}</td>
+        <td class="hide-mobile">${p.primary_position ?? ""}</td>
+        <td class="num">${p.total_appearances}</td>
+        <td class="num hide-mobile">${p.total_minutes_top5}</td>
+        <td class="num">${eur(p.peak_market_value_eur)}</td>
+        <td class="num score">${(p.obscurity_score * 100).toFixed(1)}</td>
+      `;
+      rows.appendChild(tr);
+    });
+  </script>
+</body>
+</html>

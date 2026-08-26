@@ -1,0 +1,1552 @@
+rank,player_id,name,clubs,leagues,nationality,primary_position,total_minutes_top5,total_appearances,peak_market_value_eur,obscurity_score
+1,169533,Alejandro Rodríguez,Cesena FC; UC Sampdoria; FC Empoli,Serie A,Spain,Attack,877,32,800000.0,0.991779497098646
+2,282672,Benito Ramírez,UD Las Palmas,La Liga,Spain,Attack,1012,45,700000.0,0.9912959381044487
+3,198473,Kevin Mayi,AS Saint-Étienne; GFC Ajaccio; Stade Brestois 29,Ligue 1,Gabon,Attack,1031,32,1000000.0,0.971953578336557
+4,203516,Nuke Mfulu,Stade Reims,Ligue 1,DR Congo,Midfield,1450,45,800000.0,0.9698581560283688
+5,238630,Quentin Cornette,Montpellier HSC; Amiens SC,Ligue 1,France,Attack,1146,35,1000000.0,0.9692134107027723
+6,33535,Valdet Rama,Real Valladolid CF,La Liga,Albania,Attack,1152,31,1000000.0,0.9687298517085752
+7,240349,Cristiano Lombardi,Società Sportiva Lazio S.p.A.; Benevento Calcio,Serie A,Italy,Attack,1542,35,800000.0,0.9666344294003868
+8,116792,Stefan Lex,FC Ingolstadt 04,Bundesliga,Germany,Attack,1198,34,1000000.0,0.9661508704061896
+9,29604,Riccardo Cazzola,Atalanta BC; Cesena FC,Serie A,Italy,Midfield,1245,33,1000000.0,0.9648613797549968
+10,221986,Héctor Hernández,Real Zaragoza; Real Sociedad; Granada CF; Deportivo Alavés,La Liga,Spain,Defender,1596,32,600000.0,0.9647001934235977
+11,40975,Marcos,ESTAC Troyes,Ligue 1,Brazil,Attack,1359,33,1000000.0,0.9587362991618311
+12,170916,Loïc Puyo,AS Nancy-Lorraine; Angers SCO,Ligue 1,France,Midfield,1591,30,900000.0,0.9564796905222437
+13,30802,Óscar Díaz,UD Almería,La Liga,Spain,Attack,1196,30,1200000.0,0.9548678272082527
+14,176133,Hernán Santana,UD Las Palmas,La Liga,Spain,Midfield,1567,35,1000000.0,0.9489039329464861
+15,14977,Christoph Janker,Hertha BSC; FC Augsburg,Bundesliga,Germany,Defender,1846,43,800000.0,0.9479368149580916
+16,292820,Aloïs Confais,ESTAC Troyes,Ligue 1,France,Midfield,1819,33,900000.0,0.9461637653127015
+17,178019,Abdoulaye Keita,SC Bastia,Ligue 1,Mali,Midfield,1948,40,600000.0,0.9448742746615086
+18,241307,Finn Porath,Hamburger SV,Bundesliga,Germany,Midfield,1971,32,600000.0,0.9426176660219213
+19,79352,Quique González,UD Almería; SD Eibar,La Liga,Spain,Attack,671,30,1500000.0,0.9401998710509349
+20,41541,Danny Blum,Eintracht Frankfurt,Bundesliga,Germany,Attack,820,30,1500000.0,0.938588007736944
+21,140126,Fernando Aristeguieta,FC Nantes,Ligue 1,Venezuela,Attack,861,33,1500000.0,0.9382656350741457
+22,40456,Sandro Sirigu,SV Darmstadt 98,Bundesliga,Germany,Midfield,1929,36,900000.0,0.9382656350741457
+23,23367,Alessio Sestu,Siena FC; Chievo Verona; UC Sampdoria,Serie A,Italy,Attack,1988,41,800000.0,0.936976144422953
+24,67542,Erik Morán,Athletic Bilbao; CD Leganés,La Liga,Spain,Midfield,1819,35,1000000.0,0.9350419084461637
+25,340070,Simone Edera,Torino FC; Bologna Football Club 1909,Serie A,Italy,Attack,1038,38,1500000.0,0.9340747904577692
+26,81998,Jaime Romero,Granada CF; CA Osasuna,La Liga,Spain,Attack,1146,30,1500000.0,0.9316569954867827
+27,44679,Jean-Baptiste Pierazzi,AC Ajaccio,Ligue 1,France,Midfield,1873,33,1000000.0,0.9310122501611864
+28,199132,Nono,Real Betis Balompié,La Liga,Spain,Midfield,1890,37,1000000.0,0.9300451321727918
+29,331389,Andrés Tello,FC Empoli,Serie A,Colombia,Midfield,1214,35,1500000.0,0.9282720825274017
+30,404688,Waldo Rubio,Real Valladolid CF,La Liga,Spain,Attack,1741,39,1200000.0,0.9277885235332044
+31,31451,Torsten Oehrl,FC Augsburg; Eintracht Braunschweig,Bundesliga,Germany,Attack,1591,38,1250000.0,0.9268214055448099
+32,60761,Taleb Tawatha,Eintracht Frankfurt,Bundesliga,Israel,Defender,1251,30,1500000.0,0.9266602192134107
+33,439914,John Yeboah,Hannover 96; VfL Wolfsburg,Bundesliga,Ecuador,Attack,1266,35,1500000.0,0.9253707285622179
+34,141654,Michele Fornasier,UC Sampdoria; Delfino Pescara 1936,Serie A,Italy,Defender,2133,32,800000.0,0.9237588652482269
+35,283001,Noah Joel Sarenren Bazee,Hannover 96; FC Augsburg,Bundesliga,,Attack,1312,46,1500000.0,0.9221470019342359
+36,346332,Nassim Boujellab,FC Schalke 04; Hannover 96,Bundesliga,Morocco,Midfield,1396,30,1500000.0,0.9186009026434558
+37,274571,Laurent Dos Santos,EA Guingamp,Ligue 1,France,Defender,2154,34,900000.0,0.9161831076724694
+38,146143,Zinédine Machach,FC Toulouse; Olympique Marseille,Ligue 1,France,Midfield,1499,31,1500000.0,0.9140876853642811
+39,67639,Andrey Galabinov,Genoa CFC,Serie A,Bulgaria,Attack,1554,32,1500000.0,0.9118310767246938
+40,184473,Haris Duljevic,Nîmes Olympique,Ligue 1,Bosnia-Herzegovina,Attack,1282,34,1600000.0,0.9098968407479046
+41,69653,Garath McCleary,Reading FC,Premier League,Jamaica,Attack,1571,31,1500000.0,0.9097356544165055
+42,21942,Davide Moscardelli,Chievo Verona; Bologna Football Club 1909,Serie A,Italy,Attack,1155,33,1800000.0,0.9031270148291425
+43,119622,Javi Lara,SD Eibar,La Liga,Spain,Midfield,1692,31,1500000.0,0.9028046421663443
+44,39690,Danilo Soddimo,Delfino Pescara 1936; Frosinone Calcio,Serie A,Italy,Midfield,2049,39,1200000.0,0.9026434558349452
+45,85372,Enric Saborit,Athletic Bilbao,La Liga,Spain,Defender,2066,33,1200000.0,0.9013539651837524
+46,197743,Filippo Costa,Chievo Verona; SPAL,Serie A,Italy,Defender,2208,39,1000000.0,0.9003868471953578
+47,199274,Mattia Sprocati,Parma Calcio 1913,Serie A,Italy,Attack,1232,37,1800000.0,0.9002256608639587
+48,111163,Gaël Angoula,SC Bastia; Angers SCO,Ligue 1,France,Defender,2322,31,900000.0,0.898936170212766
+49,27487,Francisco Molinero,Real Betis Balompié; Getafe CF,La Liga,Spain,Defender,1767,31,1500000.0,0.898936170212766
+50,53399,Adamo Coulibaly,RC Lens,Ligue 1,France,Attack,2458,33,750000.0,0.8942617666021921
+51,72286,Héctor Rodas,Levante UD,La Liga,Spain,Defender,2295,33,1000000.0,0.8894261766602192
+52,57348,Thomas Ayasse,AS Nancy-Lorraine; ESTAC Troyes,Ligue 1,France,Midfield,2185,31,1250000.0,0.884107027724049
+53,101913,Ramos Borges Emerson,US Livorno 1915,Serie A,Brazil,Defender,2568,31,600000.0,0.8839458413926499
+54,234006,Keagan Dolly,Montpellier HSC,Ligue 1,South Africa,Attack,1985,55,1500000.0,0.8837846550612508
+55,190333,Farès Bahlouli,Olympique Lyon; AS Monaco; LOSC Lille,Ligue 1,France,Midfield,771,31,2000000.0,0.8821727917472598
+56,57358,Arnold Bouka Moutou,Angers SCO; Dijon FCO,Ligue 1,Congo,Defender,2396,42,1000000.0,0.880722114764668
+57,170478,Axel Ngando,Stade Rennais FC; SC Bastia,Ligue 1,France,Midfield,2213,46,1250000.0,0.8800773694390716
+58,57466,Thiago Xavier,ESTAC Troyes,Ligue 1,Brazil,Midfield,2399,36,1000000.0,0.8800773694390716
+59,632741,Iker Losada,Celta de Vigo,La Liga,Spain,Attack,1596,47,1800000.0,0.8797549967762733
+60,124517,Sebastian Kerk,SC Freiburg; 1.FC Nuremberg,Bundesliga,Germany,Midfield,2019,50,1500000.0,0.8795938104448743
+61,29351,Bocundji Ca,Stade Reims,Ligue 1,Guinea-Bissau,Midfield,2026,43,1500000.0,0.878949065119278
+62,57943,Aarón Ñíguez,Elche CF,La Liga,Spain,Attack,2028,43,1500000.0,0.8786266924564796
+63,278578,Andrea Nalini,FC Crotone,Serie A,Italy,Attack,2457,40,1000000.0,0.8762088974854932
+64,111057,Idriss Saadi,AS Saint-Étienne; RC Strasbourg Alsace,Ligue 1,Algeria,Attack,1129,36,2000000.0,0.8747582205029014
+65,77603,Dejan Lazarevic,Chievo Verona; US Sassuolo,Serie A,Slovenia,Attack,1154,32,2000000.0,0.8731463571889104
+66,237617,Cristian Herrera,Elche CF,La Liga,Spain,Attack,2096,55,1500000.0,0.8728239845261122
+67,138949,Mohamed Larbi,GFC Ajaccio,Ligue 1,Tunisia,Midfield,2285,30,1250000.0,0.8713733075435204
+68,287600,Paweł Jaroszyński,Chievo Verona,Serie A,Poland,Defender,2670,43,650000.0,0.8702450032237267
+69,60604,Eric Tié Bi,Thonon Évian Grand Genève FC,Ligue 1,Cote d'Ivoire,Midfield,2533,39,1000000.0,0.8684719535783365
+70,50487,Christian Santos,Deportivo Alavés,La Liga,Venezuela,Attack,1263,31,2000000.0,0.8683107672469375
+71,3975,Domi Kumbela,Eintracht Braunschweig,Bundesliga,DR Congo,Attack,1939,30,1750000.0,0.8678272082527402
+72,265763,Thierry Ambrose,FC Metz,Ligue 1,Guadeloupe,Attack,1281,41,2000000.0,0.8666989039329465
+73,238981,Vittorio Parigini,Chievo Verona; Benevento Calcio; Torino FC,Serie A,Italy,Attack,1292,45,2000000.0,0.8654094132817537
+74,117509,Chris Philipps,FC Metz,Ligue 1,Luxembourg,Midfield,2373,31,1250000.0,0.8646034816247583
+75,443222,Marc Cardona,SD Eibar; CA Osasuna,La Liga,Spain,Attack,2198,76,1500000.0,0.8644422952933591
+76,56912,Levan Mchedlidze,FC Empoli,Serie A,Georgia,Attack,2211,64,1500000.0,0.8620245003223727
+77,315862,Filippo Melegoni,Atalanta BC,Serie A,Italy,Midfield,1487,43,2000000.0,0.8573500967117988
+78,85208,Matteo Scozzarella,Atalanta BC; Parma Calcio 1913,Serie A,Italy,Midfield,2629,44,1000000.0,0.8570277240490006
+79,149946,Raphael Martinho,Hellas Verona; AC Carpi,Serie A,Brazil,Midfield,1520,31,2000000.0,0.8557382333978079
+80,223890,Rober Correa,RCD Espanyol Barcelona; SD Eibar,La Liga,Spain,Defender,2539,34,1200000.0,0.8557382333978079
+81,22217,Roberto Vitiello,Siena FC; Palermo FC,Serie A,Italy,Defender,2734,36,900000.0,0.8554158607350096
+82,412095,Ihsan Sacko,OGC Nice; RC Strasbourg Alsace,Ligue 1,France,Attack,1545,41,2000000.0,0.8547711154094133
+83,524929,Kévin Zohi,RC Strasbourg Alsace,Ligue 1,Mali,Attack,1567,61,2000000.0,0.8536428110896196
+84,424709,Cheick Timite,Amiens SC,Ligue 1,Cote d'Ivoire,Attack,1569,30,2000000.0,0.8528368794326242
+85,237499,Aleksandar Sedlar,RCD Mallorca,La Liga,Serbia,Defender,2757,42,900000.0,0.8528368794326241
+86,111528,Anthony Gonçalves,RC Strasbourg Alsace,Ligue 1,France,Midfield,2813,47,600000.0,0.8523533204384268
+87,60543,Mathieu Gorgelin,Olympique Lyon,Ligue 1,France,Goalkeeper,2668,30,1000000.0,0.8520309477756287
+88,57144,Chahir Belghazouani,AC Ajaccio,Ligue 1,Morocco,Attack,2323,37,1500000.0,0.8496131528046422
+89,43257,Romain Brégerie,FC Ingolstadt 04,Bundesliga,France,Defender,2582,39,1200000.0,0.8494519664732431
+90,364233,Sidy Sarr,Nîmes Olympique,Ligue 1,Senegal,Midfield,1622,31,2000000.0,0.8483236621534493
+91,164937,Clarck N'Sikulu,Thonon Évian Grand Genève FC,Ligue 1,DR Congo,Attack,2342,54,1500000.0,0.8481624758220503
+92,223572,Kai Pröger,SC Paderborn 07,Bundesliga,Germany,Attack,2079,31,1800000.0,0.8470341715022566
+93,109720,Joffrey Cuffaut,AS Nancy-Lorraine,Ligue 1,France,Defender,2570,30,1250000.0,0.8444551901998711
+94,5687,Rudy Riou,RC Lens,Ligue 1,France,Goalkeeper,2812,32,900000.0,0.8438104448742747
+95,56808,Quentin Othon,ESTAC Troyes,Ligue 1,France,Midfield,2819,40,900000.0,0.8425209542230818
+96,10289,Andrija Delibasic,Rayo Vallecano,La Liga,Montenegro,Attack,1248,31,2200000.0,0.8413926499032882
+97,55385,Granddi N'Goyi,ESTAC Troyes; Palermo FC,Ligue 1; Serie A,DR Congo,Midfield,2606,36,1250000.0,0.8402643455834946
+98,41458,Robert Tesche,Fortuna Düsseldorf; Hamburger SV,Bundesliga,Germany,Midfield,1820,38,2000000.0,0.8391360412637008
+99,42072,Tobias Kempe,SV Darmstadt 98,Bundesliga,Germany,Midfield,2627,55,1250000.0,0.8389748549323017
+100,208715,Fredy Hinestroza,Getafe CF,La Liga,Colombia,Attack,1831,33,2000000.0,0.8380077369439072
+101,149540,Zakarya Bergdich,Real Valladolid CF; Genoa CFC,La Liga; Serie A,Morocco,Defender,2270,33,1700000.0,0.8378465506125081
+102,2334,Marcel Ndjeng,Hertha BSC,Bundesliga,Cameroon,Midfield,2462,33,1500000.0,0.837685364281109
+103,46162,Nikola Djurdjic,SpVgg Greuther Fürth; FC Augsburg,Bundesliga,Serbia,Attack,1839,31,2000000.0,0.8370406189555126
+104,14041,Mikele Leigertwood,Reading FC,Premier League,Antigua and Barbuda,Midfield,2646,30,1250000.0,0.8363958736299162
+105,13460,Lee Grant,Stoke City,Premier League,England,Goalkeeper,2790,31,1000000.0,0.8355899419729207
+106,45389,Samuel Di Carmine,Hellas Verona,Serie A,Italy,Attack,2302,46,1700000.0,0.8352675693101226
+107,54916,Jonathan Rossini,UC Sampdoria; US Sassuolo,Serie A,Switzerland,Defender,2502,31,1500000.0,0.8347840103159252
+108,203764,Pierre-Yves Polomat,AS Saint-Étienne,Ligue 1,Martinique,Defender,2505,44,1500000.0,0.8341392649903288
+109,537127,Théo Sainte-Luce,Nîmes Olympique,Ligue 1,France,Defender,1921,35,2000000.0,0.8336557059961316
+110,48805,Mads Albaek,Stade Reims,Ligue 1,Denmark,Midfield,2265,39,1750000.0,0.8336557059961315
+111,8108,Lluis Sastre,Real Valladolid CF; CD Leganés; SD Huesca,La Liga,Spain,Midfield,2521,48,1500000.0,0.8331721470019342
+112,583510,Miguel Rubio,Getafe CF,La Liga,Spain,Defender,1922,34,2000000.0,0.8331721470019342
+113,16888,Federico Agliardi,Bologna Football Club 1909; Cesena FC,Serie A,Italy,Goalkeeper,2765,32,1100000.0,0.8330109606705351
+114,268555,Harrison Manzala,Amiens SC; Angers SCO,Ligue 1,DR Congo,Attack,1926,45,2000000.0,0.8325274016763379
+115,231941,Khalid Boutaïb,GFC Ajaccio,Ligue 1,Morocco,Attack,1928,31,2000000.0,0.8322050290135397
+116,170938,Bryan Pelé,FC Lorient; ESTAC Troyes,Ligue 1,France,Midfield,2529,54,1500000.0,0.8318826563507414
+117,684062,Hianga'a Mbock,Stade Brestois 29,Ligue 1,France,Midfield,1434,33,2200000.0,0.831076724693746
+118,426790,Ngonda Muzinga,Dijon FCO,Ligue 1,DR Congo,Defender,2849,36,1000000.0,0.8288201160541586
+119,126692,Yassine Jebbour,Stade Rennais FC; AS Nancy-Lorraine; Montpellier HSC; SC Bastia,Ligue 1,Morocco,Defender,2860,42,1000000.0,0.8284977433913605
+120,57935,Álvaro Giménez,RCD Mallorca; Elche CF,La Liga,Spain,Attack,819,32,2500000.0,0.8275306254029658
+121,167228,Raúl Lizoain,UD Las Palmas,La Liga,Spain,Goalkeeper,2868,32,1000000.0,0.8272082527401676
+122,66415,Abdou Traoré,FC Girondins Bordeaux,Ligue 1,Mali,Midfield,2776,59,1200000.0,0.8265635074145713
+123,51977,Pavao Pervan,VfL Wolfsburg,Bundesliga,Austria,Goalkeeper,3015,34,800000.0,0.8264023210831721
+124,121990,Wellington Silva,UD Almería,La Liga,Brazil,Attack,1987,31,2000000.0,0.8257575757575757
+125,1363,Christian Wetklo,1.FSV Mainz 05,Bundesliga,Germany,Goalkeeper,2882,33,1000000.0,0.8255963894261766
+126,66783,Charlison Benschop,Stade Brestois 29; Hannover 96,Ligue 1; Bundesliga,Curacao,Attack,1990,43,2000000.0,0.8251128304319794
+127,16474,Alexander Baumjohann,Hertha BSC,Bundesliga,Germany,Midfield,954,33,2500000.0,0.8247904577691811
+128,186988,Sven Michel,SC Paderborn 07,Bundesliga,Germany,Attack,2748,85,1250000.0,0.8247904577691811
+129,296378,Luca Itter,VfL Wolfsburg; SC Freiburg,Bundesliga,Germany,Defender,1992,34,2000000.0,0.8246292714377821
+130,163489,Riccardo Improta,Chievo Verona,Serie A,Italy,Attack,2431,37,1700000.0,0.8243068987749839
+131,344151,Bilal Boutobba,Olympique Marseille; Montpellier HSC,Ligue 1,France,Attack,979,33,2500000.0,0.8238233397807866
+132,371816,Dimitry Bertaud,Montpellier HSC,Ligue 1,DR Congo,Goalkeeper,2583,32,1500000.0,0.8231785944551901
+133,258519,Hidde ter Avest,Udinese Calcio,Serie A,Netherlands,Defender,2008,39,2000000.0,0.8231785944551901
+134,134983,Andrea La Mantia,US Lecce,Serie A,Italy,Attack,1029,30,2500000.0,0.8231785944551901
+135,596240,Senou Coulibaly,Dijon FCO,Ligue 1,Mali,Defender,2927,40,1000000.0,0.8223726627981947
+136,36255,Mirko Boland,Eintracht Braunschweig,Bundesliga,Germany,Midfield,2601,33,1500000.0,0.8218891038039975
+137,163582,Salvatore Molina,Atalanta BC,Serie A,Italy,Midfield,2726,38,1400000.0,0.8215667311411992
+138,52746,Nill De Pauw,EA Guingamp,Ligue 1,DR Congo,Attack,1098,41,2500000.0,0.821244358478401
+139,33763,Massimo Coda,Parma Calcio 1913; Benevento Calcio,Serie A,Italy,Attack,2275,42,1900000.0,0.821244358478401
+140,51559,Mikel Arruabarrena,SD Eibar,La Liga,Spain,Attack,2611,40,1500000.0,0.8207607994842038
+141,277093,Carlos Castro,Sporting Gijón,La Liga,Spain,Attack,2041,50,2000000.0,0.819471308833011
+142,33078,Florian Jungwirth,SV Darmstadt 98,Bundesliga,Germany,Defender,2637,35,1500000.0,0.8183430045132173
+143,55001,Matteo Rubin,Siena FC; Chievo Verona,Serie A,Italy,Defender,2641,34,1500000.0,0.8180206318504191
+144,16498,Ramazan Özcan,FC Ingolstadt 04; Bayer 04 Leverkusen,Bundesliga,Austria,Goalkeeper,2790,31,1250000.0,0.8170535138620245
+145,87479,Alexander Söderlund,AS Saint-Étienne,Ligue 1,Norway,Attack,2105,43,2000000.0,0.814635718891038
+146,63265,Igor Lewczuk,FC Girondins Bordeaux,Ligue 1,Poland,Defender,2995,38,1000000.0,0.8120567375886525
+147,140559,Raffaele Maiello,FC Empoli; Frosinone Calcio,Serie A,Italy,Midfield,2570,42,1600000.0,0.811250805931657
+148,164451,Jeff Louis,AS Nancy-Lorraine; SM Caen,Ligue 1,Haiti,Midfield,1296,36,2500000.0,0.8109284332688588
+149,129868,Cristian Battocchio,Udinese Calcio; Stade Brestois 29,Serie A; Ligue 1,Italy,Midfield,1826,40,2200000.0,0.8107672469374597
+150,72087,Andres Tuñez,Celta de Vigo,La Liga,Venezuela,Defender,2700,30,1500000.0,0.8102836879432624
+151,471474,Javi Martínez,CA Osasuna,La Liga,Spain,Midfield,1345,41,2500000.0,0.8102836879432624
+152,89643,Kévin Gomis,OGC Nice,Ligue 1,France,Defender,3126,41,900000.0,0.8093165699548679
+153,57961,Edu Albacar,Elche CF,La Liga,Spain,Defender,3026,36,1000000.0,0.8091553836234687
+154,99559,Alberto Perea,Rayo Vallecano,La Liga,Spain,Attack,2944,60,1200000.0,0.8088330109606705
+155,58437,Dani Schahin,Fortuna Düsseldorf; 1.FSV Mainz 05; SC Freiburg,Bundesliga,Germany,Attack,2171,46,2000000.0,0.8081882656350742
+156,163223,Mirko Gori,Frosinone Calcio,Serie A,Italy,Midfield,2489,38,1800000.0,0.808027079303675
+157,415194,Bakery Jatta,Hamburger SV,Bundesliga,The Gambia,Attack,1392,31,2500000.0,0.8073823339780787
+158,6457,Axel Bellinghausen,Fortuna Düsseldorf,Bundesliga,Germany,Midfield,2194,31,2000000.0,0.8070599613152805
+159,335245,Marc Navarro,RCD Espanyol Barcelona; Watford FC; CD Leganés,La Liga; Premier League,Spain,Midfield,2199,37,2000000.0,0.806415215989684
+160,126542,Mohamed Yattara,ESTAC Troyes; Olympique Lyon; Angers SCO,Ligue 1,Guinea,Attack,2565,63,1750000.0,0.806415215989684
+161,2201,Lukas Kruse,SC Paderborn 07,Bundesliga,Germany,Goalkeeper,3060,34,1000000.0,0.806254029658285
+162,124901,Benjamin Leroy,Dijon FCO,Ligue 1,France,Goalkeeper,2889,33,1250000.0,0.8060928433268859
+163,55472,Rafael Marques,Hellas Verona,Serie A,Brazil,Defender,2528,35,1800000.0,0.804803352675693
+164,89659,Shawn Parker,1.FSV Mainz 05; FC Augsburg,Bundesliga,Germany,Attack,1441,37,2500000.0,0.804803352675693
+165,165722,Antonio Di Gaudio,AC Carpi; Parma Calcio 1913,Serie A,Italy,Attack,2211,41,2000000.0,0.8043197936814959
+166,48081,Christian Strohdiek,SC Paderborn 07,Bundesliga,Germany,Defender,2975,38,1200000.0,0.8023855577047067
+167,111527,Mathieu Duhamel,SM Caen; Thonon Évian Grand Genève FC,Ligue 1,France,Attack,2228,30,2000000.0,0.8017408123791103
+168,25468,Sebastian Freis,SC Freiburg,Bundesliga,Germany,Attack,1952,36,2200000.0,0.801418439716312
+169,215652,Rafidine Abdullah,Olympique Marseille; FC Lorient,Ligue 1,Comoros,Midfield,2781,60,1500000.0,0.7999677627337202
+170,5597,Chaouki Ben Saada,ESTAC Troyes,Ligue 1,Tunisia,Attack,1144,34,2600000.0,0.799806576402321
+171,102470,Antonino Ragusa,Genoa CFC; US Sassuolo,Serie A,Italy,Attack,2256,56,2000000.0,0.7973887814313346
+172,73244,José Carlos,Rayo Vallecano; Córdoba CF,La Liga,Spain,Midfield,2257,36,2000000.0,0.7969052224371374
+173,172153,Mickaël Alphonse,Dijon FCO,Ligue 1,Guadeloupe,Defender,3297,54,900000.0,0.7964216634429401
+174,200174,Roberto Insigne,SSC Napoli,Serie A,Italy,Attack,1608,31,2500000.0,0.7951321727917473
+175,178187,Álex Alegría,Real Betis Balompié; Levante UD; Rayo Vallecano; RCD Mallorca,La Liga,Spain,Attack,2298,49,2000000.0,0.7938426821405544
+176,165400,Lloyd Palun,OGC Nice,Ligue 1,Gabon,Defender,3199,42,1000000.0,0.7933591231463573
+177,340707,Leonardo Sernicola,US Sassuolo,Serie A,Italy,Defender,2323,33,2000000.0,0.7919084461637653
+178,66280,Cristobal Jorquera,Genoa CFC; Parma Calcio 1913,Serie A,Chile,Midfield,1682,30,2500000.0,0.7915860735009671
+179,187392,Thomas Touré,FC Girondins Bordeaux; Angers SCO,Ligue 1,Cote d'Ivoire,Attack,2867,61,1500000.0,0.7899742101869761
+180,148597,Clément Maury,GFC Ajaccio,Ligue 1,France,Goalkeeper,3060,34,1250000.0,0.7877176015473888
+181,21726,Philipp Tschauner,Hannover 96,Bundesliga,Germany,Goalkeeper,2883,33,1500000.0,0.7875564152159897
+182,15166,Liam Rosenior,Hull City; Brighton & Hove Albion,Premier League,England,Defender,2726,45,1750000.0,0.7875564152159896
+183,199941,Andrea Beghetto,Genoa CFC; Frosinone Calcio,Serie A,Italy,Defender,2377,30,2000000.0,0.7873952288845907
+184,44317,Bojan Jokic,Chievo Verona; Villarreal CF,Serie A; La Liga,Slovenia,Defender,2772,37,1600000.0,0.7870728562217923
+185,203617,Rodri Tarín,CD Leganés,La Liga,Spain,Defender,2380,32,2000000.0,0.7869116698903933
+186,71273,Stefan Scepovic,Getafe CF,La Liga,Serbia,Attack,1810,34,2500000.0,0.786428110896196
+187,21769,Salvatore Masiello,Torino FC,Serie A,Italy,Defender,2653,33,1900000.0,0.7851386202450032
+188,165331,Ondrej Petrak,1.FC Nuremberg,Bundesliga,Czech Republic,Midfield,2397,33,2000000.0,0.7851386202450032
+189,138584,Luka Krajnc,Genoa CFC; Cesena FC; Frosinone Calcio,Serie A,Slovenia,Defender,2687,34,1800000.0,0.7848162475822049
+190,355104,Pepín Machín,Parma Calcio 1913,Serie A,Equatorial Guinea,Midfield,1428,37,2600000.0,0.7846550612508059
+191,142027,Pablo Hervías,Real Sociedad; Real Valladolid CF; SD Eibar,La Liga,Spain,Attack,2928,74,1500000.0,0.7844938749194068
+192,174706,Jonathan Zongo,UD Almería,La Liga,Burkina Faso,Attack,2690,45,1800000.0,0.7844938749194068
+193,79503,Lasse Sobiech,SpVgg Greuther Fürth; Hamburger SV; 1.FC Köln,Bundesliga,Germany,Defender,2401,35,2000000.0,0.7843326885880078
+194,142920,Aleksandar Trajkovski,Palermo FC; RCD Mallorca,Serie A; La Liga,North Macedonia,Attack,2405,57,2000000.0,0.7838491295938104
+195,5431,Pantxi Sirieix,FC Toulouse,Ligue 1,France,Midfield,2418,58,2000000.0,0.7835267569310123
+196,60525,Yoann Court,ESTAC Troyes; Stade Brestois 29,Ligue 1,France,Attack,2426,48,2000000.0,0.7832043842682141
+197,16831,Ken Reichel,Eintracht Braunschweig; 1.FC Union Berlin,Bundesliga,Germany,Defender,2945,34,1500000.0,0.7825596389426177
+198,133078,Syam Ben Youssef,SM Caen,Ligue 1,Tunisia,Defender,2767,35,1750000.0,0.7823984526112185
+199,188498,Brayan Perea,Società Sportiva Lazio S.p.A.; ESTAC Troyes,Serie A; Ligue 1,Colombia,Attack,1388,36,2800000.0,0.7819148936170213
+200,253316,Lebogang Phiri,EA Guingamp,Ligue 1,South Africa,Midfield,2951,46,1500000.0,0.781592520954223
+201,178540,Chaker Alhadhur,FC Nantes; SM Caen,Ligue 1,Comoros,Defender,3125,40,1250000.0,0.7801418439716312
+202,42952,Moritz Hartmann,FC Ingolstadt 04,Bundesliga,Germany,Attack,2961,44,1500000.0,0.779819471308833
+203,162079,Fede Vico,Córdoba CF; Granada CF,La Liga,Spain,Midfield,2470,57,2000000.0,0.7793359123146357
+204,132921,Aday Benítez,Girona FC,La Liga,Spain,Defender,2477,41,2000000.0,0.7786911669890393
+205,51545,Mario Bermejo,Celta de Vigo,La Liga,Spain,Attack,1935,46,2500000.0,0.7774016763378465
+206,19671,Daniel Pavlovic,Frosinone Calcio; UC Sampdoria; FC Crotone,Serie A,Bosnia-Herzegovina,Defender,3499,42,900000.0,0.7767569310122502
+207,139955,Emanuel Herrera,Montpellier HSC,Ligue 1,Argentina,Attack,1945,41,2500000.0,0.7761121856866537
+208,96758,Alessandro Crescenzi,AC Ajaccio; Delfino Pescara 1936,Ligue 1; Serie A,Italy,Defender,2213,30,2200000.0,0.7754674403610574
+209,117549,Rodri Ríos,Real Zaragoza; UD Almería,La Liga,Spain,Attack,2532,39,2000000.0,0.7735332043842682
+210,377387,Sergio Córdova,FC Augsburg,Bundesliga,Venezuela,Attack,2534,85,2000000.0,0.7728884590586718
+211,318520,Clément Michelin,FC Toulouse,Ligue 1,France,Defender,1992,42,2500000.0,0.7707930367504836
+212,37957,Alex Bruce,Hull City,Premier League,Northern Ireland,Defender,3042,42,1500000.0,0.7706318504190844
+213,84442,Leonardo Capezzi,FC Crotone; UC Sampdoria; FC Empoli,Serie A,Italy,Midfield,2792,48,1800000.0,0.7699871050934881
+214,61464,Karim Yoda,Getafe CF,La Liga,France,Attack,2007,36,2500000.0,0.7696647324306899
+215,61344,Borja Viguera,Athletic Bilbao; Sporting Gijón,La Liga,Spain,Attack,2012,46,2500000.0,0.7690199871050936
+216,337036,Florent Muslija,Hannover 96,Bundesliga,Kosovo,Attack,902,36,3000000.0,0.7683752417794971
+217,42935,Nikolaos Karabelas,Levante UD,La Liga,Greece,Defender,3061,41,1500000.0,0.7680528691166989
+218,6287,Marco Caligiuri,1.FSV Mainz 05; Eintracht Braunschweig,Bundesliga,Germany,Defender,2024,34,2500000.0,0.7677304964539007
+219,51663,Pedro Alcalá,Girona FC,La Liga,Spain,Defender,3466,46,1000000.0,0.7675693101225016
+220,315283,Kaj Sierhuis,Stade Reims,Ligue 1,Netherlands,Attack,940,41,3000000.0,0.7674081237911026
+221,33042,Migjen Basha,Torino FC,Serie A,Albania,Midfield,3074,51,1500000.0,0.7670857511283043
+222,22598,Gianni Munari,UC Sampdoria; Parma Calcio 1913; Cagliari Calcio,Serie A,Italy,Midfield,2038,50,2500000.0,0.7662798194713089
+223,37216,Ceyhun Gülselam,Hannover 96,Bundesliga,Turkey,Midfield,2050,31,2500000.0,0.7648291424887169
+224,167444,Luca Paganini,Frosinone Calcio,Serie A,Italy,Attack,2958,41,1700000.0,0.7643455834945196
+225,126659,Loris Néry,Valenciennes FC,Ligue 1,France,Defender,2946,40,1750000.0,0.7617666021921341
+226,57598,Klaus Gjasula,SC Paderborn 07,Bundesliga,Albania,Midfield,3660,51,900000.0,0.7607994842037396
+227,43847,Ronny,Hertha BSC,Bundesliga,Brazil,Midfield,2126,47,2500000.0,0.7590264345583495
+228,143039,Damjan Djokovic,GFC Ajaccio,Ligue 1,Croatia,Midfield,2380,35,2200000.0,0.7590264345583495
+229,57389,Luigi Giorgi,Palermo FC; Atalanta BC; Cesena FC,Serie A,Italy,Midfield,3564,54,1000000.0,0.7588652482269505
+230,52200,Dominik Kaiser,RB Leipzig,Bundesliga,Germany,Midfield,1222,35,3000000.0,0.7587040618955513
+231,35493,Stephan Fürstner,SpVgg Greuther Fürth,Bundesliga,Germany,Midfield,2660,30,2000000.0,0.758059316569955
+232,43266,Stephen Quinn,Hull City,Premier League,Ireland,Midfield,2139,43,2500000.0,0.7580593165699548
+233,60607,Pierrick Valdivia,RC Lens; Nîmes Olympique,Ligue 1,France,Midfield,2970,39,1750000.0,0.7575757575757576
+234,193142,Mathieu Michel,Angers SCO,Ligue 1,France,Goalkeeper,2667,30,2000000.0,0.7570921985815603
+235,33729,Stefano Celozzi,Eintracht Frankfurt,Bundesliga,Germany,Defender,1268,38,3000000.0,0.7558027079303675
+236,327126,Anuar,Real Valladolid CF,La Liga,Morocco,Attack,3203,59,1500000.0,0.7551579626047711
+237,93701,Christopher Glombard,Stade Reims,Ligue 1,Martinique,Defender,2983,45,1750000.0,0.754996776273372
+238,240244,Cristian Dell'Orco,US Sassuolo; FC Empoli; US Lecce,Serie A,Italy,Defender,3606,54,1000000.0,0.7546744036105739
+239,203778,Iván López,Levante UD,La Liga,Spain,Defender,3222,42,1500000.0,0.7541908446163765
+240,57367,Johann Carrasso,FC Metz; Stade Reims,Ligue 1,France,Goalkeeper,2696,31,2000000.0,0.7538684719535784
+241,94305,Uros Cosic,Delfino Pescara 1936; FC Empoli,Serie A,Serbia,Defender,3413,43,1250000.0,0.7538684719535784
+242,170966,Jérémie Bela,Dijon FCO,Ligue 1,Angola,Attack,1294,45,3000000.0,0.7535460992907801
+243,136181,Havard Nielsen,Eintracht Braunschweig; SC Freiburg,Bundesliga,Norway,Attack,2698,46,2000000.0,0.753223726627982
+244,255322,Josip Posavec,Palermo FC,Serie A,Croatia,Goalkeeper,2700,30,2000000.0,0.7525789813023855
+245,22860,Jesper Hansen,Thonon Évian Grand Genève FC; SC Bastia,Ligue 1,Denmark,Goalkeeper,3641,41,1000000.0,0.75177304964539
+246,39518,Ben Turner,Cardiff City,Premier League,England,Defender,2721,31,2000000.0,0.7511283043197936
+247,28705,Dusan Veskovac,FC Toulouse; ESTAC Troyes,Ligue 1,Serbia,Defender,3454,41,1250000.0,0.7496776273372019
+248,31208,Éloge Enza-Yamissi,ESTAC Troyes; Valenciennes FC,Ligue 1,Central African Republic,Midfield,3089,47,1700000.0,0.7496776273372018
+249,159288,Arlind Ajeti,Frosinone Calcio; Torino FC; FC Crotone,Serie A,Albania,Defender,2732,41,2000000.0,0.7495164410058027
+250,187624,Fabian Bredlow,1.FC Nuremberg,Bundesliga,Germany,Goalkeeper,3286,37,1500000.0,0.7487105093488072
+251,60588,Abdoul Camara,FC Sochaux-Montbéliard; Angers SCO; EA Guingamp,Ligue 1,Guinea,Attack,3469,57,1250000.0,0.7485493230174081
+252,212937,Alexy Bosetti,OGC Nice,Ligue 1,France,Attack,1420,47,3000000.0,0.7480657640232109
+253,49319,Mark Bunn,Norwich City; Aston Villa,Premier League,England,Goalkeeper,2753,33,2000000.0,0.7470986460348163
+254,160561,Fabio Lucioni,Benevento Calcio; US Lecce,Serie A,Italy,Defender,3853,44,900000.0,0.7469374597034172
+255,28817,Gabriele Perico,Cagliari Calcio; Cesena FC,Serie A,Italy,Defender,3879,57,900000.0,0.7445196647324307
+256,10885,Karim Guédé,SC Freiburg,Bundesliga,Slovakia,Attack,3531,66,1250000.0,0.743391360412637
+257,418658,Charles Abi,OGC Nice; Angers SCO; Dijon FCO; AS Saint-Étienne,Ligue 1,France,Attack,1550,42,3000000.0,0.7429078014184397
+258,263627,Carlos Vigaray,Getafe CF; Deportivo Alavés,La Liga,Spain,Defender,3765,54,1000000.0,0.7425854287556415
+259,84993,Daniel Heuer Fernandes,SV Darmstadt 98,Bundesliga,Portugal,Goalkeeper,3545,40,1250000.0,0.7421018697614443
+260,89450,Alexandre Coeff,Granada CF; GFC Ajaccio,La Liga; Ligue 1,France,Defender,3356,44,1500000.0,0.7409735654416505
+261,65243,Abraham González,RCD Espanyol Barcelona,La Liga,Spain,Midfield,3365,63,1500000.0,0.7390393294648614
+262,174835,Adryan,Cagliari Calcio; FC Nantes,Serie A; Ligue 1,Brazil,Midfield,1582,31,3000000.0,0.7390393294648614
+263,72935,Raúl Rodríguez,RCD Espanyol Barcelona,La Liga,Spain,Defender,2810,43,2000000.0,0.7377498388136686
+264,60599,Samuel Souprayen,Hellas Verona,Serie A,France,Defender,3163,42,1750000.0,0.7372662798194713
+265,11268,Oliver Fink,Fortuna Düsseldorf,Bundesliga,Germany,Midfield,3594,58,1250000.0,0.7371050934880723
+266,574495,Kristoffer Askildsen,UC Sampdoria,Serie A,Norway,Midfield,1635,50,3000000.0,0.7364603481624759
+267,275361,Karim Azamoum,ESTAC Troyes,Ligue 1,France,Defender,3401,51,1500000.0,0.7362991618310767
+268,99523,Nícolas,Hellas Verona,Serie A,Brazil,Goalkeeper,4050,45,900000.0,0.7335589941972921
+269,44760,Itay Shechter,Swansea City; FC Nantes,Premier League; Ligue 1,Israel,Attack,1715,42,3000000.0,0.7332366215344939
+270,110622,Jonathan Mensah,Thonon Évian Grand Genève FC,Ligue 1,Ghana,Defender,3224,43,1750000.0,0.7330754352030948
+271,74768,Adlène Guédioura,Crystal Palace; Watford FC; Middlesbrough FC,Premier League,Algeria,Midfield,1717,50,3000000.0,0.7329142488716958
+272,118196,Jean Zimmer,Fortuna Düsseldorf,Bundesliga,Germany,Defender,2154,35,2750000.0,0.7327530625402966
+273,412092,Gaëtan Paquiez,Nîmes Olympique,Ligue 1,France,Defender,3904,57,1000000.0,0.7324306898774984
+274,225015,Carlos Akapo,SD Huesca,La Liga,Equatorial Guinea,Defender,3737,51,1200000.0,0.7321083172147003
+275,160825,Antonio Balzano,Delfino Pescara 1936; Cagliari Calcio,Serie A,Italy,Defender,4074,51,900000.0,0.7319471308833011
+276,44687,Johan Cavalli,AC Ajaccio,Ligue 1,France,Midfield,3660,51,1250000.0,0.7311411992263057
+277,78950,Sonny Kittel,Eintracht Frankfurt; FC Ingolstadt 04,Bundesliga,Germany,Attack,1759,52,3000000.0,0.7303352675693101
+278,98274,Jonathan Rivierez,FC Metz,Ligue 1,Martinique,Defender,3945,50,1000000.0,0.7301740812379109
+279,62144,Antoñito,Real Valladolid CF,La Liga,Spain,Defender,2883,45,2000000.0,0.7298517085751128
+280,14047,Jobi McAnuff,Reading FC,Premier League,Jamaica,Attack,3274,38,1750000.0,0.7295293359123146
+281,227240,Jules Iloki,FC Nantes,Ligue 1,France,Midfield,3676,72,1250000.0,0.7293681495809156
+282,57510,Aldo Angoula,Thonon Évian Grand Genève FC,Ligue 1,France,Defender,3988,50,1000000.0,0.7263056092843327
+283,401836,Bassem Srarfi,OGC Nice,Ligue 1,Tunisia,Attack,1842,56,3000000.0,0.725177304964539
+284,6278,Yoann Poulard,AC Ajaccio,Ligue 1,France,Defender,3231,36,1800000.0,0.7251773049645389
+285,226450,Iver Fossum,Hannover 96,Bundesliga,Norway,Midfield,2483,37,2500000.0,0.7245325596389426
+286,568835,Pablo Martínez,Levante UD,La Liga,Spain,Midfield,1893,32,3000000.0,0.7229206963249517
+287,5680,Toifilou Maoulida,SC Bastia,Ligue 1,France,Attack,1921,37,3000000.0,0.7221147646679562
+288,122835,Dorian Lévêque,EA Guingamp,Ligue 1,France,Defender,4068,52,1000000.0,0.7217923920051579
+289,31599,Norman Theuerkauf,Eintracht Braunschweig,Bundesliga,Germany,Midfield,3568,55,1500000.0,0.7209864603481625
+290,26407,Daniel Braaten,FC Toulouse,Ligue 1,Norway,Attack,1367,32,3300000.0,0.7208252740167633
+291,248045,Duncan Watmore,Sunderland AFC,Premier League,England,Attack,1936,37,3000000.0,0.7193745970341715
+292,238716,Théo Pellenard,FC Girondins Bordeaux; Angers SCO,Ligue 1,France,Defender,2974,43,2000000.0,0.7190522243713733
+293,169801,Cauley Woodrow,Fulham FC,Premier League,England,Attack,819,30,3500000.0,0.7185686653771761
+294,86793,Gabriele Angella,Udinese Calcio,Serie A,Italy,Defender,2977,40,2000000.0,0.7180851063829787
+295,242078,Ales Mateju,Brescia Calcio,Serie A,Czech Republic,Defender,3278,40,1900000.0,0.7180851063829787
+296,55687,Ritchie De Laet,Leicester City,Premier League,Belgium,Defender,2540,38,2500000.0,0.7177627337201805
+297,207597,Cedric Teuchert,FC Schalke 04,Bundesliga,Germany,Attack,932,33,3500000.0,0.7164732430689877
+298,124560,Samuele Longo,RCD Espanyol Barcelona; Rayo Vallecano; Hellas Verona; Cagliari Calcio; Frosinone Calcio; SD Huesca,La Liga; Serie A,Italy,Attack,3023,88,2000000.0,0.7145390070921986
+299,242532,Rober Ibáñez,Valencia CF; Granada CF; CD Leganés; Getafe CF; CA Osasuna,La Liga,Spain,Attack,2573,65,2500000.0,0.7132495164410058
+300,560725,Abdoul Kader Bamba,FC Nantes,Ligue 1,France,Attack,3039,83,2000000.0,0.7132495164410058
+301,111881,Takashi Usami,TSG 1899 Hoffenheim; FC Augsburg; Fortuna Düsseldorf,Bundesliga,Japan,Attack,2575,50,2500000.0,0.7126047711154094
+302,353211,Vágner Dias,AS Saint-Étienne,Ligue 1,Cape Verde,Attack,1069,30,3500000.0,0.7126047711154094
+303,41866,Constant Djakpa,Eintracht Frankfurt,Bundesliga,Cote d'Ivoire,Defender,3058,45,2000000.0,0.7119600257898131
+304,56802,Vincent Muratori,AS Nancy-Lorraine,Ligue 1,France,Defender,2592,32,2500000.0,0.7109929078014184
+305,62013,Anders Konradsen,Stade Rennais FC,Ligue 1,Norway,Midfield,3062,49,2000000.0,0.7100257898130238
+306,57134,Matthieu Dreyer,ESTAC Troyes; SM Caen,Ligue 1,France,Goalkeeper,4320,48,950000.0,0.7082527401676337
+307,71394,Carlos Carmona,Sporting Gijón,La Liga,Spain,Attack,3089,45,2000000.0,0.7079303675048356
+308,71204,Javi Moyano,Real Valladolid CF,La Liga,Spain,Defender,4440,55,800000.0,0.7077691811734366
+309,297784,Yan Eteki,Granada CF,La Liga,Cameroon,Midfield,3091,63,2000000.0,0.7074468085106382
+310,148004,Alin Toșca,Real Betis Balompié; Benevento Calcio,La Liga; Serie A,Romania,Defender,3097,36,2000000.0,0.7068020631850419
+311,340339,Jorge Sáenz,Celta de Vigo,La Liga,Spain,Defender,2061,30,3000000.0,0.7064796905222437
+312,193859,Patrick Erras,1.FC Nuremberg,Bundesliga,Germany,Defender,2075,33,3000000.0,0.7055125725338491
+313,13583,Clint Hill,Queens Park Rangers,Premier League,England,Defender,4036,50,1250000.0,0.7048678272082527
+314,57818,Míchel Madera,Getafe CF,La Liga,Spain,Midfield,2087,33,3000000.0,0.7045454545454546
+315,177452,Abdón Prats,RCD Mallorca,La Liga,Spain,Attack,3114,142,2000000.0,0.7042230818826564
+316,9413,Ricardo Vaz Tê,West Ham United,Premier League,Portugal,Attack,2090,36,3000000.0,0.7039007092198581
+317,73180,Martín Mantovani,CD Leganés; SD Huesca,La Liga,Argentina,Defender,4507,55,800000.0,0.7039007092198581
+318,393804,Sofian Kiyine,Chievo Verona,Serie A,Morocco,Midfield,2108,56,3000000.0,0.7026112185686654
+319,59054,Lukas Hinterseer,FC Ingolstadt 04,Bundesliga,Austria,Attack,2670,56,2500000.0,0.7021276595744681
+320,205465,Marc-Aurèle Caillard,EA Guingamp,Ligue 1,France,Goalkeeper,3791,45,1500000.0,0.701966473243069
+321,111433,Frédéric Veseli,FC Empoli,Serie A,Albania,Defender,4312,57,1000000.0,0.7018052869116699
+322,283127,Oualid El Hajjam,Amiens SC,Ligue 1,Morocco,Defender,4206,69,1200000.0,0.700193423597679
+323,43261,Gabriel Obertan,Newcastle United,Premier League,France,Attack,1372,35,3500000.0,0.7000322372662798
+324,59343,Manu Herrera,Elche CF,La Liga,Spain,Goalkeeper,3167,37,2000000.0,0.6997098646034816
+325,45475,Mahamane Traoré,OGC Nice,Ligue 1,Mali,Midfield,3169,48,2000000.0,0.6993874919406835
+326,83368,Abdoul Wahid Sissoko,Stade Brestois 29; Granada CF,Ligue 1; La Liga,Mali,Midfield,3839,48,1500000.0,0.6990651192778852
+327,71579,Iñigo Pérez,Athletic Bilbao; CA Osasuna,La Liga,Spain,Midfield,3180,60,2000000.0,0.6987427466150871
+328,61591,Zoltán Stieber,SpVgg Greuther Fürth; Hamburger SV,Bundesliga,Hungary,Midfield,2721,43,2500000.0,0.6972920696324951
+329,431698,Bosko Sutalo,Atalanta BC,Serie A,Croatia,Defender,1419,38,3500000.0,0.6971308833010961
+330,77920,Immanuel Höhn,SC Freiburg; SV Darmstadt 98,Bundesliga,Germany,Defender,3622,46,1750000.0,0.6960025789813024
+331,58295,Petar Skuletic,Montpellier HSC,Ligue 1,Serbia,Attack,907,52,3800000.0,0.6960025789813024
+332,16873,Claudio Terzi,Siena FC; Palermo FC,Serie A,Italy,Defender,3882,48,1500000.0,0.6955190199871051
+333,203504,Pierre-Yves Hamel,FC Lorient,Ligue 1,France,Attack,1495,48,3500000.0,0.6940683430045133
+334,24459,Eden Ben Basat,FC Toulouse; Stade Brestois 29,Ligue 1,Israel,Attack,2749,52,2500000.0,0.6939071566731141
+335,3942,Martin Lanig,Eintracht Frankfurt,Bundesliga,Germany,Midfield,1500,37,3500000.0,0.6932624113475178
+336,189070,Modou Barrow,Swansea City,Premier League,The Gambia,Attack,2209,51,3000000.0,0.6932624113475176
+337,68868,Guido Milán,FC Metz,Ligue 1,Argentina,Defender,3657,46,1750000.0,0.692134107027724
+338,548716,Yoël Armougom,SM Caen,Ligue 1,France,Defender,2215,38,3000000.0,0.6913281753707285
+339,310662,Timothy Tillman,1.FC Nuremberg,Bundesliga,United States,Midfield,2222,35,3000000.0,0.6910058027079304
+340,30332,Daniele Capelli,Atalanta BC; Cesena FC,Serie A,Italy,Defender,2574,31,2700000.0,0.6908446163765313
+341,38978,Christian Brüls,OGC Nice; Stade Rennais FC,Ligue 1,,Midfield,2770,43,2500000.0,0.690361057382334
+342,45464,Sercan Sararer,SpVgg Greuther Fürth; VfB Stuttgart,Bundesliga,Turkey,Midfield,2228,35,3000000.0,0.6901998710509349
+343,58379,Maximilian Beister,Hamburger SV; 1.FSV Mainz 05,Bundesliga,Germany,Attack,2229,45,3000000.0,0.6897163120567376
+344,58774,José Manuel Casado,Rayo Vallecano; Málaga CF; UD Almería,La Liga,Spain,Defender,2773,39,2500000.0,0.6893939393939394
+345,154209,Romain Métanire,FC Metz; Stade Reims,Ligue 1,Madagascar,Defender,3300,39,2000000.0,0.6893939393939394
+346,253842,Adama Niane,FC Nantes; ESTAC Troyes,Ligue 1,Mali,Attack,2232,36,3000000.0,0.6890715667311411
+347,52112,Georges Mandjeck,FC Metz,Ligue 1,Cameroon,Midfield,3309,43,2000000.0,0.6881044487427466
+348,568702,Papa Ndiaga Yade,FC Metz,Ligue 1,Mauritania,Attack,2246,62,3000000.0,0.687137330754352
+349,7763,José María Movilla,Real Zaragoza,La Liga,Spain,Midfield,2252,32,3000000.0,0.6863313990973565
+350,7739,Patxi Puñal,CA Osasuna,La Liga,Spain,Midfield,2971,48,2400000.0,0.6861702127659575
+351,33925,Jessy Moulin,AS Saint-Étienne,Ligue 1,France,Goalkeeper,4543,52,1000000.0,0.6860090264345584
+352,89618,Xabi Irureta,SD Eibar,La Liga,Spain,Goalkeeper,3330,37,2000000.0,0.6860090264345584
+353,153678,Kingsley Schindler,1.FC Köln,Bundesliga,Ghana,Attack,2257,60,3000000.0,0.685364281108962
+354,171408,Gaëtan Courtet,Stade Reims,Ligue 1,France,Attack,3755,74,1750000.0,0.6852030947775628
+355,89637,William Rémy,Montpellier HSC,Ligue 1,France,Defender,3340,43,2000000.0,0.6848807221147646
+356,119044,Marcel Sobottka,Fortuna Düsseldorf,Bundesliga,Germany,Midfield,1643,32,3500000.0,0.6845583494519665
+357,31910,Felix Kroos,SV Werder Bremen; 1.FC Union Berlin,Bundesliga,Germany,Midfield,3351,74,2000000.0,0.68391360412637
+358,171159,Leo Stulac,Parma Calcio 1913,Serie A,Slovenia,Midfield,2272,49,3000000.0,0.68391360412637
+359,132529,Jin-su Kim,TSG 1899 Hoffenheim,Bundesliga,"Korea, South",Defender,2816,34,2500000.0,0.6826241134751773
+360,68718,Yoann Touzghar,RC Lens,Ligue 1,Tunisia,Attack,3781,68,1750000.0,0.682301740812379
+361,205809,Marcus Rohdén,FC Crotone,Serie A,Sweden,Midfield,4093,60,1500000.0,0.6818181818181819
+362,56806,Vincent Nogueira,FC Sochaux-Montbéliard; RC Strasbourg Alsace,Ligue 1,France,Midfield,3364,47,2000000.0,0.6818181818181819
+363,192736,Sabin Merino,Athletic Bilbao; CD Leganés,La Liga,Spain,Attack,2304,62,3000000.0,0.6816569954867827
+364,34532,Jérémy Choplin,SC Bastia; FC Metz,Ligue 1,France,Defender,4100,48,1500000.0,0.6808510638297872
+365,164759,Paweł Wszołek,UC Sampdoria; Hellas Verona,Serie A,Poland,Midfield,2831,53,2500000.0,0.6808510638297872
+366,3762,Peter Whittingham,Cardiff City,Premier League,England,Midfield,2661,32,2750000.0,0.6806898774983882
+367,230066,Adama Mbengue,SM Caen,Ligue 1,Senegal,Defender,2334,30,3000000.0,0.6794003868471954
+368,59641,Denis Odoi,Fulham FC,Premier League,Ghana,Defender,2864,34,2500000.0,0.678755641521599
+369,44012,David García,UD Las Palmas,La Liga,Spain,Defender,4115,52,1500000.0,0.6781108961960025
+370,22635,Reynald Lemaître,EA Guingamp,Ligue 1,France,Defender,3406,43,2000000.0,0.6776273372018053
+371,60602,Yohann Thuram,ESTAC Troyes,Ligue 1,Guadeloupe,Goalkeeper,3420,38,2000000.0,0.6756931012250161
+372,73522,Matty James,Leicester City,Premier League,England,Midfield,2892,42,2500000.0,0.6752095422308189
+373,16947,Marcin Wasilewski,Leicester City,Premier League,Poland,Defender,2381,30,3000000.0,0.6748871695680206
+374,557610,Isaac Lihadji,Olympique Marseille,Ligue 1,France,Attack,437,30,4000000.0,0.6744036105738234
+375,58396,Christian Groß,SV Werder Bremen,Bundesliga,Germany,Midfield,5037,83,500000.0,0.6734364925854288
+376,136605,Carlos Carbonero,Cesena FC; UC Sampdoria,Serie A,Colombia,Midfield,2436,36,3000000.0,0.6703739522888459
+377,225462,José Mari,Real Zaragoza; Levante UD,La Liga,Spain,Midfield,4984,101,800000.0,0.6703739522888459
+378,374077,Christian Rivera,SD Eibar; SD Huesca; CD Leganés,La Liga,Spain,Midfield,2956,51,2500000.0,0.6694068343004513
+379,39893,Jérôme Le Moigne,RC Lens; GFC Ajaccio,Ligue 1,France,Midfield,4929,62,900000.0,0.6687620889748549
+380,61511,Camillo Ciano,Frosinone Calcio,Serie A,Italy,Attack,2461,33,3000000.0,0.6687620889748549
+381,62800,Adam Hlousek,1.FC Nuremberg; VfB Stuttgart,Bundesliga,Czech Republic,Defender,4263,57,1500000.0,0.6687620889748549
+382,67866,Brayan Angulo,Granada CF,La Liga,Colombia,Defender,3509,49,2000000.0,0.6684397163120568
+383,34211,Cristiano Del Grosso,Atalanta BC; Siena FC,Serie A,Italy,Defender,4618,61,1200000.0,0.6682785299806577
+384,295414,Adrián Marín,Villarreal CF; CD Leganés; Deportivo Alavés,La Liga,Spain,Defender,3516,59,2000000.0,0.6681173436492586
+385,103890,Luis Advíncula,TSG 1899 Hoffenheim; Rayo Vallecano,Bundesliga; La Liga,Peru,Defender,2466,30,3000000.0,0.6681173436492585
+386,47647,Gorka Elustondo,Real Sociedad; Athletic Bilbao; Rayo Vallecano,La Liga,Spain,Midfield,3518,65,2000000.0,0.6674725983236622
+387,331498,Jordi Mboula,AS Monaco,Ligue 1,Spain,Attack,1045,32,4000000.0,0.6673114119922631
+388,38383,Danny Williams,TSG 1899 Hoffenheim; Huddersfield Town,Bundesliga; Premier League,United States,Midfield,2755,46,2800000.0,0.6671502256608639
+389,25113,Bruno Grougi,Stade Brestois 29,Ligue 1,Martinique,Midfield,1954,30,3500000.0,0.6660219213410703
+390,68815,Felipe Trevizan,Hannover 96,Bundesliga,Brazil,Defender,2500,46,3000000.0,0.6658607350096712
+391,235412,Jawad El Yamiq,Genoa CFC,Serie A,Morocco,Defender,3539,51,2000000.0,0.6658607350096712
+392,52893,Carlão,FC Sochaux-Montbéliard; Torino FC,Ligue 1; Serie A,Brazil,Defender,3549,46,2000000.0,0.6645712443584784
+393,9966,Almen Abdi,Watford FC,Premier League,Switzerland,Midfield,1982,32,3500000.0,0.663926499032882
+394,567217,Ebrima Colley,Atalanta BC,Serie A,The Gambia,Attack,1188,39,4000000.0,0.6637653127014829
+395,5399,Kamel Chafni,Stade Brestois 29,Ligue 1,Morocco,Midfield,2205,31,3300000.0,0.6634429400386848
+396,404260,Aleksa Terzic,ACF Fiorentina,Serie A,Serbia,Defender,1195,38,4000000.0,0.6631205673758865
+397,117478,Marnon Busch,SV Werder Bremen,Bundesliga,Germany,Defender,4324,77,1500000.0,0.6626370083816893
+398,10255,Alexander Farnerud,Torino FC,Serie A,Sweden,Midfield,2530,50,3000000.0,0.662314635718891
+399,44625,Maor Melikson,Valenciennes FC,Ligue 1,Israel,Attack,3244,52,2300000.0,0.662153449387492
+400,92813,Víctor Pérez,Real Valladolid CF; Levante UD,La Liga,Spain,Midfield,3571,49,2000000.0,0.6621534493874919
+401,8206,Emmanuel Cascione,Delfino Pescara 1936; Cesena FC,Serie A,Italy,Midfield,4385,59,1500000.0,0.6597356544165055
+402,147485,Louis Schaub,1.FC Köln,Bundesliga,Austria,Midfield,1264,37,4000000.0,0.6595744680851063
+403,166683,Mamadou Sylla,RCD Espanyol Barcelona,La Liga,Senegal,Attack,2562,70,3000000.0,0.6586073500967118
+404,189940,Florian Raspentino,Olympique Marseille; Stade Brestois 29; SC Bastia; SM Caen,Ligue 1,France,Attack,4398,85,1500000.0,0.6586073500967118
+405,275249,Niklas Schmidt,SV Werder Bremen,Bundesliga,Germany,Midfield,2564,56,3000000.0,0.6581237911025145
+406,178107,Michael Santos,Málaga CF; CD Leganés,La Liga,Uruguay,Attack,1290,30,4000000.0,0.6576402321083172
+407,30782,Santiago Gentiletti,Società Sportiva Lazio S.p.A.; Genoa CFC,Serie A,Argentina,Defender,3634,43,2000000.0,0.6574790457769182
+408,8746,Carlos Peña,Real Valladolid CF,La Liga,Spain,Defender,4409,55,1500000.0,0.6574790457769182
+409,55519,Christoph Moritz,FC Schalke 04; 1.FSV Mainz 05,Bundesliga,Germany,Midfield,2569,48,3000000.0,0.6568343004513217
+410,36939,Marc Pugh,AFC Bournemouth,Premier League,England,Attack,3648,67,2000000.0,0.6558671824629272
+411,27292,Daniel Larsson,Real Valladolid CF; Granada CF,La Liga,Sweden,Attack,3067,47,2500000.0,0.6558671824629272
+412,57170,Féthi Harek,SC Bastia; Nîmes Olympique,Ligue 1,Algeria,Defender,4628,60,1300000.0,0.655705996131528
+413,35934,Slobodan Rajković,Hamburger SV; SV Darmstadt 98; Palermo FC,Bundesliga; Serie A,Serbia,Defender,3079,45,2500000.0,0.6552224371373307
+414,55125,Chris Löwe,Huddersfield Town,Premier League,Germany,Defender,3653,52,2000000.0,0.6552224371373307
+415,67869,Marco Terrazzino,SC Freiburg; TSG 1899 Hoffenheim,Bundesliga,Germany,Attack,2581,54,3000000.0,0.6545776918117343
+416,333175,Bingourou Kamara,RC Strasbourg Alsace,Ligue 1,Senegal,Goalkeeper,3088,35,2500000.0,0.6545776918117343
+417,29187,Pedro Ríos,Levante UD,La Liga,Spain,Attack,2074,38,3500000.0,0.6545776918117343
+418,70898,Chechu Dorado,Real Betis Balompié; Villarreal CF; Rayo Vallecano,La Liga,Spain,Defender,2585,37,3000000.0,0.6536105738233398
+419,145416,Junior Tallo,AC Ajaccio; SC Bastia; LOSC Lille,Ligue 1,Cote d'Ivoire,Attack,3674,62,2000000.0,0.6532882011605416
+420,51736,Marco Mancosu,US Lecce,Serie A,Italy,Midfield,2598,39,3000000.0,0.6529658284977433
+421,694507,Rayan Philippe,Dijon FCO,Ligue 1,France,Attack,1405,33,4000000.0,0.6521598968407478
+422,62751,Giuseppe De Luca,Atalanta BC,Serie A,Italy,Attack,1417,35,4000000.0,0.6518375241779497
+423,56889,Francesco Della Rocca,Siena FC; Bologna Football Club 1909; Palermo FC,Serie A,Italy,Midfield,2110,31,3500000.0,0.6510315925209542
+424,56435,Roger,FC Ingolstadt 04,Bundesliga,Brazil,Midfield,4786,59,1250000.0,0.6507092198581561
+425,49521,Francesco Bolzoni,Siena FC; Palermo FC,Serie A,Italy,Midfield,2630,48,3000000.0,0.6497421018697614
+426,13683,Dean Whitehead,Stoke City; Huddersfield Town,Premier League,England,Midfield,1461,30,4000000.0,0.6495809155383623
+427,40937,Elkin Soto,1.FSV Mainz 05,Bundesliga,Colombia,Midfield,3719,65,2000000.0,0.6494197292069632
+428,425400,Farid El Melali,Angers SCO,Ligue 1,Algeria,Attack,3725,92,2000000.0,0.6490973565441651
+429,46106,Adam Le Fondre,Reading FC,Premier League,England,Attack,1495,34,4000000.0,0.6484526112185687
+430,111627,Ryan Mendes,LOSC Lille,Ligue 1,Cape Verde,Attack,2146,54,3500000.0,0.6482914248871696
+431,39174,Khaled Adénon,Amiens SC,Ligue 1,Benin,Defender,4915,57,1200000.0,0.6479690522243714
+432,112666,Alessandro Longhi,US Sassuolo,Serie A,Italy,Defender,4200,53,1800000.0,0.6474854932301741
+433,89473,Nacho Cases,Sporting Gijón,La Liga,Spain,Midfield,3436,45,2200000.0,0.6463571889103804
+434,171557,Baissama Sankoh,EA Guingamp; SM Caen,Ligue 1,Guinea,Midfield,4828,77,1250000.0,0.6461960025789812
+435,39037,Rob Elliot,Newcastle United,Premier League,Ireland,Goalkeeper,4569,52,1500000.0,0.6461960025789812
+436,51035,Johny Placide,Stade Reims,Ligue 1,Haiti,Goalkeeper,4224,49,1800000.0,0.6449065119277886
+437,254934,Jamilu Collins,SC Paderborn 07,Bundesliga,Nigeria,Defender,2669,30,3000000.0,0.6449065119277886
+438,160357,Mario Sampirisi,Genoa CFC; Chievo Verona; FC Crotone,Serie A,Italy,Defender,5037,77,1100000.0,0.6441005802707931
+439,290951,Aboubakar Kamara,AS Monaco; Fulham FC,Ligue 1; Premier League,Mauritania,Attack,1571,36,4000000.0,0.6436170212765957
+440,263843,Matías Nahuel,Villarreal CF; Real Betis Balompié,La Liga,Spain,Attack,1576,41,4000000.0,0.6428110896196002
+441,21770,Gennaro Sardo,Chievo Verona,Serie A,Italy,Defender,4615,69,1500000.0,0.6426499032882012
+442,17171,Alessandro Agostini,Hellas Verona,Serie A,Italy,Defender,3835,47,2000000.0,0.6420051579626047
+443,197126,Kenan Kodro,CA Osasuna; 1.FSV Mainz 05; Athletic Bilbao,La Liga; Bundesliga,Bosnia-Herzegovina,Attack,2700,76,3000000.0,0.6410380399742102
+444,174488,Marios Ikonomou,Cagliari Calcio; Bologna Football Club 1909; SPAL,Serie A,Greece,Defender,3254,48,2500000.0,0.6400709219858156
+445,170460,Jessy Pi,AS Monaco; ESTAC Troyes; FC Toulouse,Ligue 1,France,Midfield,3871,58,2000000.0,0.638942617666022
+446,93142,Dani Torres,Deportivo Alavés,La Liga,Colombia,Midfield,2726,41,3000000.0,0.6387814313346227
+447,15461,Jaime Gavilán,Getafe CF; Levante UD,La Liga,Spain,Attack,1676,43,4000000.0,0.6379754996776273
+448,168471,Renaud Emond,FC Nantes,Ligue 1,Belgium,Attack,818,34,4500000.0,0.6360412637008381
+449,58890,Gary Kagelmacher,Valenciennes FC,Ligue 1,Uruguay,Defender,2752,31,3000000.0,0.6358800773694391
+450,12957,Bertrand Laquait,Thonon Évian Grand Genève FC,Ligue 1,France,Goalkeeper,3942,45,2000000.0,0.6352353320438426
+451,203378,Zakaria Bakkali,Valencia CF; Deportivo de La Coruña,La Liga,Belgium,Attack,1743,57,4000000.0,0.6350741457124436
+452,644032,Cheikh Niasse,LOSC Lille,Ligue 1,Senegal,Midfield,1749,32,4000000.0,0.6347517730496454
+453,51030,Maxime Baca,FC Lorient; EA Guingamp,Ligue 1,France,Defender,4759,62,1500000.0,0.6333010960670535
+454,53239,Jonathan Pereira,Real Betis Balompié; Villarreal CF; Rayo Vallecano,La Liga,Spain,Attack,1764,39,4000000.0,0.6331399097356545
+455,95604,Gianni Bruno,LOSC Lille; SC Bastia; FC Lorient; Thonon Évian Grand Genève FC,Ligue 1,Belgium,Attack,3327,73,2500000.0,0.6329787234042553
+456,102192,Luis Pedro Cavanda,Società Sportiva Lazio S.p.A.,Serie A,Belgium,Defender,2105,33,3750000.0,0.6321727917472598
+457,82324,Stoppila Sunzu,FC Sochaux-Montbéliard; LOSC Lille; FC Metz,Ligue 1,Zambia,Defender,3986,50,2000000.0,0.6313668600902644
+458,134098,Raoul Loé,CA Osasuna,La Liga,Cameroon,Midfield,3333,49,2500000.0,0.6313668600902643
+459,31773,Olivier Veigneau,FC Nantes,Ligue 1,France,Defender,4400,53,1800000.0,0.630722114764668
+460,17689,Sascha Mölders,FC Augsburg,Bundesliga,Germany,Attack,3582,63,2250000.0,0.6303997421018698
+461,106181,Jacques Zoua,Hamburger SV; GFC Ajaccio,Bundesliga; Ligue 1,Cameroon,Attack,4010,58,2000000.0,0.6297549967762734
+462,73457,Aleksandar Pesic,FC Toulouse; Atalanta BC,Ligue 1; Serie A,Serbia,Attack,2786,63,3000000.0,0.6297549967762734
+463,62941,Jordi Figueras,Rayo Vallecano; Real Betis Balompié,La Liga,Spain,Defender,3355,42,2500000.0,0.6297549967762733
+464,39828,Antonino Barillà,UC Sampdoria; Parma Calcio 1913,Serie A,Italy,Midfield,4419,60,1800000.0,0.6287878787878788
+465,5686,Laurent Pionnier,Montpellier HSC,Ligue 1,France,Goalkeeper,5624,63,900000.0,0.6284655061250806
+466,138171,Mathias Autret,FC Lorient; Stade Brestois 29,Ligue 1,,Midfield,3364,72,2500000.0,0.6279819471308833
+467,77708,Geoffroy Serey Dié,VfB Stuttgart,Bundesliga,Cote d'Ivoire,Midfield,2804,36,3000000.0,0.6271760154738879
+468,84846,Gianluca Sansone,Torino FC; UC Sampdoria,Serie A,Italy,Attack,2348,56,3500000.0,0.6271760154738879
+469,62735,Pietro Iemmello,US Sassuolo; Benevento Calcio,Serie A,Italy,Attack,1387,33,4300000.0,0.6268536428110896
+470,364239,Moussa Koné,Nîmes Olympique,Ligue 1,Senegal,Attack,1901,38,4000000.0,0.625725338491296
+471,282371,Ivi López,Getafe CF; Levante UD; Real Valladolid CF,La Liga,Spain,Midfield,1925,41,4000000.0,0.6244358478401031
+472,226009,Cléber Reis,Hamburger SV,Bundesliga,Brazil,Defender,2822,40,3000000.0,0.624274661508704
+473,19435,Gianpaolo Bellini,Atalanta BC,Serie A,Italy,Defender,3643,50,2300000.0,0.624113475177305
+474,87282,Aleksandar Tonev,Aston Villa; Frosinone Calcio; FC Crotone,Premier League; Serie A,Bulgaria,Attack,2828,60,3000000.0,0.6236299161831076
+475,29178,Nino,CA Osasuna,La Liga,Spain,Attack,1934,45,4000000.0,0.6231463571889104
+476,74956,Marcel Büchel,FC Empoli; Hellas Verona,Serie A,Liechtenstein,Midfield,4104,66,2000000.0,0.6220180528691167
+477,372713,Florian Ayé,Brescia Calcio,Serie A,France,Attack,1940,48,4000000.0,0.6218568665377175
+478,126638,Jeong-ho Hong,FC Augsburg,Bundesliga,"Korea, South",Defender,3422,56,2500000.0,0.6213733075435203
+479,230166,Haitam Aleesami,Palermo FC; Amiens SC,Serie A; Ligue 1,Norway,Defender,4545,53,1800000.0,0.6207285622179239
+480,332612,Emmanuel Boateng,Levante UD,La Liga,Ghana,Attack,1965,41,4000000.0,0.6196002578981302
+481,120705,Juan Carlos,Córdoba CF; Rayo Vallecano,La Liga,Spain,Goalkeeper,5582,63,1000000.0,0.619277885235332
+482,58405,Artem Kravets,VfB Stuttgart; Granada CF,Bundesliga; La Liga,Ukraine,Attack,1966,41,4000000.0,0.619277885235332
+483,93759,Matthieu Saunier,ESTAC Troyes; Granada CF,Ligue 1; La Liga,France,Defender,4951,58,1500000.0,0.619116698903933
+484,149652,Léo Lacroix,AS Saint-Étienne,Ligue 1,Switzerland,Defender,2453,31,3500000.0,0.6187943262411348
+485,85066,Archimede Morleo,Bologna Football Club 1909,Serie A,Italy,Defender,5430,69,1100000.0,0.6181495809155384
+486,18100,Per Nilsson,1.FC Nuremberg,Bundesliga,Sweden,Defender,4188,49,2000000.0,0.617504835589942
+487,14974,Bo Svensson,1.FSV Mainz 05,Bundesliga,Denmark,Defender,2909,37,3000000.0,0.6165377176015474
+488,91251,Cuco Martina,Southampton FC; Everton FC,Premier League,Curacao,Defender,3503,45,2500000.0,0.6157317859445519
+489,44860,Javi Chica,Real Betis Balompié,La Liga,Spain,Defender,3830,47,2200000.0,0.6146034816247582
+490,149525,Antonio Caracciolo,Hellas Verona,Serie A,Italy,Defender,5930,68,800000.0,0.61428110896196
+491,35416,David McGoldrick,Sheffield United,Premier League,Ireland,Attack,4226,63,2000000.0,0.61428110896196
+492,13582,Karl Henry,Queens Park Rangers,Premier League,England,Midfield,2504,33,3500000.0,0.6139587362991619
+493,42079,Sebastian Mielitz,SV Werder Bremen,Bundesliga,Germany,Goalkeeper,4230,47,2000000.0,0.6134751773049645
+494,192300,Max Christiansen,FC Ingolstadt 04,Bundesliga,Germany,Midfield,3525,57,2500000.0,0.6133139909735654
+495,12502,Sigamary Diarra,AC Ajaccio,Ligue 1,Mali,Midfield,3537,54,2500000.0,0.6123468729851709
+496,75238,Iñigo López,Granada CF; Celta de Vigo; Córdoba CF,La Liga,Spain,Defender,4266,53,2000000.0,0.6107350096711799
+497,104414,Raphael Holzhauser,VfB Stuttgart; FC Augsburg,Bundesliga,Austria,Midfield,1742,34,4200000.0,0.6104126370083817
+498,57876,Laure,Deportivo de La Coruña,La Liga,Spain,Defender,4273,60,2000000.0,0.6100902643455834
+499,27900,Mensur Mujdza,SC Freiburg,Bundesliga,Bosnia-Herzegovina,Defender,2967,40,3000000.0,0.6094455190199871
+500,189452,Gastón Silva,Torino FC; Granada CF,Serie A; La Liga,Uruguay,Defender,3569,51,2500000.0,0.6089619600257898
+501,111041,Zacharie Boucher,FC Toulouse; Angers SCO,Ligue 1,France,Goalkeeper,2970,33,3000000.0,0.6088007736943908
+502,21701,Simone Vergassola,Siena FC,Serie A,Italy,Midfield,2553,30,3500000.0,0.6081560283687943
+503,33953,Ricardo Faty,AC Ajaccio,Ligue 1,Senegal,Midfield,3577,45,2500000.0,0.6076724693745971
+504,228584,David Simón,UD Las Palmas,La Liga,Spain,Defender,4301,54,2000000.0,0.6076724693745971
+505,54846,Fabian Holland,Hertha BSC; SV Darmstadt 98,Bundesliga,Germany,Defender,5812,70,1000000.0,0.6073500967117988
+506,139434,Raúl Carnero,UD Almería; Deportivo Alavés; CD Leganés; Girona FC; Real Valladolid CF; Getafe CF,La Liga,Spain,Defender,5828,81,1000000.0,0.6067053513862024
+507,74996,Izet Hajrovic,SV Werder Bremen; SD Eibar,Bundesliga; La Liga,,Attack,1573,45,4500000.0,0.6057382333978079
+508,59558,Emilio Nsue,RCD Mallorca; Middlesbrough FC,La Liga; Premier League,Equatorial Guinea,Defender,2570,37,3500000.0,0.6049323017408124
+509,170911,Donovan Léon,Stade Brestois 29,Ligue 1,French Guiana,Goalkeeper,5645,65,1200000.0,0.6047711154094133
+510,4115,Chris Baird,Fulham FC; West Bromwich Albion,Premier League,Northern Ireland,Midfield,2117,38,4000000.0,0.6047711154094133
+511,111283,Cédric Cambon,Thonon Évian Grand Genève FC,Ligue 1,France,Defender,5196,71,1500000.0,0.6044487427466151
+512,23287,Nacho,Real Betis Balompié,La Liga,Spain,Defender,3625,46,2500000.0,0.6042875564152159
+513,37633,Guillermo Rodríguez,Torino FC; Hellas Verona,Serie A,Uruguay,Defender,3332,41,2900000.0,0.6041263700838169
+514,111053,Yeni Ngbakoto,FC Metz; EA Guingamp,Ligue 1,DR Congo,Attack,3011,61,3000000.0,0.6036428110896196
+515,24636,Paul McShane,Hull City,Premier League,Ireland,Defender,2382,30,3750000.0,0.6036428110896196
+516,59551,Ángel Montoro,UD Las Palmas; Granada CF,La Liga,Spain,Midfield,5211,87,1500000.0,0.6031592520954223
+517,69819,Baba,Sevilla FC; Levante UD; Getafe CF,La Liga,Senegal,Attack,2140,60,4000000.0,0.6031592520954223
+518,18324,Zoltán Gera,West Bromwich Albion,Premier League,Hungary,Midfield,1610,30,4500000.0,0.6028368794326242
+519,156487,Grégoire Puel,OGC Nice,Ligue 1,France,Defender,5214,64,1500000.0,0.602675693101225
+520,128931,Giannis Fetfatzidis,Genoa CFC; Chievo Verona,Serie A,Greece,Attack,1637,40,4500000.0,0.6018697614442295
+521,61786,Guido Marilungo,Atalanta BC; Cesena FC; FC Empoli,Serie A,Italy,Attack,1838,36,4400000.0,0.6018697614442295
+522,123305,Djakaridja Koné,Thonon Évian Grand Genève FC,Ligue 1,Burkina Faso,Midfield,4397,63,2000000.0,0.6013862024500323
+523,55135,Cristian Álvarez,RCD Espanyol Barcelona; Rayo Vallecano,La Liga,Argentina,Goalkeeper,3047,36,3000000.0,0.601063829787234
+524,129893,Molla Wagué,Udinese Calcio; Watford FC; FC Nantes,Serie A; Premier League; Ligue 1,Mali,Defender,4398,55,2000000.0,0.6009026434558349
+525,44741,Beram Kayal,Brighton & Hove Albion,Premier League,Israel,Midfield,1675,37,4500000.0,0.6009026434558349
+526,121398,Tommy Smith,Huddersfield Town,Premier League,England,Defender,3050,39,3000000.0,0.6007414571244358
+527,14951,Stéphane Darbion,ESTAC Troyes,Ligue 1,France,Midfield,5245,80,1500000.0,0.6004190844616377
+528,344599,Yassine Benrahou,FC Girondins Bordeaux; Nîmes Olympique,Ligue 1,Morocco,Midfield,2171,38,4000000.0,0.5997743391360413
+529,134712,Billy Ketkeophomphone,Angers SCO,Ligue 1,Laos,Attack,3417,53,2750000.0,0.599290780141844
+530,66005,Amir Abrashi,SC Freiburg,Bundesliga,Albania,Midfield,3682,60,2500000.0,0.5981624758220503
+531,282349,Timo Becker,FC Schalke 04,Bundesliga,Germany,Defender,4421,60,2000000.0,0.597678916827853
+532,95680,Hervé Bazile,SM Caen,Ligue 1,Haiti,Attack,4423,93,2000000.0,0.5971953578336557
+533,57091,Hanno Behrens,1.FC Nuremberg,Bundesliga,Germany,Midfield,2643,30,3500000.0,0.5971953578336557
+534,73314,Jordi Xumetra,Levante UD,La Liga,Spain,Attack,3087,56,3000000.0,0.5971953578336557
+535,10503,Uwe Hünemeier,SC Paderborn 07; Brighton & Hove Albion,Bundesliga; Premier League,Germany,Defender,4043,49,2250000.0,0.5971953578336557
+536,40612,Liam Bridcutt,Sunderland AFC,Premier League,Scotland,Midfield,1754,30,4500000.0,0.5970341715022567
+537,51972,Robbie Kruse,Fortuna Düsseldorf; Bayer 04 Leverkusen; VfB Stuttgart,Bundesliga,Australia,Attack,3440,61,2750000.0,0.5968729851708575
+538,186664,Alexis Rolín,Catania FC,Serie A,Uruguay,Defender,2649,36,3500000.0,0.5965506125080593
+539,391719,Domingos Quina,Watford FC,Premier League,Portugal,Midfield,976,32,5000000.0,0.5963894261766602
+540,402004,Mamadou Fofana,FC Metz,Ligue 1,Mali,Defender,2656,36,3500000.0,0.595905867182463
+541,95483,Abraham Minero,Real Zaragoza; SD Eibar,La Liga,Spain,Defender,4442,57,2000000.0,0.5959058671824629
+542,81663,Zargo Touré,FC Lorient,Ligue 1,Senegal,Defender,4443,52,2000000.0,0.5955834945196647
+543,49542,Billy Sharp,Southampton FC; Sheffield United,Premier League,England,Attack,1793,43,4500000.0,0.5950999355254675
+544,218067,Jacopo Petriccione,US Lecce,Serie A,Italy,Midfield,3100,51,3000000.0,0.5949387491940683
+545,58789,Lolo,CA Osasuna,La Liga,Spain,Midfield,3103,43,3000000.0,0.5946163765312702
+546,563812,Christian Oliva,Cagliari Calcio,Serie A,Uruguay,Midfield,1041,30,5000000.0,0.594455190199871
+547,146743,Luca Antei,US Sassuolo; Benevento Calcio,Serie A,Italy,Defender,4493,58,2000000.0,0.5930045132172792
+548,119369,Federico Dionisi,US Livorno 1915; Frosinone Calcio,Serie A,Italy,Attack,2674,42,3500000.0,0.5926821405544811
+549,7028,Filip Daems,Borussia Mönchengladbach,Bundesliga,Belgium,Defender,2675,34,3500000.0,0.5923597678916828
+550,56854,Nicolò Cherubin,Bologna Football Club 1909; Atalanta BC,Serie A,Italy,Defender,5678,71,1300000.0,0.5918762088974855
+551,85240,Eugenio Lamanna,Genoa CFC,Serie A,Italy,Goalkeeper,3779,43,2500000.0,0.5917150225660863
+552,412671,Quentin Boisgard,FC Toulouse,Ligue 1,France,Midfield,3781,80,2500000.0,0.5912314635718892
+553,100722,Lago Júnior,RCD Mallorca,La Liga,Cote d'Ivoire,Attack,2237,40,4000000.0,0.59107027724049
+554,192638,Nicolas Haas,Atalanta BC,Serie A,Switzerland,Midfield,2697,60,3500000.0,0.5907479045776918
+555,189073,Marcel Hartel,1.FC Köln,Bundesliga,Germany,Midfield,1857,30,4500000.0,0.5902643455834946
+556,237669,Dereck Kutesa,Stade Reims,Ligue 1,Switzerland,Attack,1193,42,5000000.0,0.5902643455834945
+557,337716,Claud Adjapong,US Sassuolo; Hellas Verona,Serie A,Italy,Defender,2247,37,4000000.0,0.5899419729206963
+558,111114,Kevin Long,Burnley FC,Premier League,Ireland,Defender,3829,47,2500000.0,0.5891360412637008
+559,28987,Roy Contout,FC Sochaux-Montbéliard,Ligue 1,French Guiana,Attack,4207,55,2200000.0,0.5883301096067053
+560,37397,José Crespo,Bologna Football Club 1909; Córdoba CF; Rayo Vallecano; Aston Villa,Serie A; La Liga; Premier League,Spain,Defender,3517,47,2800000.0,0.5881689232753062
+561,395523,Wilfried Kanga,Angers SCO,Ligue 1,Cote d'Ivoire,Attack,2271,56,4000000.0,0.5873629916183107
+562,84870,Francisco Silva,CA Osasuna,La Liga,Chile,Midfield,3850,47,2500000.0,0.5872018052869117
+563,61711,Callum McManaman,Wigan Athletic; West Bromwich Albion,Premier League,England,Attack,1260,40,5000000.0,0.5870406189555126
+564,49872,Djamel Bakar,AS Nancy-Lorraine; Montpellier HSC,Ligue 1,Comoros,Attack,3853,68,2500000.0,0.5867182462927144
+565,221315,Kevin Vázquez,Celta de Vigo,La Liga,Spain,Defender,4594,68,2000000.0,0.5863958736299162
+566,84921,Lorenzo Ariaudo,Cagliari Calcio; US Sassuolo; FC Empoli; Frosinone Calcio,Serie A,Italy,Defender,5061,61,1800000.0,0.5859123146357188
+567,2050,Nelson Valdez,Valencia CF; Eintracht Frankfurt,La Liga; Bundesliga,Paraguay,Attack,1279,38,5000000.0,0.5854287556415216
+568,55993,Pablo Álvarez,Catania FC,Serie A,Argentina,Defender,3577,45,2750000.0,0.5844616376531271
+569,177690,Miguel Trauco,AS Saint-Étienne,Ligue 1,Peru,Defender,4623,62,2000000.0,0.5839780786589297
+570,47544,Michel Morganella,Palermo FC,Serie A,Switzerland,Defender,5970,75,1200000.0,0.5838168923275306
+571,17441,Julien Sablé,SC Bastia,Ligue 1,France,Midfield,2765,44,3500000.0,0.5831721470019342
+572,147483,Michaël Pereira,RCD Mallorca; Granada CF,La Liga,France,Attack,2329,43,4000000.0,0.5828497743391361
+573,54183,Maicosuel,Udinese Calcio,Serie A,Brazil,Attack,1964,39,4500000.0,0.5825274016763379
+574,29605,Daniel Ciofani,Frosinone Calcio,Serie A,Italy,Attack,5592,101,1500000.0,0.5813990973565442
+575,82693,Angelo da Costa,UC Sampdoria; Bologna Football Club 1909,Serie A,Brazil,Goalkeeper,6310,71,1000000.0,0.5805931656995487
+576,51532,Kike Sola,CA Osasuna; Athletic Bilbao,La Liga,Spain,Attack,2361,41,4000000.0,0.5805931656995487
+577,6986,Thibault Giresse,EA Guingamp,Ligue 1,France,Midfield,6131,103,1100000.0,0.5804319793681496
+578,347594,Florian Miguel,Nîmes Olympique,Ligue 1,France,Defender,4715,58,2000000.0,0.5801096067053514
+579,129990,Hyun-jun Suk,ESTAC Troyes; Stade Reims,Ligue 1,"Korea, South",Attack,2372,70,4000000.0,0.5799484203739522
+580,245072,Stipe Perica,Udinese Calcio; Frosinone Calcio,Serie A,Croatia,Attack,3285,76,3000000.0,0.5797872340425532
+581,173491,Joel Pohjanpalo,Bayer 04 Leverkusen,Bundesliga,Finland,Attack,2780,62,3500000.0,0.5797872340425532
+582,21696,Daniele Portanova,Genoa CFC; Bologna Football Club 1909,Serie A,Italy,Defender,3617,41,2800000.0,0.5794648613797551
+583,57816,Alberto Lora,Sporting Gijón,La Liga,Spain,Midfield,2787,38,3500000.0,0.5781753707285622
+584,72195,Juan Domínguez,Deportivo de La Coruña,La Liga,,Midfield,3298,51,3000000.0,0.5781753707285622
+585,25319,Momo,UD Las Palmas,La Liga,Spain,Attack,3301,59,3000000.0,0.5773694390715667
+586,110366,Sergio Araujo,UD Las Palmas,La Liga,Argentina,Attack,2384,43,4000000.0,0.5773694390715667
+587,69101,Saber Khalifa,Thonon Évian Grand Genève FC; Olympique Marseille,Ligue 1,Tunisia,Attack,2801,53,3500000.0,0.5762411347517731
+588,77812,Christoph Zimmermann,Norwich City,Premier League,Germany,Defender,2805,39,3500000.0,0.5755963894261766
+589,65976,Hal Robson-Kanu,Reading FC; West Bromwich Albion,Premier League,Wales,Attack,3324,94,3000000.0,0.5755963894261766
+590,73067,Adam Clayton,Middlesbrough FC,Premier League,England,Midfield,2806,34,3500000.0,0.5752740167633785
+591,22396,Alexis Thébaux,Stade Brestois 29; SC Bastia,Ligue 1,France,Goalkeeper,3330,37,3000000.0,0.574468085106383
+592,15761,Marc Bertrán,CA Osasuna,La Liga,Spain,Defender,4301,52,2400000.0,0.574306898774984
+593,289236,Jon Bautista,Real Sociedad,La Liga,Spain,Attack,1524,66,5000000.0,0.5738233397807866
+594,213368,Pedro Henrique,Stade Rennais FC,Ligue 1,Brazil,Attack,3341,70,3000000.0,0.5730174081237911
+595,66099,Carles Planas,Celta de Vigo; Girona FC,La Liga,Spain,Defender,4056,61,2500000.0,0.5730174081237911
+596,694509,Moussa Diarra,FC Toulouse,Ligue 1,Mali,Defender,4790,75,2000000.0,0.5730174081237911
+597,91423,Vaclav Kadlec,Eintracht Frankfurt,Bundesliga,Czech Republic,Attack,1568,30,5000000.0,0.5715667311411992
+598,38100,Michael Mancienne,Hamburger SV,Bundesliga,Seychelles,Defender,2837,33,3500000.0,0.5714055448098001
+599,23952,Christophe Mandanne,EA Guingamp; AS Nancy-Lorraine,Ligue 1,France,Attack,4814,79,2000000.0,0.5714055448098001
+600,627294,Fer Niño,Villarreal CF,La Liga,,Attack,1570,48,5000000.0,0.5709219858156028
+601,71918,David Ferreiro,SD Huesca,La Liga,Spain,Attack,4818,72,2000000.0,0.5705996131528046
+602,381724,Victor Sá,VfL Wolfsburg,Bundesliga,Brazil,Attack,2089,53,4500000.0,0.5699548678272083
+603,50577,Pierre Bengtsson,1.FSV Mainz 05; SC Bastia,Bundesliga; Ligue 1,Sweden,Defender,4822,59,2000000.0,0.5697936814958091
+604,285322,Federico Ricca,Málaga CF,La Liga,Uruguay,Defender,3370,43,3000000.0,0.569471308833011
+605,147043,Michael Frey,LOSC Lille,Ligue 1,Switzerland,Attack,1581,30,5000000.0,0.5693101225016118
+606,298635,Grigoris Kastanos,Delfino Pescara 1936,Serie A,Cyprus,Midfield,5291,122,1800000.0,0.5691489361702127
+607,114060,Enric Gallego,SD Huesca; CA Osasuna; Getafe CF,La Liga,Spain,Attack,3385,60,3000000.0,0.5681818181818181
+608,75640,Artur Sobiech,Hannover 96,Bundesliga,Poland,Attack,4104,86,2500000.0,0.5681818181818181
+609,33783,Armand Traoré,Queens Park Rangers,Premier League,Senegal,Defender,2875,42,3500000.0,0.5681818181818181
+610,317057,Adrian Semper,Chievo Verona,Serie A,Croatia,Goalkeeper,2880,32,3500000.0,0.56785944551902
+611,84150,Rafael Czichos,1.FC Köln,Bundesliga,Germany,Defender,4469,54,2200000.0,0.5667311411992263
+612,121686,Cristian Gamboa,West Bromwich Albion,Premier League,Costa Rica,Defender,4873,87,2000000.0,0.5665699548678272
+613,157500,Lenny Nangis,SM Caen; LOSC Lille; SC Bastia,Ligue 1,Guadeloupe,Attack,4119,78,2500000.0,0.566247582205029
+614,341396,Théo Valls,Nîmes Olympique,Ligue 1,France,Midfield,3406,53,3000000.0,0.56608639587363
+615,215677,Mouez Hassen,OGC Nice,Ligue 1,Tunisia,Goalkeeper,4136,49,2500000.0,0.5656028368794326
+616,92180,Robert Mak,1.FC Nuremberg,Bundesliga,Slovakia,Attack,1660,38,5000000.0,0.5654416505480335
+617,15790,Ferrán Corominas,Elche CF,La Liga,Spain,Attack,4165,70,2500000.0,0.5649580915538363
+618,98315,Walid Mesloub,FC Lorient,Ligue 1,Algeria,Midfield,5857,82,1500000.0,0.564474532559639
+619,15974,Esteban,UD Almería,La Liga,Spain,Goalkeeper,3420,38,3000000.0,0.5641521598968408
+620,93827,Steven Skrzybski,FC Schalke 04; Fortuna Düsseldorf,Bundesliga,Germany,Attack,2932,60,3500000.0,0.5636686009026435
+621,44700,Paulão,Real Betis Balompié,La Liga,Brazil,Defender,3426,43,3000000.0,0.5633462282398453
+622,37835,Drissa Diakité,SC Bastia,Ligue 1,Mali,Defender,4458,53,2300000.0,0.562862669245648
+623,77001,Rajiv van La Parra,Huddersfield Town,Premier League,Netherlands,Attack,2553,38,4000000.0,0.5625402965828498
+624,55291,Scott Arfield,Burnley FC,Premier League,Canada,Midfield,3442,49,3000000.0,0.5620567375886525
+625,139634,Ledian Memushaj,Delfino Pescara 1936; Benevento Calcio,Serie A,Albania,Midfield,4222,53,2500000.0,0.5615731785944551
+626,201311,Isaac Kiese Thelin,FC Girondins Bordeaux; Bayer 04 Leverkusen,Ligue 1; Bundesliga,Sweden,Attack,1755,35,5000000.0,0.5609284332688588
+627,33847,Kevin Lejeune,FC Metz,Ligue 1,France,Midfield,2957,46,3500000.0,0.5601225016118634
+628,289587,Aaron Leya Iseka,Olympique Marseille; FC Toulouse,Ligue 1,Belgium,Attack,3474,79,3000000.0,0.5598001289490651
+629,5976,Roberto Guana,Chievo Verona,Serie A,Italy,Midfield,2315,31,4200000.0,0.559477756286267
+630,1428,Mike Hanke,Borussia Mönchengladbach; SC Freiburg,Bundesliga,Germany,Attack,1808,47,5000000.0,0.5589941972920696
+631,160986,Matteo Bianchetti,Hellas Verona; FC Empoli,Serie A,Italy,Defender,6247,81,1400000.0,0.5588330109606705
+632,51168,Jens Hegeler,Bayer 04 Leverkusen; Hertha BSC,Bundesliga,Germany,Midfield,3503,91,3000000.0,0.558027079303675
+633,277335,Bruno Henrique,Palermo FC,Serie A,Brazil,Midfield,2212,33,4500000.0,0.558027079303675
+634,44027,Ikechukwu Uche,Villarreal CF; Málaga CF,La Liga,Nigeria,Attack,1820,33,5000000.0,0.5575435203094777
+635,84622,Sinisa Andjelkovic,Palermo FC,Serie A,Slovenia,Defender,6567,77,1200000.0,0.5567375886524824
+636,128909,Jack Robinson,Sheffield United,Premier League,England,Defender,4267,51,2500000.0,0.5565764023210832
+637,364861,Fousseni Diabaté,Leicester City; Amiens SC,Premier League; Ligue 1,Mali,Attack,1834,35,5000000.0,0.5560928433268859
+638,28307,Jonathan Brison,AS Saint-Étienne,Ligue 1,France,Defender,4579,66,2300000.0,0.5557704706640877
+639,167895,Luca Rizzo,UC Sampdoria; Bologna Football Club 1909; SPAL,Serie A,Italy,Midfield,2976,61,3500000.0,0.5556092843326885
+640,39306,Raphael Wolf,SV Werder Bremen,Bundesliga,Germany,Goalkeeper,4289,48,2500000.0,0.5549645390070922
+641,96853,Adrian Stoian,Chievo Verona; Genoa CFC; FC Crotone,Serie A,Romania,Attack,5072,94,2000000.0,0.554642166344294
+642,16311,Rouwen Hennings,Fortuna Düsseldorf,Bundesliga,Germany,Attack,4291,61,2500000.0,0.5544809800128949
+643,53408,Fabian Giefer,Fortuna Düsseldorf; FC Schalke 04; FC Augsburg,Bundesliga,Germany,Goalkeeper,3545,40,3000000.0,0.5538362346872985
+644,4217,Anthony Le Tallec,Valenciennes FC,Ligue 1,France,Attack,2237,37,4500000.0,0.5536750483558994
+645,52246,Kolbeinn Sigthórsson,FC Nantes,Ligue 1,Iceland,Attack,1878,30,5000000.0,0.5535138620245004
+646,35383,Júnior Díaz,1.FSV Mainz 05; SV Darmstadt 98,Bundesliga,Costa Rica,Defender,5087,69,2000000.0,0.5533526756931013
+647,316137,Moussa Doumbia,Stade Reims,Ligue 1,Mali,Attack,4310,81,2500000.0,0.5533526756931012
+648,22642,Nicolas Seube,SM Caen,Ligue 1,France,Midfield,5092,77,2000000.0,0.5527079303675049
+649,218087,Ben Osborn,Sheffield United,Premier League,England,Midfield,3559,61,3000000.0,0.5527079303675049
+650,262689,Uche Agbo,Granada CF; Rayo Vallecano,La Liga,Nigeria,Midfield,3008,44,3500000.0,0.5527079303675049
+651,95963,Germán Sánchez,Granada CF,La Liga,Spain,Defender,7231,94,800000.0,0.5523855577047067
+652,14259,Antolín Alcaraz,Wigan Athletic; Everton FC; UD Las Palmas,Premier League; La Liga,Paraguay,Defender,2252,30,4500000.0,0.5520631850419084
+653,53306,Guy Ndy Assembé,AS Nancy-Lorraine; EA Guingamp,Ligue 1,Cameroon,Goalkeeper,5106,57,2000000.0,0.5517408123791103
+654,5544,Johan Audel,FC Nantes,Ligue 1,Martinique,Attack,3024,64,3500000.0,0.551418439716312
+655,35872,Änis Ben-Hatira,Hertha BSC; Eintracht Frankfurt; SV Darmstadt 98,Bundesliga,Tunisia,Midfield,3569,56,3000000.0,0.5512572533849129
+656,146163,Raphael Framberger,FC Augsburg,Bundesliga,Germany,Defender,5122,84,2000000.0,0.5501289490651193
+657,235540,Oussama Tannane,AS Saint-Étienne; UD Las Palmas,Ligue 1; La Liga,Morocco,Midfield,2658,43,4000000.0,0.5499677627337202
+658,57643,Marcello Gazzola,US Sassuolo; Parma Calcio 1913,Serie A,Italy,Defender,6894,96,1000000.0,0.5499677627337202
+659,29051,Manolo Reina,RCD Mallorca,La Liga,Spain,Goalkeeper,5130,57,2000000.0,0.5490006447453256
+660,22268,Emanuele Calaiò,Siena FC; SSC Napoli; Genoa CFC,Serie A,Italy,Attack,2666,46,4000000.0,0.5490006447453255
+661,175792,André Ramalho,Bayer 04 Leverkusen; 1.FSV Mainz 05,Bundesliga,Brazil,Defender,2285,40,4500000.0,0.5488394584139265
+662,83458,Mirco Antenucci,Catania FC; SPAL,Serie A,Italy,Attack,4710,69,2300000.0,0.5483558994197293
+663,154396,Danilo Soares,FC Ingolstadt 04,Bundesliga,Brazil,Defender,4780,59,2200000.0,0.5467440361057383
+664,19083,Mikael Antonsson,Bologna Football Club 1909,Serie A,Sweden,Defender,5690,65,1850000.0,0.5460992907801419
+665,7989,Fernando Soriano,UD Almería,La Liga,Spain,Midfield,3313,63,3400000.0,0.5438426821405544
+666,9697,Pavel Krmas,SC Freiburg,Bundesliga,Czech Republic,Defender,4784,58,2250000.0,0.5436814958091554
+667,3775,George McCartney,West Ham United,Premier League,Northern Ireland,Defender,2719,34,4000000.0,0.5431979368149581
+668,321647,Grejohn Kyei,Stade Reims,Ligue 1,France,Attack,4436,97,2500000.0,0.5427143778207608
+669,73846,Paul-José Mpoku,Cagliari Calcio; Chievo Verona,Serie A,DR Congo,Midfield,1999,36,5000000.0,0.5425531914893618
+670,34453,Birkir Bjarnason,Delfino Pescara 1936; UC Sampdoria; Brescia Calcio,Serie A,Iceland,Midfield,3111,51,3500000.0,0.5420696324951644
+671,17025,Marvin Matip,FC Ingolstadt 04,Bundesliga,Cameroon,Defender,5895,66,1750000.0,0.5419084461637653
+672,129679,Cheick Doukouré,FC Lorient; FC Metz; Levante UD,Ligue 1; La Liga,Cote d'Ivoire,Midfield,6032,103,1600000.0,0.5412637008381689
+673,3495,Dudu Aouate,RCD Mallorca,La Liga,Israel,Goalkeeper,3122,35,3500000.0,0.5411025145067698
+674,80173,Frédéric Sammaritano,AC Ajaccio; Dijon FCO,Ligue 1,France,Midfield,6367,132,1500000.0,0.5411025145067698
+675,92381,Sammy Ameobi,Newcastle United,Premier League,England,Attack,2017,43,5000000.0,0.5409413281753708
+676,5543,Cédric Varrault,Dijon FCO,Ligue 1,France,Defender,3680,43,3000000.0,0.5407801418439717
+677,58070,Diego Maínz,Granada CF,La Liga,Spain,Defender,5839,72,1800000.0,0.5401353965183753
+678,22749,Daniele Croce,FC Empoli,Serie A,Italy,Midfield,7690,100,500000.0,0.5401353965183753
+679,31216,Tobias Levels,Fortuna Düsseldorf; FC Ingolstadt 04,Bundesliga,Germany,Defender,3694,45,3000000.0,0.5398130238555771
+680,30698,Jonathan Martins Pereira,EA Guingamp; ESTAC Troyes,Ligue 1,France,Defender,6426,79,1500000.0,0.5394906511927788
+681,56711,Almog Cohen,1.FC Nuremberg; FC Ingolstadt 04,Bundesliga,Israel,Midfield,3708,60,3000000.0,0.5388459058671824
+682,19641,Emmerson Boyce,Wigan Athletic,Premier League,Barbados,Defender,3145,36,3500000.0,0.5388459058671824
+683,452084,Ahmed Kutucu,FC Schalke 04; Hertha BSC; VfB Stuttgart; FC Augsburg,Bundesliga,Türkiye,Attack,1181,45,6000000.0,0.5385235332043843
+684,81743,Fausto Rossi,Real Valladolid CF; Córdoba CF,La Liga,Italy,Midfield,3710,55,3000000.0,0.5385235332043843
+685,20276,Florian Klein,VfB Stuttgart,Bundesliga,Austria,Defender,4525,56,2500000.0,0.5378787878787878
+686,157491,Jordan Ikoko,EA Guingamp,Ligue 1,DR Congo,Defender,6448,75,1500000.0,0.5378787878787878
+687,448177,Jessic Ngankam,Hertha BSC,Bundesliga,Germany,Attack,2041,68,5000000.0,0.5378787878787878
+688,106837,Abdoulaye Ba,Rayo Vallecano,La Liga,Senegal,Defender,3733,46,3000000.0,0.5372340425531914
+689,53332,Juan Forlín,RCD Espanyol Barcelona,La Liga,Argentina,Defender,2767,33,4000000.0,0.5367504835589942
+690,185699,Tim Leibold,1.FC Nuremberg,Bundesliga,Germany,Defender,2767,32,4000000.0,0.5367504835589942
+691,44688,Gilles Cioni,SC Bastia,Ligue 1,France,Defender,7230,96,1000000.0,0.536428110896196
+692,434990,Álex Sola,Real Sociedad,La Liga,Spain,Attack,2771,62,4000000.0,0.5354609929078014
+693,224088,Olivier Ntcham,Genoa CFC,Serie A,Cameroon,Midfield,2081,41,5000000.0,0.534816247582205
+694,196435,Saidy Janko,AS Saint-Étienne,Ligue 1,The Gambia,Defender,3775,60,3000000.0,0.5346550612508059
+695,61757,Nicola Rigoni,Chievo Verona,Serie A,Italy,Midfield,5377,79,2000000.0,0.5340103159252095
+696,11765,Aytac Sulu,SV Darmstadt 98,Bundesliga,Germany,Defender,5400,60,2000000.0,0.5327208252740168
+697,74954,Saúl Berjón,SD Eibar,La Liga,Spain,Attack,3804,63,3000000.0,0.5323984526112187
+698,146680,Andrea Barberis,FC Crotone,Serie A,Italy,Midfield,5414,73,2000000.0,0.5320760799484203
+699,170767,André Poko,FC Girondins Bordeaux,Ligue 1,Gabon,Midfield,4596,73,2500000.0,0.5320760799484203
+700,71840,Gaizka Toquero,Athletic Bilbao; Deportivo Alavés,La Liga,Spain,Attack,2111,59,5000000.0,0.5319148936170213
+701,62913,Lillo Castellano,SD Eibar; Sporting Gijón; CA Osasuna,La Liga,Spain,Defender,5419,70,2000000.0,0.5317537072856222
+702,259025,Umut Bozok,Nîmes Olympique,Ligue 1,Türkiye,Attack,1291,30,6000000.0,0.5317537072856222
+703,63821,Aron Gunnarsson,Cardiff City,Premier League,Iceland,Midfield,3815,51,3000000.0,0.5317537072856222
+704,20778,Adam Bodzek,Fortuna Düsseldorf,Bundesliga,Poland,Midfield,6105,78,1750000.0,0.531592520954223
+705,89318,Borja Ekiza,Athletic Bilbao; SD Eibar,La Liga,Spain,Defender,3262,40,3500000.0,0.5304642166344293
+706,301236,Francesco Cassata,US Sassuolo; Frosinone Calcio; Genoa CFC,Serie A,Italy,Midfield,3266,61,3500000.0,0.5301418439716312
+707,126683,Tristan Dingomé,ESTAC Troyes; Stade Reims,Ligue 1,Cameroon,Midfield,4631,83,2500000.0,0.5294970986460348
+708,137704,Miguel Ángel Guerrero,Sporting Gijón; CD Leganés,La Liga,Spain,Attack,5475,89,2000000.0,0.5294970986460348
+709,3114,Jan Schlaudraff,Hannover 96,Bundesliga,Germany,Attack,2526,56,4500000.0,0.5293359123146357
+710,83895,Marcelo Díaz,Hamburger SV; Celta de Vigo,Bundesliga; La Liga,Chile,Midfield,3462,57,3400000.0,0.5290135396518375
+711,38824,Davide Brivio,Atalanta BC; Hellas Verona,Serie A,Italy,Defender,5482,70,2000000.0,0.5288523533204385
+712,92385,Yoann Andreu,Angers SCO,Ligue 1,France,Defender,6164,71,1750000.0,0.5286911669890393
+713,60591,Yannick Sagbo,Thonon Évian Grand Genève FC; Hull City,Ligue 1; Premier League,Cote d'Ivoire,Attack,3858,67,3000000.0,0.5285299806576402
+714,308801,Adalberto Peñaranda,Granada CF; Málaga CF; Udinese Calcio,La Liga; Serie A,Venezuela,Attack,2814,45,4000000.0,0.5283687943262412
+715,54231,Isma López,Athletic Bilbao; Sporting Gijón,La Liga,Spain,Defender,4697,66,2500000.0,0.5278852353320438
+716,200188,Mattia Aramu,Torino FC,Serie A,Italy,Midfield,2155,33,5000000.0,0.5277240490006447
+717,36881,Nemanja Pejcinovic,OGC Nice,Ligue 1,Serbia,Defender,3871,44,3000000.0,0.5274016763378466
+718,42198,Sone Aluko,Hull City,Premier League,Nigeria,Attack,2179,42,5000000.0,0.5261121856866537
+719,277,Sérgio da Silva Pinto,Hannover 96; Levante UD,Bundesliga; La Liga,Germany,Midfield,3301,48,3500000.0,0.5261121856866537
+720,240892,Bongani Zungu,Amiens SC,Ligue 1,South Africa,Midfield,3306,52,3500000.0,0.5256286266924566
+721,94137,Kevin Möhwald,SV Werder Bremen,Bundesliga,Germany,Midfield,2842,67,4000000.0,0.5254674403610573
+722,228891,Jordan Adéoti,SM Caen,Ligue 1,Benin,Midfield,5567,87,2000000.0,0.5253062540296582
+723,238486,Filip Bradaric,Cagliari Calcio; Celta de Vigo,Serie A; La Liga,Croatia,Midfield,2203,41,5000000.0,0.5245003223726628
+724,349836,Diego González,Sevilla FC; Málaga CF,La Liga,Spain,Defender,5594,86,2000000.0,0.5232108317214701
+725,76329,Marcelo Estigarribia,UC Sampdoria; Atalanta BC; Chievo Verona,Serie A,Paraguay,Midfield,4745,75,2500000.0,0.5228884590586718
+726,223053,Quini,Rayo Vallecano; Granada CF,La Liga,Spain,Defender,7286,104,1200000.0,0.5219213410702772
+727,58001,Miku Fedor,Getafe CF; Rayo Vallecano,La Liga,Venezuela,Attack,2223,36,5000000.0,0.5206318504190844
+728,38746,Tomas Pekhart,1.FC Nuremberg; FC Ingolstadt 04,Bundesliga,Czech Republic,Attack,2896,58,4000000.0,0.5203094777562862
+729,53301,Marc Valiente,Real Valladolid CF,La Liga,Spain,Defender,4787,57,2500000.0,0.5196647324306899
+730,42920,Fran Mérida,CA Osasuna,La Liga,Spain,Midfield,2232,48,5000000.0,0.5190199871050934
+731,231025,Jordan Marié,Dijon FCO,Ligue 1,France,Midfield,6765,109,1500000.0,0.5188588007736944
+732,74709,Emmanuel Imorou,SM Caen,Ligue 1,Benin,Defender,5701,71,2000000.0,0.5185364281108962
+733,70689,Filippo Falco,Bologna Football Club 1909; US Lecce,Serie A,Italy,Attack,2233,39,5000000.0,0.5183752417794971
+734,56100,Leon Balogun,Fortuna Düsseldorf; 1.FSV Mainz 05; Brighton & Hove Albion,Bundesliga; Premier League,Nigeria,Defender,5728,77,2000000.0,0.5166021921341071
+735,13412,Grant Holt,Norwich City; Aston Villa,Premier League,England,Attack,2948,44,4000000.0,0.5157962604771116
+736,118303,Mehdi Zeffane,Olympique Lyon; Stade Rennais FC,Ligue 1,Algeria,Defender,5752,105,2000000.0,0.5143455834945196
+737,167093,Aleksandar Pantic,Villarreal CF; Córdoba CF; SD Eibar; Deportivo Alavés,La Liga,Serbia,Defender,4851,60,2500000.0,0.5140232108317215
+738,31218,Johannes van den Bergh,Fortuna Düsseldorf; Hertha BSC,Bundesliga,Germany,Defender,5778,78,2000000.0,0.5140232108317215
+739,4607,Roel Brouwers,Borussia Mönchengladbach,Bundesliga,Netherlands,Defender,3650,61,3250000.0,0.5138620245003224
+740,287876,Antonino La Gumina,Palermo FC; FC Empoli; UC Sampdoria,Serie A,Italy,Attack,1678,40,6000000.0,0.5120889748549322
+741,130485,Alfredo Donnarumma,Brescia Calcio,Serie A,Italy,Attack,1681,31,6000000.0,0.5117666021921341
+742,1423,Lars Jacobsen,EA Guingamp,Ligue 1,Denmark,Defender,4881,57,2500000.0,0.5117666021921341
+743,4793,Steve von Bergen,Palermo FC,Serie A,Switzerland,Defender,2971,35,4000000.0,0.5111218568665377
+744,99355,Víctor Álvarez,RCD Espanyol Barcelona,La Liga,Spain,Defender,4912,75,2500000.0,0.5107994842037396
+745,44735,Aythami Artiles,Deportivo de La Coruña; UD Las Palmas,La Liga,Spain,Defender,5836,71,2000000.0,0.5104771115409413
+746,12093,Sylvain Marchal,SC Bastia; FC Metz,Ligue 1,France,Defender,3667,47,3400000.0,0.5103159252095422
+747,21227,Zdenek Pospech,1.FSV Mainz 05,Bundesliga,Czech Republic,Defender,5843,67,2000000.0,0.5085428755641521
+748,63824,Libor Kozak,Società Sportiva Lazio S.p.A.; Aston Villa,Serie A; Premier League,Czech Republic,Attack,1758,37,6000000.0,0.508220502901354
+749,329723,Gil Dias,AS Monaco; ACF Fiorentina; Granada CF,Ligue 1; Serie A; La Liga,Portugal,Attack,2998,61,4000000.0,0.508059316569955
+750,368559,Ádám Nagy,Bologna Football Club 1909,Serie A,Hungary,Midfield,3494,51,3500000.0,0.5078981302385558
+751,290746,Moreto Cassamá,Stade Reims,Ligue 1,Guinea-Bissau,Midfield,3500,54,3500000.0,0.5072533849129595
+752,32618,Assani Lukimya,SV Werder Bremen,Bundesliga,DR Congo,Defender,5855,79,2000000.0,0.5072533849129595
+753,22820,Túlio de Melo,LOSC Lille; Thonon Évian Grand Genève FC,Ligue 1,Brazil,Attack,960,33,7000000.0,0.5067698259187621
+754,22140,Domenico Maietta,Hellas Verona; Bologna Football Club 1909; FC Empoli,Serie A,Italy,Defender,8106,101,1000000.0,0.506447453255964
+755,127177,Gaëtan Bussmann,FC Metz; 1.FSV Mainz 05,Ligue 1; Bundesliga,France,Defender,4982,59,2500000.0,0.5053191489361701
+756,48003,Christian Puggioni,Chievo Verona; UC Sampdoria; Benevento Calcio,Serie A,Italy,Goalkeeper,7478,84,1300000.0,0.504835589941973
+757,93309,Sambou Yatabaré,SC Bastia; EA Guingamp; SV Werder Bremen,Ligue 1; Bundesliga,Mali,Midfield,4987,73,2500000.0,0.5046744036105738
+758,167741,Mattia Valoti,Hellas Verona; SPAL,Serie A,Italy,Midfield,4994,108,2500000.0,0.5043520309477756
+759,61989,Michael Esser,SV Darmstadt 98; Hannover 96,Bundesliga,Germany,Goalkeeper,5905,66,2000000.0,0.5043520309477756
+760,66407,Sloan Privat,FC Sochaux-Montbéliard; SM Caen; EA Guingamp,Ligue 1,French Guiana,Attack,5003,103,2500000.0,0.5040296582849775
+761,60957,Sebastian Polter,1.FC Nuremberg; 1.FSV Mainz 05; 1.FC Union Berlin,Bundesliga,Germany,Attack,5375,113,2250000.0,0.5037072856221793
+762,248330,Chema Rodríguez,Levante UD; Getafe CF,La Liga,Spain,Defender,4223,59,3000000.0,0.503384912959381
+763,55709,Emmanuel Mayuka,Southampton FC; FC Sochaux-Montbéliard,Premier League; Ligue 1,Zambia,Attack,1474,37,6500000.0,0.5030625402965829
+764,189744,Paul Nardi,AS Monaco,Ligue 1,France,Goalkeeper,4230,47,3000000.0,0.5019342359767891
+765,35733,Francesco Pisano,Cagliari Calcio,Serie A,Italy,Defender,4238,51,3000000.0,0.5011283043197936
+766,181477,Thievy Bifouma,RCD Espanyol Barcelona; West Bromwich Albion; UD Almería; Granada CF; Stade Reims; SC Bastia,La Liga; Premier League; Ligue 1,Congo,Attack,4248,81,3000000.0,0.5004835589941973
+767,374040,Vincent Marchetti,AS Nancy-Lorraine,Ligue 1,France,Midfield,4256,71,3000000.0,0.500161186331399
+768,51040,Alexander Kacaniklic,Fulham FC; FC Nantes,Premier League; Ligue 1,Sweden,Attack,3571,69,3500000.0,0.4993552546744036
+769,48740,Milos Ninkovic,Thonon Évian Grand Genève FC,Ligue 1,Serbia,Midfield,2153,32,5500000.0,0.4977433913604126
+770,183780,Paul Seguin,VfL Wolfsburg,Bundesliga,Germany,Midfield,4287,73,3000000.0,0.4975822050290135
+771,335209,Kevin Diks,ACF Fiorentina,Serie A,Indonesia,Defender,2472,32,5000000.0,0.49742101869761446
+772,85393,Nicolas Viola,Palermo FC; Benevento Calcio,Serie A,Italy,Midfield,5597,106,2100000.0,0.49709864603481624
+773,631002,Raúl García,Real Betis Balompié,La Liga,Spain,Attack,3106,106,4000000.0,0.49709864603481624
+774,193515,Nabil Ghilas,Córdoba CF; Levante UD,La Liga,Algeria,Attack,3110,47,4000000.0,0.4967762733720181
+775,315332,Aymen Barkok,Eintracht Frankfurt; Fortuna Düsseldorf,Bundesliga,Morocco,Midfield,3624,113,3500000.0,0.49564796905222436
+776,290561,Alexandre Mendy,OGC Nice; EA Guingamp; FC Girondins Bordeaux; Stade Brestois 29,Ligue 1,Guinea-Bissau,Attack,3632,92,3500000.0,0.495003223726628
+777,42413,Darron Gibson,Everton FC; Sunderland AFC,Premier League,Ireland,Midfield,3125,52,4000000.0,0.49500322372662797
+778,119213,Richmond Boakye,Elche CF; Atalanta BC,La Liga; Serie A,,Attack,1954,49,6000000.0,0.49484203739522886
+779,279079,Lukas Mühl,1.FC Nuremberg,Bundesliga,Germany,Defender,2790,31,4500000.0,0.4945196647324307
+780,585700,Juan Cruz,Málaga CF,La Liga,Spain,Attack,2516,46,5000000.0,0.4941972920696325
+781,76386,Mustapha Yatabaré,EA Guingamp; Montpellier HSC,Ligue 1,,Attack,4318,63,3000000.0,0.4940361057382334
+782,120091,Kassim Abdallah,Olympique Marseille; Thonon Évian Grand Genève FC,Ligue 1,Comoros,Defender,5157,64,2500000.0,0.49403610573823337
+783,79510,Thiago Cionek,Palermo FC; SPAL,Serie A,Poland,Defender,8841,108,900000.0,0.4935525467440361
+784,7945,Miguel Ángel Corona,UD Almería,La Liga,Spain,Midfield,3144,54,4000000.0,0.4935525467440361
+785,331496,Valery Fernández,Girona FC,La Liga,Spain,Attack,2527,84,5000000.0,0.4932301740812379
+786,17885,Karim Haggui,Hannover 96; VfB Stuttgart,Bundesliga,Tunisia,Defender,1975,31,6000000.0,0.49306898774983876
+787,58112,Omar Ramos,Real Valladolid CF; CD Leganés,La Liga,Spain,Midfield,6139,97,2000000.0,0.49274661508704065
+788,72121,Johan Gastien,Dijon FCO,Ligue 1,France,Midfield,8517,106,1000000.0,0.49258542875564154
+789,34579,Srdjan Lakic,Eintracht Frankfurt; VfL Wolfsburg; SC Paderborn 07,Bundesliga,Croatia,Attack,1983,47,6000000.0,0.49242424242424243
+790,188157,Sebastián Cristóforo,Sevilla FC; ACF Fiorentina; Getafe CF; SD Eibar,La Liga; Serie A,Uruguay,Midfield,4331,93,3000000.0,0.49242424242424243
+791,50303,Tim Matavz,FC Augsburg; Genoa CFC,Bundesliga; Serie A,Slovenia,Attack,1349,34,7000000.0,0.4922630560928433
+792,131667,Ramon Azeez,UD Almería; Granada CF,La Liga,Nigeria,Midfield,4340,71,3000000.0,0.4921018697614442
+793,444211,Will Smallbone,Southampton FC,Premier League,Ireland,Midfield,1380,34,7000000.0,0.49097356544165055
+794,22594,Daniele Galloppa,Parma Calcio 1913,Serie A,Italy,Midfield,1385,30,7000000.0,0.49065119277885233
+795,170495,Ismael Diomande,AS Saint-Étienne; SM Caen,Ligue 1,Cote d'Ivoire,Midfield,5221,91,2500000.0,0.49032882011605416
+796,32207,Marcel Heller,SV Darmstadt 98; FC Augsburg,Bundesliga,Germany,Midfield,6955,89,1750000.0,0.49032882011605416
+797,284430,Aarón Escandell,Granada CF,La Liga,Spain,Goalkeeper,4395,50,3000000.0,0.49016763378465505
+798,297194,Iván Villar,Celta de Vigo,La Liga,Spain,Goalkeeper,5233,61,2500000.0,0.48952288845905867
+799,58013,Apoño,Real Zaragoza,La Liga,Spain,Midfield,2553,32,5000000.0,0.48936170212765956
+800,57800,Roberto Fernández,Granada CF,La Liga,Spain,Goalkeeper,6210,69,2000000.0,0.4892005157962605
+801,240897,Arturo Calabresi,Bologna Football Club 1909; Amiens SC,Serie A; Ligue 1,Italy,Defender,4844,68,2800000.0,0.48855577047066406
+802,159883,Ernesto Torregrossa,Brescia Calcio,Serie A,Venezuela,Attack,2018,31,6000000.0,0.4882333978078659
+803,158795,David Timor,CA Osasuna; CD Leganés; Girona FC; Getafe CF,La Liga,Spain,Midfield,6220,111,2000000.0,0.4882333978078659
+804,13979,Ashkan Dejagah,Fulham FC; VfL Wolfsburg,Premier League; Bundesliga,Iran,Attack,2565,44,5000000.0,0.4875886524822695
+805,33447,Ahmed Kantari,Stade Brestois 29; RC Lens,Ligue 1,Morocco,Defender,5281,60,2500000.0,0.4872662798194713
+806,160080,Yacouba Sylla,Aston Villa; Stade Rennais FC; Montpellier HSC,Premier League; Ligue 1,Mali,Midfield,3716,61,3500000.0,0.48694390715667313
+807,137438,Sadio Diallo,Stade Rennais FC; FC Lorient; SC Bastia,Ligue 1,Guinea,Midfield,5285,115,2500000.0,0.48694390715667313
+808,37892,Ion Ansotegi,Real Sociedad; SD Eibar,La Liga,Spain,Defender,4420,59,3000000.0,0.4866215344938749
+809,72422,Mamadou Samassa,EA Guingamp; ESTAC Troyes,Ligue 1,Mali,Goalkeeper,4421,50,3000000.0,0.48613797549967763
+810,4691,Peter Niemeyer,Hertha BSC; SV Darmstadt 98,Bundesliga,Germany,Midfield,5290,83,2500000.0,0.48533204384268214
+811,75282,François Bellugou,FC Lorient; ESTAC Troyes,Ligue 1,France,Midfield,7623,109,1500000.0,0.48468729851708575
+812,80031,Darío Lezcano,FC Ingolstadt 04,Bundesliga,Paraguay,Attack,3766,50,3500000.0,0.4840425531914894
+813,130108,Pajtim Kasami,Fulham FC,Premier League,Switzerland,Midfield,1827,31,6500000.0,0.48372018052869115
+814,52530,Sven Schipplock,TSG 1899 Hoffenheim; Hamburger SV; SV Darmstadt 98,Bundesliga,Germany,Attack,5318,149,2500000.0,0.48355899419729204
+815,340394,Abdelhamid Sabiri,Huddersfield Town; SC Paderborn 07,Premier League; Bundesliga,Morocco,Midfield,3289,64,4000000.0,0.48226950354609927
+816,17693,Sébastien Roudet,FC Sochaux-Montbéliard,Ligue 1,France,Midfield,4477,58,3000000.0,0.4821083172147002
+817,48164,Slobodan Medojevic,VfL Wolfsburg; Eintracht Frankfurt,Bundesliga,Serbia,Midfield,3291,57,4000000.0,0.4819471308833011
+818,57449,Jamel Saihi,Montpellier HSC; Angers SCO,Ligue 1,Tunisia,Midfield,3783,63,3500000.0,0.481785944551902
+819,34672,Joey O'Brien,West Ham United,Premier League,Ireland,Defender,4485,59,3000000.0,0.481785944551902
+820,41242,David N'Gog,Swansea City; Stade Reims,Premier League; Ligue 1,France,Attack,2618,47,5000000.0,0.4809800128949065
+821,539232,Jessy Deminguet,SM Caen,Ligue 1,France,Midfield,4507,81,3000000.0,0.48081882656350744
+822,39010,Jordi Gómez,Wigan Athletic; Sunderland AFC,Premier League,Spain,Midfield,3814,67,3500000.0,0.48081882656350744
+823,45646,Diego Buonanotte,Málaga CF; Granada CF,La Liga,Argentina,Midfield,1876,48,6500000.0,0.4808188265635074
+824,580747,Yvann Maçon,AS Saint-Étienne,Ligue 1,Guadeloupe,Defender,2940,42,4500000.0,0.48001289490651194
+825,121402,Ahmad Benali,Delfino Pescara 1936; FC Crotone,Serie A,Libya,Midfield,4534,61,3000000.0,0.47985170857511283
+826,176591,Jota Peleteiro,SD Eibar; Aston Villa,La Liga; Premier League,Spain,Attack,2636,51,5000000.0,0.47936814958091556
+827,55866,Sebastián Dubarbier,UD Almería,La Liga,Argentina,Defender,5069,59,2650000.0,0.4793681495809155
+828,16595,Juan Valera,Getafe CF,La Liga,Spain,Defender,5399,64,2500000.0,0.47920696324951645
+829,12028,Kossi Agassa,Stade Reims,Ligue 1,Togo,Goalkeeper,8336,96,1250000.0,0.47920696324951645
+830,54933,Gilles Sunu,FC Lorient; Thonon Évian Grand Genève FC; Angers SCO,Ligue 1,Togo,Midfield,6489,137,2000000.0,0.4788845905867183
+831,93905,Muhamed Besic,Everton FC; Sheffield United,Premier League,Bosnia-Herzegovina,Midfield,2131,46,6000000.0,0.47856221792392006
+832,56543,Jesús Rueda,Real Valladolid CF,La Liga,Spain,Defender,5404,63,2500000.0,0.47856221792392006
+833,37287,Tarik Elyounoussi,TSG 1899 Hoffenheim,Bundesliga,Norway,Attack,2952,52,4500000.0,0.47775628626692457
+834,77262,Michel Macedo,UD Almería; UD Las Palmas,La Liga,Brazil,Defender,5429,67,2500000.0,0.47759509993552546
+835,256680,Juanpi,Málaga CF; SD Huesca,La Liga,Venezuela,Midfield,4564,86,3000000.0,0.4772727272727273
+836,37013,Sami Allagui,Hertha BSC; 1.FSV Mainz 05,Bundesliga,Tunisia,Attack,2961,61,4500000.0,0.4763056092843327
+837,12814,Julián Speroni,Crystal Palace,Premier League,Argentina,Goalkeeper,7795,87,1500000.0,0.4763056092843327
+838,64484,Manucho,Real Valladolid CF; Rayo Vallecano,La Liga,Angola,Attack,5116,116,2600000.0,0.4761444229529336
+839,40442,Paco Montañés,Real Zaragoza; RCD Espanyol Barcelona,La Liga,Spain,Attack,4582,70,3000000.0,0.4759832366215345
+840,57403,Foued Kadir,Olympique Marseille; Valenciennes FC; Stade Rennais FC; Real Betis Balompié,Ligue 1; La Liga,Algeria,Midfield,3875,69,3500000.0,0.47566086395873636
+841,247459,Chadrac Akolo,VfB Stuttgart; Amiens SC,Bundesliga; Ligue 1,DR Congo,Attack,2168,53,6000000.0,0.4746937459703417
+842,51321,Darren Randolph,West Ham United,Premier League,Ireland,Goalkeeper,2970,33,4500000.0,0.47453255963894264
+843,56762,Pasquale Schiattarella,US Livorno 1915; SPAL,Serie A,Italy,Midfield,7554,105,1600000.0,0.4742101869761444
+844,32622,Patrick Ebert,Real Valladolid CF; Rayo Vallecano,La Liga,Germany,Attack,3359,45,4000000.0,0.4740490006447453
+845,31173,Jan Rosenthal,SC Freiburg; Eintracht Frankfurt; SV Darmstadt 98,Bundesliga,Germany,Attack,4598,80,3000000.0,0.4740490006447453
+846,5430,Lionel Mathis,EA Guingamp,Ligue 1,France,Midfield,6553,82,2000000.0,0.47372662798194715
+847,246277,Burgui,RCD Espanyol Barcelona; Sporting Gijón; Deportivo Alavés,La Liga,Spain,Attack,4621,100,3000000.0,0.47275950999355254
+848,59699,Simone Iacoponi,Parma Calcio 1913,Serie A,Italy,Defender,7596,90,1600000.0,0.4724371373307543
+849,28868,Tiberio Guarente,Bologna Football Club 1909; Chievo Verona; Catania FC; FC Empoli,Serie A,Italy,Midfield,2401,44,5500000.0,0.471792392005158
+850,332305,Juan Otero,Amiens SC,Ligue 1,Colombia,Attack,3383,51,4000000.0,0.4716312056737589
+851,118732,Pablo Chavarría,RC Lens; Stade Reims; RCD Mallorca,Ligue 1; La Liga,Argentina,Attack,4664,74,3000000.0,0.47147001934235977
+852,538810,Chris Ramos,Real Valladolid CF,La Liga,Spain,Attack,3386,53,4000000.0,0.47098646034816244
+853,178314,Victorien Angban,Granada CF; FC Metz,La Liga; Ligue 1,Cote d'Ivoire,Midfield,3399,56,4000000.0,0.4706640876853643
+854,38415,Johannes Flum,SC Freiburg; Eintracht Frankfurt,Bundesliga,Germany,Midfield,3401,64,4000000.0,0.47018052869116694
+855,33942,Florian Marange,FC Girondins Bordeaux; FC Sochaux-Montbéliard; SC Bastia,Ligue 1,France,Defender,7250,95,1800000.0,0.4698581560283688
+856,252767,Ivaylo Chochev,Palermo FC,Serie A,Bulgaria,Midfield,5126,75,2800000.0,0.4698581560283688
+857,168933,Eddy Gnahoré,FC Crotone; Amiens SC,Serie A; Ligue 1,France,Midfield,3404,52,4000000.0,0.46969696969696967
+858,33905,Mohamed Fofana,Stade Reims,Ligue 1,Mali,Defender,3705,48,3600000.0,0.4693745970341715
+859,187105,Mike van der Hoorn,Swansea City,Premier League,Netherlands,Defender,3975,55,3500000.0,0.46921341070277245
+860,3276,Shola Ameobi,Newcastle United; Crystal Palace,Premier League,Nigeria,Attack,2001,53,6500000.0,0.4692134107027724
+861,69436,Mateo Pavlovic,SV Werder Bremen; Angers SCO,Bundesliga; Ligue 1,Croatia,Defender,7537,95,1750000.0,0.4687298517085751
+862,164091,Marco Capuano,Delfino Pescara 1936; Cagliari Calcio; FC Crotone; Frosinone Calcio,Serie A,Italy,Defender,7297,90,1800000.0,0.4682462927143778
+863,243606,Anastasios Donis,OGC Nice; VfB Stuttgart; Stade Reims,Ligue 1; Bundesliga,Greece,Attack,3417,91,4000000.0,0.4679239200515796
+864,43960,Rudy Mater,Valenciennes FC,Ligue 1,France,Defender,3989,50,3500000.0,0.46776273372018057
+865,117469,Paweł Olkowski,1.FC Köln,Bundesliga,Poland,Defender,4724,65,3000000.0,0.46760154738878146
+866,36039,Pavle Ninkov,FC Toulouse,Ligue 1,Serbia,Defender,4724,80,3000000.0,0.46760154738878146
+867,57866,Adrián Colunga,Getafe CF,La Liga,Spain,Attack,2741,49,5000000.0,0.4671179883945841
+868,90964,Joe Bennett,Aston Villa; Cardiff City,Premier League,England,Defender,4725,60,3000000.0,0.466956802063185
+869,86079,Luca Siligardi,US Livorno 1915; Hellas Verona; Parma Calcio 1913,Serie A,Italy,Attack,4734,101,3000000.0,0.46647324306898774
+870,33572,Henrique,FC Girondins Bordeaux,Ligue 1,Brazil,Defender,4739,55,3000000.0,0.46598968407479047
+871,18543,Víctor Montaño,Stade Rennais FC; Montpellier HSC,Ligue 1,Colombia,Attack,2038,46,6500000.0,0.4655061250805932
+872,2421,Michael Rensing,Bayer 04 Leverkusen; Fortuna Düsseldorf,Bundesliga,Germany,Goalkeeper,3060,34,4500000.0,0.46518375241779497
+873,2805,Christian Pander,Hannover 96,Bundesliga,Germany,Defender,2055,34,6500000.0,0.4637330754352031
+874,9500,David Marshall,Cardiff City; Hull City,Premier League,Scotland,Goalkeeper,4770,53,3000000.0,0.4634107027724049
+875,33831,Modou Sougou,Olympique Marseille; Thonon Évian Grand Genève FC,Ligue 1,Senegal,Attack,3491,66,4000000.0,0.4626047711154094
+876,164108,Bruno Martella,FC Crotone; Brescia Calcio,Serie A,Italy,Defender,6206,83,2200000.0,0.46196002578981304
+877,53602,Marvin Bakalorz,Eintracht Frankfurt; SC Paderborn 07; Hannover 96,Bundesliga,Germany,Midfield,5737,85,2500000.0,0.46179883945841393
+878,22377,Fabien Camus,ESTAC Troyes; Thonon Évian Grand Genève FC,Ligue 1,Tunisia,Midfield,5739,86,2500000.0,0.4614764667956157
+879,9508,Shaun Maloney,Wigan Athletic; Hull City,Premier League,Scotland,Midfield,3224,45,4250000.0,0.4614764667956157
+880,58995,Anthony Jung,FC Ingolstadt 04,Bundesliga,Germany,Defender,8335,121,1500000.0,0.46050934880722116
+881,59938,Elderson,AS Monaco; Sporting Gijón,Ligue 1; La Liga,Nigeria,Defender,3105,40,4500000.0,0.46002578981302383
+882,34283,Lazaros Christodoulopoulos,Bologna Football Club 1909; Hellas Verona; UC Sampdoria,Serie A,Greece,Midfield,4113,71,3500000.0,0.4579303675048356
+883,255220,Romain Philippoteaux,FC Lorient; Nîmes Olympique,Ligue 1,France,Midfield,6817,123,2000000.0,0.4579303675048356
+884,110078,Eduardo,OGC Nice,Ligue 1,Brazil,Midfield,2323,30,6000000.0,0.45793036750483557
+885,20913,Giuseppe Biava,Società Sportiva Lazio S.p.A.; Atalanta BC,Serie A,Italy,Defender,5829,69,2500000.0,0.4572856221792392
+886,45717,Nenê,Cagliari Calcio; Hellas Verona,Serie A,Brazil,Attack,2342,54,6000000.0,0.4564796905222437
+887,56609,Eros Pisano,Genoa CFC; Palermo FC; Hellas Verona,Serie A,Italy,Defender,5837,74,2500000.0,0.45631850419084463
+888,182923,Stefano Denswil,Bologna Football Club 1909,Serie A,Suriname,Defender,2353,31,6000000.0,0.4556737588652482
+889,30747,Emiliano Armenteros,CA Osasuna,La Liga,Argentina,Attack,4870,59,3000000.0,0.45535138620245
+890,5278,Alexander Manninger,FC Augsburg,Bundesliga,Austria,Goalkeeper,3153,36,4500000.0,0.45535138620245
+891,41323,Andreas Luthe,FC Augsburg,Bundesliga,Germany,Goalkeeper,7859,88,1750000.0,0.45454545454545453
+892,17130,Michele Pazienza,Bologna Football Club 1909,Serie A,Italy,Midfield,2373,37,6000000.0,0.45390070921985815
+893,68183,David Meyler,Sunderland AFC; Hull City,Premier League,Ireland,Midfield,4882,81,3000000.0,0.45373952288845903
+894,5614,Cédric Kanté,FC Sochaux-Montbéliard,Ligue 1,Mali,Defender,4217,49,3500000.0,0.4530947775628627
+895,50477,Yohan Benalouane,Parma Calcio 1913; Atalanta BC; Leicester City,Serie A; Premier League,Tunisia,Defender,4222,58,3500000.0,0.4526112185686654
+896,22645,Ronald Zubar,AC Ajaccio,Ligue 1,Guadeloupe,Defender,2603,30,5500000.0,0.4513217279174726
+897,71904,Antonio Amaya,Real Betis Balompié; Rayo Vallecano,La Liga,Spain,Defender,6998,88,2000000.0,0.4511605415860735
+898,494586,Mickaël Nadé,AS Saint-Étienne,Ligue 1,France,Defender,4936,57,3000000.0,0.45019342359767894
+899,2767,Alexander Madlung,VfL Wolfsburg; Eintracht Frankfurt,Bundesliga,Germany,Defender,3224,53,4500000.0,0.45003223726627983
+900,19438,Michele Canini,Genoa CFC; Atalanta BC; Chievo Verona,Serie A,Italy,Defender,3227,40,4500000.0,0.44938749194068345
+901,192169,Jonas Föhrenbach,SC Freiburg,Bundesliga,Germany,Defender,7050,90,2000000.0,0.44922630560928434
+902,139173,Achraf Lazaar,Palermo FC; Benevento Calcio,Serie A,Morocco,Defender,4962,68,3000000.0,0.44922630560928434
+903,42513,Gary Hooper,Norwich City,Premier League,England,Attack,2031,34,7000000.0,0.4490651192778852
+904,41063,Mustapha Diallo,EA Guingamp; Nîmes Olympique,Ligue 1,Senegal,Midfield,8749,151,1500000.0,0.4489039329464861
+905,268176,Sergi Palencia,FC Girondins Bordeaux; AS Saint-Étienne,Ligue 1,Spain,Defender,2455,31,6000000.0,0.4472920696324951
+906,20378,Diego Pérez,Bologna Football Club 1909,Serie A,Uruguay,Midfield,3269,50,4500000.0,0.4468085106382979
+907,57785,Roberto Canella,Deportivo de La Coruña; Sporting Gijón,La Liga,Spain,Defender,2908,38,5000000.0,0.44680851063829785
+908,12704,Steven Whittaker,Norwich City,Premier League,Scotland,Defender,3129,41,4750000.0,0.4463249516441006
+909,162074,Álvaro Vadillo,Real Betis Balompié; Granada CF,La Liga,Spain,Attack,2912,59,5000000.0,0.44616376531270147
+910,264567,Baptiste Guillaume,RC Lens; LOSC Lille; Angers SCO; Nîmes Olympique,Ligue 1,Belgium,Attack,3671,77,4000000.0,0.4451966473243069
+911,51283,Rémi Gomis,Valenciennes FC; FC Nantes,Ligue 1,Senegal,Midfield,5041,73,3000000.0,0.4450354609929078
+912,60539,Lamine Gassama,FC Lorient,Ligue 1,Senegal,Defender,8843,102,1500000.0,0.4443907156673114
+913,8176,Oier Olazábal,Granada CF; Real Sociedad; Levante UD; RCD Espanyol Barcelona,La Liga,Spain,Goalkeeper,6032,68,2500000.0,0.4439071566731141
+914,19979,Germán Lux,Deportivo de La Coruña,La Liga,Argentina,Goalkeeper,5708,65,2600000.0,0.4435847840103159
+915,58330,Víctor Díaz,CD Leganés; Granada CF,La Liga,Spain,Defender,7185,102,2000000.0,0.44310122501611865
+916,215686,Rémi Walter,OGC Nice; ESTAC Troyes,Ligue 1,France,Midfield,4326,74,3500000.0,0.4418117343649259
+917,276255,Yacine Bammou,FC Nantes; SM Caen,Ligue 1,Morocco,Attack,7242,134,2000000.0,0.4398774983881367
+918,66022,Innocent Emeghara,FC Lorient; Siena FC; US Livorno 1915,Ligue 1; Serie A,Switzerland,Attack,2965,48,5000000.0,0.43987749838813667
+919,38592,Juanito Gómez,Hellas Verona,Serie A,Argentina,Attack,5107,89,3000000.0,0.43987749838813667
+920,125614,Sargis Adamyan,TSG 1899 Hoffenheim,Bundesliga,Armenia,Attack,2965,90,5000000.0,0.43987749838813667
+921,7512,Borja Fernández,Getafe CF; SD Eibar; Real Valladolid CF,La Liga,Spain,Midfield,5108,80,3000000.0,0.4395551257253385
+922,3788,Matthew Etherington,Stoke City,Premier League,England,Midfield,2146,42,7000000.0,0.43955512572533845
+923,111783,Alejandro Bedoya,FC Nantes,Ligue 1,United States,Midfield,6137,87,2500000.0,0.4392327530625403
+924,289510,Samuel Bastien,Chievo Verona,Serie A,DR Congo,Midfield,2152,33,7000000.0,0.43907156673114117
+925,391376,Lamine Fomba,Nîmes Olympique,Ligue 1,France,Midfield,3765,59,4000000.0,0.4389103803997421
+926,312017,Ramadan Sobhi,Stoke City; Huddersfield Town,Premier League,Egypt,Attack,2159,45,7000000.0,0.4374597034171502
+927,172181,Diogo Figueiras,Sevilla FC; Genoa CFC,La Liga; Serie A,Portugal,Defender,4404,58,3500000.0,0.4372985170857511
+928,88706,Simone Romagnoli,Delfino Pescara 1936; AC Carpi; Bologna Football Club 1909,Serie A,Italy,Defender,8112,104,1900000.0,0.4369761444229529
+929,199633,Raman Chibsah,US Sassuolo; Frosinone Calcio; Benevento Calcio,Serie A,Ghana,Midfield,6193,94,2500000.0,0.43665377176015474
+930,25523,Karim El Ahmadi,Aston Villa,Premier League,Morocco,Midfield,3359,51,4500000.0,0.43665377176015474
+931,156814,Javi Eraso,Athletic Bilbao; CD Leganés,La Liga,Spain,Midfield,5146,90,3000000.0,0.43665377176015474
+932,129358,Marcin Kamiński,VfB Stuttgart; Fortuna Düsseldorf,Bundesliga,Poland,Defender,4413,63,3500000.0,0.4363313990973566
+933,67322,Anthony Pilkington,Norwich City,Premier League,Ireland,Attack,2988,45,5000000.0,0.435525467440361
+934,126796,Adrien Regattin,FC Toulouse,Ligue 1,Morocco,Attack,5196,115,3000000.0,0.43520309477756286
+935,103563,Tongo Doumbia,Valenciennes FC; FC Toulouse,Ligue 1,Mali,Midfield,7386,95,2000000.0,0.4347195357833656
+936,51667,Kiko Olivas,Real Valladolid CF,La Liga,Spain,Defender,6217,75,2500000.0,0.4347195357833656
+937,823,Hanno Balitsch,1.FC Nuremberg,Bundesliga,Germany,Midfield,3830,47,4000000.0,0.43407479045776914
+938,434207,Aaron Connolly,Brighton & Hove Albion,Premier League,Ireland,Attack,2207,45,7000000.0,0.4339136041263701
+939,29152,Danny Graham,Sunderland AFC; Swansea City; Hull City,Premier League,England,Attack,3836,73,4000000.0,0.43326885880077365
+940,289182,Christopher Antwi-Adjei,SC Paderborn 07,Bundesliga,Ghana,Attack,6789,113,2200000.0,0.4323017408123791
+941,61561,Barry Bannan,Aston Villa; Crystal Palace,Premier League,Scotland,Midfield,2769,46,5500000.0,0.43197936814958093
+942,47646,Marco Biagianti,Catania FC; US Livorno 1915,Serie A,Italy,Midfield,3548,55,4200000.0,0.43149580915538366
+943,24589,Wes Hoolahan,Norwich City,Premier League,Ireland,Midfield,5235,79,3000000.0,0.4314958091553836
+944,249157,Fredrik Jensen,FC Augsburg,Bundesliga,Finland,Midfield,4472,103,3500000.0,0.43133462282398455
+945,89726,Jon Aurtenetxe,Athletic Bilbao; Celta de Vigo,La Liga,Spain,Defender,3868,51,4000000.0,0.4311734364925854
+946,52918,André Dias,Società Sportiva Lazio S.p.A.,Serie A,Brazil,Defender,3415,43,4500000.0,0.4310122501611863
+947,44594,Felix Wiedwald,Eintracht Frankfurt; SV Werder Bremen,Bundesliga,Germany,Goalkeeper,6362,73,2500000.0,0.43020631850419083
+948,28318,Pape Diakhaté,Granada CF,La Liga,Senegal,Defender,2611,32,6000000.0,0.42907801418439717
+949,39908,Rudy Gestede,Cardiff City; Aston Villa; Middlesbrough FC,Premier League,Benin,Attack,2232,51,7000000.0,0.4290780141843971
+950,8323,Álvaro Rubio,Real Valladolid CF,La Liga,Spain,Midfield,5287,66,3000000.0,0.4285944551901999
+951,55042,Diego Rigonato,Stade Reims,Ligue 1,Brazil,Midfield,6425,90,2500000.0,0.4282720825274017
+952,17244,Ilan,SC Bastia,Ligue 1,Brazil,Attack,2239,52,7000000.0,0.4274661508704062
+953,83983,Lucas Mendes,Olympique Marseille,Ligue 1,Qatar,Defender,3931,48,4000000.0,0.4274661508704062
+954,44713,Christian Clemens,FC Schalke 04; 1.FSV Mainz 05; 1.FC Köln,Bundesliga,Germany,Attack,4561,86,3500000.0,0.4263378465506125
+955,33927,Benjamin Nivet,ESTAC Troyes,Ligue 1,France,Midfield,6805,97,2400000.0,0.4261766602192134
+956,14081,Ben Watson,Wigan Athletic; Watford FC,Premier League,England,Midfield,3947,59,4000000.0,0.42585428755641525
+957,67864,Maurício,Società Sportiva Lazio S.p.A.,Serie A,Brazil,Defender,3095,40,5000000.0,0.425531914893617
+958,110928,Lorenzo Crisetig,Bologna Football Club 1909; FC Crotone; Frosinone Calcio,Serie A,Italy,Midfield,3957,53,4000000.0,0.42488716956802064
+959,77108,Jérôme Gondorf,SV Darmstadt 98; SV Werder Bremen; SC Freiburg,Bundesliga,Germany,Midfield,7663,110,2000000.0,0.42472598323662153
+960,99232,Marco D'Alessandro,Atalanta BC; Benevento Calcio; Udinese Calcio; SPAL,Serie A,Italy,Attack,6493,135,2500000.0,0.4244036105738233
+961,67421,Kyle Bartley,Swansea City,Premier League,England,Defender,3970,51,4000000.0,0.42392005157962603
+962,217728,Alexander Szymanowski,CD Leganés,La Liga,Argentina,Attack,3112,42,5000000.0,0.42295293359123143
+963,78917,Julien Faussurier,ESTAC Troyes; FC Sochaux-Montbéliard; Stade Brestois 29,Ligue 1,France,Defender,8931,120,1750000.0,0.42263056092843326
+964,149551,Jonathan Delaplace,LOSC Lille; SM Caen,Ligue 1,France,Midfield,7726,124,2000000.0,0.422147001934236
+965,5578,Nicolas Penneteau,Valenciennes FC,Ligue 1,France,Goalkeeper,5940,66,2800000.0,0.422147001934236
+966,12029,Ludovic Butelle,Angers SCO,Ligue 1,France,Goalkeeper,8943,100,1750000.0,0.42214700193423593
+967,229853,Birama Touré,FC Nantes,Ligue 1,Mali,Midfield,7741,101,2000000.0,0.4211798839458414
+968,333516,Sebastian Vasiliadis,SC Paderborn 07,Bundesliga,Greece,Midfield,4012,51,4000000.0,0.42101869761444227
+969,20410,Jussiê,FC Girondins Bordeaux,Ligue 1,Brazil,Midfield,2562,51,6250000.0,0.42085751128304316
+970,21872,Gianluca Pegolo,Siena FC; US Sassuolo,Serie A,Italy,Goalkeeper,7744,88,2000000.0,0.420535138620245
+971,5451,Alaeddine Yahia,SM Caen,Ligue 1,Tunisia,Defender,6098,75,2600000.0,0.4200515796260477
+972,131109,Gastón Brugman,Palermo FC; Delfino Pescara 1936; Parma Calcio 1913,Serie A,Uruguay,Midfield,5988,90,2800000.0,0.4198903932946486
+973,71019,Bartosz Salamon,UC Sampdoria; Cagliari Calcio; SPAL; Frosinone Calcio,Serie A,Poland,Defender,4694,66,3500000.0,0.4192456479690522
+974,77383,Eiji Kawashima,FC Metz; RC Strasbourg Alsace,Ligue 1,Japan,Goalkeeper,5450,61,3000000.0,0.4192456479690522
+975,111082,Javier Aquino,Villarreal CF; Rayo Vallecano,La Liga,Mexico,Defender,3154,57,5000000.0,0.4190844616376531
+976,351755,Darnell Furlong,Queens Park Rangers,Premier League,England,Defender,3155,38,5000000.0,0.4187620889748549
+977,78553,Bamba Anderson,Eintracht Frankfurt,Bundesliga,Brazil,Defender,5470,65,3000000.0,0.4182785299806576
+978,43242,Alain Traoré,FC Lorient; AS Monaco,Ligue 1,Burkina Faso,Midfield,2537,42,6500000.0,0.41795615731785946
+979,43942,Issiar Dia,GFC Ajaccio; AS Nancy-Lorraine,Ligue 1,Senegal,Attack,2360,42,7000000.0,0.41779497098646035
+980,237125,Famara Diédhiou,Angers SCO,Ligue 1,Senegal,Attack,2365,39,7000000.0,0.41715022566086396
+981,62713,Ryder Matos,ACF Fiorentina; Córdoba CF; Udinese Calcio; AC Carpi; Hellas Verona,Serie A; La Liga,Brazil,Attack,4078,91,4000000.0,0.41682785299806574
+982,160560,Gaetano Letizia,AC Carpi; Benevento Calcio,Serie A,Italy,Defender,6606,88,2500000.0,0.4166666666666667
+983,1094,Emanuel Pogatetz,West Ham United; VfL Wolfsburg; 1.FC Nuremberg,Premier League; Bundesliga,Austria,Defender,2732,37,6000000.0,0.41553836234687297
+984,124983,Bryan Oviedo,Everton FC; Sunderland AFC,Premier League,Costa Rica,Defender,3588,60,4500000.0,0.41489361702127664
+985,129505,Marcello Trotta,US Sassuolo; FC Crotone; Frosinone Calcio,Serie A,Italy,Attack,4745,84,3500000.0,0.41392649903288203
+986,231586,Jannes Horn,VfL Wolfsburg; 1.FC Köln,Bundesliga,Germany,Defender,4104,66,4000000.0,0.4136041263700838
+987,193867,Liam Henderson,Hellas Verona,Serie A,Scotland,Midfield,5568,104,3000000.0,0.4134429400386847
+988,45882,Fabri,Real Betis Balompié; Deportivo de La Coruña; Fulham FC; RCD Mallorca,La Liga; Premier League,Spain,Goalkeeper,3240,36,5000000.0,0.41295938104448743
+989,23955,Joris Marveaux,Montpellier HSC,Ligue 1,Martinique,Midfield,4765,80,3500000.0,0.41247582205029015
+990,127457,Álex López,Celta de Vigo,La Liga,Spain,Midfield,5594,89,3000000.0,0.41166989039329466
+991,225004,Valentín Vada,FC Girondins Bordeaux; AS Saint-Étienne,Ligue 1,Argentina,Midfield,4124,79,4000000.0,0.41134751773049644
+992,469949,Noah Katterbach,1.FC Köln,Bundesliga,Germany,Defender,2428,39,7000000.0,0.41134751773049644
+993,251897,Asier Villalibre,Athletic Bilbao,La Liga,Spain,Attack,3637,118,4500000.0,0.41102514506769827
+994,61573,Jonathan Hogg,Huddersfield Town,Premier League,England,Midfield,4787,59,3500000.0,0.4107027724049001
+995,34784,Lasse Schöne,Genoa CFC,Serie A,Denmark,Midfield,2433,32,7000000.0,0.41070277240490005
+996,17804,Sébastien Pocognoli,Hannover 96; West Bromwich Albion,Bundesliga; Premier League,Belgium,Defender,3531,46,4750000.0,0.4103803997421019
+997,5698,Cédric Barbosa,Thonon Évian Grand Genève FC,Ligue 1,France,Attack,5637,87,3000000.0,0.4102192134107028
+998,342039,Yannik Keitel,SC Freiburg,Bundesliga,Germany,Midfield,3280,81,5000000.0,0.41005802707930367
+999,5521,Grégory Pujol,Valenciennes FC; GFC Ajaccio,Ligue 1,France,Attack,4174,69,4000000.0,0.4097356544165055
+1000,53400,Dominick Drexler,1.FC Köln,Bundesliga,Germany,Midfield,4179,81,4000000.0,0.4094132817537073
+1001,164265,Dong-won Ji,FC Augsburg; Sunderland AFC; 1.FSV Mainz 05,Bundesliga; Premier League,"Korea, South",Attack,6749,128,2500000.0,0.4086073500967118
+1002,290533,Yann Bodiger,FC Toulouse,Ligue 1,France,Midfield,4204,77,4000000.0,0.4084461637653127
+1003,203517,Steven Moreira,Stade Rennais FC; FC Lorient; FC Toulouse,Ligue 1,Cape Verde,Defender,8231,113,2000000.0,0.4082849774339136
+1004,18871,Jean Beausejour,Wigan Athletic,Premier League,Chile,Defender,2784,34,6000000.0,0.4078014184397163
+1005,476237,Steven Alzate,Brighton & Hove Albion,Premier League,Colombia,Midfield,2485,43,7000000.0,0.4065119277885235
+1006,131758,Jesse Joronen,Brescia Calcio,Serie A,Finland,Goalkeeper,3312,37,5000000.0,0.4061895551257253
+1007,80009,Odaïr Fortes,Stade Reims,Ligue 1,Cape Verde,Attack,6809,107,2500000.0,0.40538362346872986
+1008,55046,Benjamin Angoua,Valenciennes FC; EA Guingamp,Ligue 1,Cote d'Ivoire,Defender,6813,86,2500000.0,0.4047388781431335
+1009,16833,Ciprian Marica,FC Schalke 04; Getafe CF,Bundesliga; La Liga,Romania,Attack,2507,40,7000000.0,0.40457769181173436
+1010,261611,Ali Adnan,Udinese Calcio; Atalanta BC,Serie A,Iraq,Defender,4583,68,3800000.0,0.40361057382333976
+1011,11530,Lionel Carole,Sevilla FC; RC Strasbourg Alsace,La Liga; Ligue 1,France,Defender,4874,74,3500000.0,0.4034493874919407
+1012,74448,Andrea Rispoli,Parma Calcio 1913; Palermo FC; US Lecce,Serie A,Italy,Defender,8344,130,2000000.0,0.40151515151515155
+1013,79967,Simon Zoller,1.FC Köln,Bundesliga,Germany,Attack,5796,114,3000000.0,0.4015151515151515
+1014,63737,Petr Jiracek,Hamburger SV,Bundesliga,Czech Republic,Midfield,2824,53,6000000.0,0.4015151515151515
+1015,94783,Santiago Vergini,Sunderland AFC; Getafe CF,Premier League; La Liga,Argentina,Defender,5804,68,3000000.0,0.4011927788523533
+1016,348601,Mehdi Léris,Chievo Verona; UC Sampdoria,Serie A,Algeria,Attack,6889,128,2500000.0,0.4011927788523533
+1017,3441,Timmy Simons,1.FC Nuremberg,Bundesliga,Belgium,Midfield,3030,34,5500000.0,0.40103159252095427
+1018,156618,Maxime Colin,ESTAC Troyes,Ligue 1,France,Defender,4920,62,3500000.0,0.40103159252095427
+1019,453824,Josh Maja,FC Girondins Bordeaux,Ligue 1,Nigeria,Attack,2539,60,7000000.0,0.4005480335267569
+1020,282421,Javi Muñoz,Deportivo Alavés,La Liga,Spain,Midfield,5833,90,3000000.0,0.39925854287556417
+1021,34372,Landry N'Guémo,FC Girondins Bordeaux; AS Saint-Étienne,Ligue 1,Cameroon,Midfield,3373,48,5000000.0,0.399097356544165
+1022,137841,Romain Amalfitano,Dijon FCO,Ligue 1,France,Midfield,8482,120,2000000.0,0.3986137975499678
+1023,276111,David Costas,Celta de Vigo,La Liga,Spain,Defender,4955,65,3500000.0,0.39829142488716957
+1024,14940,Razvan Rat,Rayo Vallecano; West Ham United,La Liga; Premier League,Romania,Defender,2702,35,6500000.0,0.39732430689877496
+1025,5576,Fabien Audard,FC Lorient,Ligue 1,France,Goalkeeper,4972,58,3500000.0,0.3970019342359768
+1026,28002,Damià Abella,CA Osasuna,La Liga,Spain,Defender,5303,63,3400000.0,0.39490651192778853
+1027,49501,Elias Kachunga,SC Paderborn 07; FC Ingolstadt 04; Huddersfield Town,Bundesliga; Premier League,DR Congo,Attack,5015,81,3500000.0,0.3947453255963895
+1028,340853,Javi Sánchez,Celta de Vigo; Real Valladolid CF,La Liga,Spain,Defender,5888,82,3000000.0,0.39410058027079303
+1029,216872,Francesco Zampano,Delfino Pescara 1936; Udinese Calcio; Frosinone Calcio,Serie A,Italy,Midfield,7083,91,2500000.0,0.39410058027079303
+1030,99180,Federico Santander,Bologna Football Club 1909,Serie A,Paraguay,Attack,2916,67,6000000.0,0.39345583494519665
+1031,135490,Lindsay Rose,Valenciennes FC; Olympique Lyon; FC Lorient; SC Bastia,Ligue 1,Mauritius,Defender,5052,62,3500000.0,0.39345583494519665
+1032,170961,Thomas Delaine,FC Metz,Ligue 1,France,Defender,8690,120,2000000.0,0.3931334622823985
+1033,52595,Fabian Frei,1.FSV Mainz 05,Bundesliga,Switzerland,Midfield,3433,53,5000000.0,0.3929722759509994
+1034,148754,Somália,FC Toulouse,Ligue 1,Brazil,Midfield,5912,84,3000000.0,0.39248871695680204
+1035,23918,David Ducourtioux,Valenciennes FC; GFC Ajaccio,Ligue 1,France,Defender,7110,94,2500000.0,0.39248871695680204
+1036,121404,Omar Elabdellaoui,Eintracht Braunschweig; Hull City,Bundesliga; Premier League,Norway,Defender,2933,37,6000000.0,0.3921663442940039
+1037,39831,Leandro Greco,US Livorno 1915; Genoa CFC; Hellas Verona,Serie A,Italy,Midfield,5926,83,3000000.0,0.39184397163120566
+1038,204294,Saman Ghoddos,Amiens SC,Ligue 1,Iran,Midfield,3445,83,5000000.0,0.3916827852998066
+1039,73090,Vid Belec,AC Carpi; UC Sampdoria; Benevento Calcio,Serie A,Slovenia,Goalkeeper,5929,68,3000000.0,0.3915215989684075
+1040,3838,Boaz Myhill,West Bromwich Albion,Premier League,Wales,Goalkeeper,5075,57,3500000.0,0.3915215989684075
+1041,57354,Giuseppe Bellusci,Catania FC; FC Empoli,Serie A,Italy,Defender,6604,79,2800000.0,0.39119922630560927
+1042,25942,Cristian Săpunaru,Real Zaragoza; Elche CF,La Liga,Romania,Defender,3218,37,5200000.0,0.390715667311412
+1043,164055,David Juncà,SD Eibar; Celta de Vigo,La Liga,Spain,Defender,5939,79,3000000.0,0.3905544809800129
+1044,7492,Manuel Pablo,Deportivo de La Coruña,La Liga,Spain,Defender,2629,32,7000000.0,0.39023210831721467
+1045,112022,Maxime Barthelmé,FC Lorient,Ligue 1,France,Midfield,5950,100,3000000.0,0.3899097356544165
+1046,58799,Salva Sevilla,Real Betis Balompié; RCD Espanyol Barcelona; RCD Mallorca,La Liga,Spain,Midfield,8768,148,2000000.0,0.3899097356544165
+1047,351843,Yoann Salmier,RC Strasbourg Alsace,Ligue 1,French Guiana,Defender,8794,110,2000000.0,0.389103803997421
+1048,56872,Andy King,Leicester City; Swansea City,Premier League,Wales,Midfield,5118,94,3500000.0,0.3876531270148292
+1049,412513,Thomas Henry,FC Nantes,Ligue 1,France,Attack,3505,69,5000000.0,0.38749194068343007
+1050,9218,Matthew Taylor,West Ham United,Premier League,England,Midfield,2784,48,6500000.0,0.38716956802063185
+1051,3580,Aaron Hughes,Fulham FC,Premier League,Northern Ireland,Defender,3179,37,5500000.0,0.38652482269503546
+1052,41023,Dominic Maroh,1.FC Köln,Bundesliga,Slovenia,Defender,6046,77,3000000.0,0.3853965183752418
+1053,79355,Hajime Hosogai,Bayer 04 Leverkusen; Hertha BSC,Bundesliga,Japan,Midfield,5186,70,3500000.0,0.3844294003868472
+1054,72768,Nélson Oliveira,Deportivo de La Coruña; Stade Rennais FC; Swansea City,La Liga; Ligue 1; Premier League,Portugal,Attack,2987,70,6000000.0,0.3834622823984526
+1055,47184,Gabriel Torje,Granada CF; RCD Espanyol Barcelona,La Liga,Romania,Attack,2678,46,7000000.0,0.3833010960670535
+1056,131101,Stiven Mendoza,Amiens SC,Ligue 1,Colombia,Attack,4020,53,4500000.0,0.3828175370728562
+1057,20346,David Barral,Levante UD; Granada CF,La Liga,Spain,Attack,5565,89,3400000.0,0.3820116054158607
+1058,16870,Cesare Natali,Bologna Football Club 1909; US Sassuolo,Serie A,Italy,Defender,3004,40,6000000.0,0.3818504190844616
+1059,119085,Loris Benito,FC Girondins Bordeaux,Ligue 1,Switzerland,Defender,4549,54,4000000.0,0.38152804642166344
+1060,129085,Jores Okore,Aston Villa,Premier League,Denmark,Defender,3256,38,5500000.0,0.38104448742746616
+1061,52495,Chris Basham,Sheffield United,Premier League,England,Defender,6159,77,3000000.0,0.38023855577047067
+1062,9659,David Rozehnal,LOSC Lille,Ligue 1,Czech Republic,Defender,2831,45,6500000.0,0.38007736943907156
+1063,7818,Óscar González,Real Valladolid CF,La Liga,Spain,Midfield,4575,57,4000000.0,0.3797549967762734
+1064,14882,Cédric Makiadi,SC Freiburg; SV Werder Bremen,Bundesliga,DR Congo,Midfield,5258,77,3500000.0,0.3792714377820761
+1065,94199,Tolga Cigerci,Borussia Mönchengladbach; Hertha BSC,Bundesliga,Türkiye,Midfield,4079,62,4500000.0,0.379110251450677
+1066,197122,Unai García,CA Osasuna,La Liga,Spain,Defender,7487,99,2500000.0,0.3786266924564797
+1067,182891,Thomas Didillon-Hödl,FC Metz,Ligue 1,France,Goalkeeper,3600,40,5000000.0,0.37846550612508056
+1068,22131,Jaime Valdés,Parma Calcio 1913,Serie A,Chile,Midfield,2862,35,6500000.0,0.3783043197936815
+1069,59248,Miguel Lopes,Olympique Lyon; Granada CF,Ligue 1; La Liga,Portugal,Defender,3605,45,5000000.0,0.3781431334622824
+1070,394346,Emanuel Vignato,Chievo Verona,Serie A,Italy,Attack,3059,89,6000000.0,0.37765957446808507
+1071,90583,Laurent Depoitre,Huddersfield Town,Premier League,Belgium,Attack,2872,56,6500000.0,0.37701482914248874
+1072,189458,Emiliano Velázquez,Getafe CF; Rayo Vallecano,La Liga,Uruguay,Defender,4602,56,4000000.0,0.37685364281108963
+1073,140804,Jordan Lukaku,Società Sportiva Lazio S.p.A.,Serie A,Belgium,Defender,2745,66,7000000.0,0.37685364281108963
+1074,111048,Benjamin Jeannot,FC Lorient; Dijon FCO,Ligue 1,France,Attack,7554,124,2500000.0,0.37685364281108963
+1075,7101,Paolo Sammarco,Frosinone Calcio,Serie A,Italy,Midfield,2873,36,6500000.0,0.3766924564796905
+1076,236953,Sam Byram,West Ham United; Norwich City,Premier League,England,Defender,4107,61,4500000.0,0.37556415215989686
+1077,153236,Vicente Gómez,UD Las Palmas,La Liga,Spain,Midfield,5308,75,3500000.0,0.37540296582849775
+1078,39372,Mario Vrancic,SC Paderborn 07; SV Darmstadt 98; Norwich City,Bundesliga; Premier League,Bosnia-Herzegovina,Midfield,5316,95,3500000.0,0.3750805931656996
+1079,1139,Nikolce Noveski,1.FSV Mainz 05,Bundesliga,North Macedonia,Defender,6309,73,3000000.0,0.374113475177305
+1080,15568,Bruno Gama,Deportivo de La Coruña,La Liga,Portugal,Attack,4677,66,4000000.0,0.374113475177305
+1081,121385,Grant Hanley,Norwich City,Premier League,Scotland,Defender,4161,48,4500000.0,0.3733075435203095
+1082,1986,Markus Feulner,1.FC Nuremberg; FC Augsburg,Bundesliga,Germany,Midfield,6356,93,3000000.0,0.3728239845261122
+1083,42411,Fraizer Campbell,Sunderland AFC; Cardiff City; Crystal Palace,Premier League,England,Attack,4720,92,4000000.0,0.3713733075435203
+1084,56790,Nenad Krsticic,UC Sampdoria; Deportivo Alavés,Serie A; La Liga,Serbia,Midfield,5791,93,3300000.0,0.3713733075435203
+1085,74557,Raúl Baena,RCD Espanyol Barcelona; Rayo Vallecano,La Liga,Spain,Midfield,6416,91,3000000.0,0.370889748549323
+1086,16315,Rafa López,Getafe CF; SC Paderborn 07,La Liga; Bundesliga,Spain,Defender,5384,66,3500000.0,0.37056737588652483
+1087,77932,Jefferson Montero,Swansea City; Getafe CF,Premier League; La Liga,Ecuador,Attack,3357,70,5500000.0,0.3704061895551258
+1088,413262,Dani Raba,Villarreal CF,La Liga,Spain,Attack,3703,85,5000000.0,0.36943907156673117
+1089,36284,Simon Terodde,1.FC Köln; VfB Stuttgart,Bundesliga,Germany,Attack,4742,85,4000000.0,0.36879432624113473
+1090,5870,Massimo Donati,Palermo FC; Hellas Verona,Serie A,Italy,Midfield,3134,48,6000000.0,0.36831076724693745
+1091,22837,Leon Andreasen,Hannover 96,Bundesliga,Denmark,Midfield,4746,68,4000000.0,0.3678272082527402
+1092,336828,Pape Cheikh,Celta de Vigo; Olympique Lyon,La Liga; Ligue 1,Senegal,Midfield,2800,74,7000000.0,0.3678272082527401
+1093,51528,Bruno Saltor,Brighton & Hove Albion,Premier League,Spain,Defender,3153,39,6000000.0,0.36718246292714374
+1094,3851,Jan-Ingwer Callsen-Bracker,FC Augsburg,Bundesliga,Germany,Defender,7772,92,2500000.0,0.3657317859445519
+1095,147846,Nicolas Isimat-Mirin,Valenciennes FC; AS Monaco; FC Toulouse,Ligue 1,France,Defender,4258,49,4500000.0,0.3655705996131528
+1096,2926,György Garics,Bologna Football Club 1909; SV Darmstadt 98,Serie A; Bundesliga,Austria,Defender,6507,82,3000000.0,0.3654094132817537
+1097,59349,Diego Mariño,Real Valladolid CF; Levante UD; Sporting Gijón,La Liga,Spain,Goalkeeper,7785,87,2500000.0,0.3654094132817537
+1098,193130,Rachid Alioui,EA Guingamp; Nîmes Olympique; Angers SCO,Ligue 1,Morocco,Attack,3776,79,5000000.0,0.36428110896196
+1099,36914,Sebastian Boenisch,Bayer 04 Leverkusen,Bundesliga,Poland,Defender,4804,60,4000000.0,0.3639587362991618
+1100,46831,Modibo Maïga,West Ham United; FC Metz,Premier League; Ligue 1,Mali,Attack,3201,59,6000000.0,0.3637975499677627
+1101,69660,Jonás Ramalho,Athletic Bilbao; Girona FC,La Liga,Angola,Defender,4808,62,4000000.0,0.36363636363636365
+1102,265504,Firmin Mubele,Stade Rennais FC; FC Toulouse,Ligue 1,DR Congo,Attack,3212,60,6000000.0,0.3631528046421663
+1103,126014,Leandro Bacuna,Aston Villa; Cardiff City,Premier League,Curacao,Midfield,6549,96,3000000.0,0.36283043197936815
+1104,52428,Joaquín Larrivey,Cagliari Calcio; Rayo Vallecano; Celta de Vigo,Serie A; La Liga,Argentina,Attack,4817,73,4000000.0,0.36266924564796904
+1105,27448,Marcos Angeleri,Málaga CF,La Liga,Argentina,Defender,5219,61,3750000.0,0.36218568665377177
+1106,112668,Tomer Hemed,RCD Mallorca; UD Almería; Brighton & Hove Albion,La Liga; Premier League,Israel,Attack,5571,88,3500000.0,0.3618633139909736
+1107,85585,John Boye,Stade Rennais FC; FC Metz,Ligue 1,Ghana,Defender,7977,93,2500000.0,0.3615409413281754
+1108,453704,Álvaro Fernández,CA Osasuna,La Liga,Spain,Goalkeeper,4841,55,4000000.0,0.36041263700838166
+1109,36291,Gaëtan Bong,Valenciennes FC; Brighton & Hove Albion,Ligue 1; Premier League,Cameroon,Defender,6614,81,3000000.0,0.3586395873629916
+1110,140748,Danilo Avelar,Cagliari Calcio; Torino FC; Amiens SC,Serie A; Ligue 1,Brazil,Defender,8085,101,2500000.0,0.3586395873629916
+1111,75852,Miiko Albornoz,Hannover 96,Bundesliga,Chile,Defender,6617,83,3000000.0,0.3583172147001934
+1112,313477,Paolo Ghiglione,Frosinone Calcio; Genoa CFC,Serie A,Italy,Defender,4894,85,4000000.0,0.35654416505480335
+1113,127188,Maxime Dupé,FC Nantes,Ligue 1,France,Goalkeeper,8139,91,2500000.0,0.35638297872340424
+1114,205569,Mickaël Malsa,FC Sochaux-Montbéliard,Ligue 1,Martinique,Midfield,3890,70,5000000.0,0.35589941972920697
+1115,49804,Jordan Lotiès,AS Nancy-Lorraine; CA Osasuna; Dijon FCO,Ligue 1; La Liga,France,Defender,6673,79,3000000.0,0.35573823339780786
+1116,344575,Antonin Bobichon,Nîmes Olympique; Angers SCO,Ligue 1,France,Midfield,3909,69,5000000.0,0.3552546744036106
+1117,56827,Anthony Weber,Stade Reims,Ligue 1,France,Defender,8219,100,2500000.0,0.35509348807221147
+1118,9340,Marvin Compper,ACF Fiorentina; TSG 1899 Hoffenheim; RB Leipzig,Serie A; Bundesliga,Germany,Defender,4922,59,4000000.0,0.35477111540941325
+1119,35600,Miguel Flaño,CA Osasuna,La Liga,Spain,Defender,3917,48,5000000.0,0.35460992907801414
+1120,447221,Hamza Mendyl,LOSC Lille; FC Schalke 04; Dijon FCO,Ligue 1; Bundesliga,Morocco,Defender,2943,43,7000000.0,0.35396518375241776
+1121,22149,Jean-François Gillet,Torino FC,Serie A,Belgium,Goalkeeper,4410,49,4500000.0,0.3536428110896196
+1122,296359,Félix Eboa Eboa,EA Guingamp,Ligue 1,Cameroon,Defender,3946,50,5000000.0,0.3529980657640232
+1123,40688,Fabrice Abriel,OGC Nice,Ligue 1,France,Midfield,3329,53,6000000.0,0.3525145067698259
+1124,221321,Joaquín Fernández,Real Valladolid CF,La Liga,Spain,Defender,6729,85,3000000.0,0.3520309477756286
+1125,36608,Graham Dorrans,West Bromwich Albion; Norwich City,Premier League,Scotland,Midfield,5746,82,3500000.0,0.35186976144422955
+1126,298575,Kike Barja,CA Osasuna,La Liga,Spain,Attack,4965,148,4000000.0,0.35170857511283043
+1127,17491,Roberto Lago,Celta de Vigo; Getafe CF,La Liga,Spain,Defender,6744,86,3000000.0,0.35122501611863316
+1128,8060,Carl Medjani,AC Ajaccio; Valenciennes FC; Levante UD; CD Leganés,Ligue 1; La Liga,Algeria,Midfield,4974,57,4000000.0,0.35106382978723405
+1129,176285,Isaac Cuenca,Deportivo de La Coruña; Granada CF,La Liga,Spain,Attack,3976,64,5000000.0,0.35009671179883944
+1130,82361,Christian Mathenia,SV Darmstadt 98; Hamburger SV; 1.FC Nuremberg,Bundesliga,Germany,Goalkeeper,8324,93,2500000.0,0.34993552546744033
+1131,80205,Jimmy Durmaz,FC Toulouse,Ligue 1,Sweden,Midfield,4457,83,4500000.0,0.34945196647324306
+1132,71671,Oriol Riera,CA Osasuna; Deportivo de La Coruña,La Liga,Spain,Attack,6783,102,3000000.0,0.3489684074790458
+1133,5889,Thomas Manfredini,Genoa CFC; Atalanta BC; US Sassuolo,Serie A,Italy,Defender,4000,47,5000000.0,0.34848484848484845
+1134,198709,Cédric Hountondji,Stade Rennais FC,Ligue 1,Benin,Defender,6792,80,3000000.0,0.3483236621534494
+1135,126625,Juankar,Real Betis Balompié; Granada CF; Málaga CF,La Liga,Spain,Defender,8340,123,2500000.0,0.3480012894906512
+1136,42267,Nabil Dirar,AS Monaco,Ligue 1,Morocco,Attack,4017,76,5000000.0,0.3475177304964539
+1137,210363,Mariusz Stępiński,FC Nantes; Chievo Verona; Hellas Verona,Ligue 1; Serie A,Poland,Attack,5054,100,4000000.0,0.3475177304964539
+1138,192616,Ulisses Garcia,SV Werder Bremen,Bundesliga,Switzerland,Defender,4020,69,5000000.0,0.34703417150225657
+1139,149829,Miha Zajc,FC Empoli,Serie A,Slovenia,Midfield,3381,75,6000000.0,0.3463894261766602
+1140,629588,Nathan Ngoumou,FC Toulouse,Ligue 1,Cameroon,Attack,3001,73,7000000.0,0.34461637653127014
+1141,252345,Ken Sema,Watford FC; Udinese Calcio,Premier League; Serie A,Sweden,Defender,4069,67,5000000.0,0.34461637653127014
+1142,65301,Xavi Torres,Getafe CF; Real Betis Balompié; Sporting Gijón,La Liga,Spain,Midfield,5092,74,4000000.0,0.344294003868472
+1143,5793,Giovanni Pasquale,Udinese Calcio; Torino FC,Serie A,Italy,Defender,4073,58,5000000.0,0.3442940038684719
+1144,126252,Juan Rafael Fuentes,RCD Espanyol Barcelona; CA Osasuna,La Liga,Spain,Defender,6878,84,3000000.0,0.34381044487427465
+1145,165900,Federico Viviani,Hellas Verona; Bologna Football Club 1909; SPAL; Frosinone Calcio,Serie A,Italy,Midfield,5542,70,3800000.0,0.34364925854287554
+1146,264140,Vukasin Jovanovic,FC Girondins Bordeaux,Ligue 1,Serbia,Defender,4092,49,5000000.0,0.34300451321727915
+1147,223068,Tana,UD Las Palmas,La Liga,Spain,Midfield,5889,83,3500000.0,0.34252095422308193
+1148,112822,Karl-Johan Johnsson,EA Guingamp,Ligue 1,Sweden,Goalkeeper,8589,96,2500000.0,0.34219858156028365
+1149,39914,Mathieu Coutadeur,FC Lorient,Ligue 1,,Midfield,4100,59,5000000.0,0.34155383623468727
+1150,581781,Enzo Loiodice,Dijon FCO,Ligue 1,France,Midfield,3675,72,5500000.0,0.3404255319148936
+1151,72189,Álex Bergantiños,Deportivo de La Coruña,La Liga,Spain,Midfield,7007,92,3000000.0,0.33929722759509995
+1152,19442,Andrea Lazzari,Udinese Calcio; ACF Fiorentina; AC Carpi,Serie A,Italy,Midfield,3685,60,5500000.0,0.33913604126370084
+1153,35540,Víctor Casadesús,RCD Mallorca; Levante UD,La Liga,Spain,Attack,7035,105,3000000.0,0.33865248226950356
+1154,415383,Hervé Koffi,LOSC Lille,Ligue 1,Burkina Faso,Goalkeeper,3469,39,6000000.0,0.337846550612508
+1155,31514,Markus Suttner,FC Ingolstadt 04; Brighton & Hove Albion; Fortuna Düsseldorf,Bundesliga; Premier League,Austria,Defender,7085,90,3000000.0,0.3357511283043198
+1156,63022,Jan Moravek,FC Augsburg,Bundesliga,Czech Republic,Midfield,6010,123,3500000.0,0.3357511283043198
+1157,7881,Alberto Lopo,Getafe CF; Deportivo de La Coruña,La Liga,Spain,Defender,5221,64,4000000.0,0.3357511283043198
+1158,222876,Arbër Zeneli,Stade Reims,Ligue 1,Kosovo,Attack,3508,76,6000000.0,0.3347840103159252
+1159,126516,Antonio Luna,RCD Mallorca; Sevilla FC; Aston Villa; SD Eibar; Levante UD,La Liga; Premier League,Spain,Defender,8819,112,2500000.0,0.3341392649903288
+1160,58115,Yoel Rodríguez,Celta de Vigo; Valencia CF; Rayo Vallecano; SD Eibar; Real Valladolid CF,La Liga,Spain,Goalkeeper,7114,82,3000000.0,0.3341392649903288
+1161,14192,Eliseu,Málaga CF,La Liga,Portugal,Defender,3768,56,5500000.0,0.33397807865892976
+1162,62638,Nathan Baker,Aston Villa,Premier League,England,Defender,5253,67,4000000.0,0.3339780786589297
+1163,101742,Ángel Trujillo,UD Almería; Levante UD,La Liga,Spain,Defender,7115,80,3000000.0,0.33381689232753065
+1164,30070,Niko Bungert,1.FSV Mainz 05,Bundesliga,Germany,Defender,6075,82,3500000.0,0.33284977433913604
+1165,92899,Marvin Zeegelaar,Watford FC; Udinese Calcio,Premier League; Serie A,,Defender,5288,82,4000000.0,0.33139909735654416
+1166,39732,Thomas Kraft,Hertha BSC,Bundesliga,Germany,Goalkeeper,7194,81,3000000.0,0.3309155383623469
+1167,119557,Kenan Karaman,TSG 1899 Hoffenheim; Hannover 96; Fortuna Düsseldorf,Bundesliga,Turkey,Attack,6128,123,3500000.0,0.3309155383623469
+1168,1126,Matthias Lehmann,1.FC Köln,Bundesliga,Germany,Midfield,8961,105,2500000.0,0.3302707930367505
+1169,153427,Bebé,Córdoba CF; Rayo Vallecano; SD Eibar,La Liga,Cape Verde,Attack,7220,162,3000000.0,0.3299484203739523
+1170,29311,Mounir Obbadi,ESTAC Troyes; AS Monaco; Hellas Verona; LOSC Lille; OGC Nice,Ligue 1; Serie A,Morocco,Midfield,8256,113,2750000.0,0.32930367504835595
+1171,38267,Mergim Mavraj,SpVgg Greuther Fürth; 1.FC Köln; Hamburger SV,Bundesliga,Albania,Defender,8981,106,2500000.0,0.3293036750483559
+1172,444725,Patrick Burner,OGC Nice,Ligue 1,Martinique,Defender,5336,78,4000000.0,0.32817537072856223
+1173,5893,Giampiero Pinzi,Udinese Calcio; Chievo Verona,Serie A,Italy,Midfield,5339,79,4000000.0,0.327852998065764
+1174,85863,Gueïda Fofana,Olympique Lyon,Ligue 1,France,Midfield,3868,54,5500000.0,0.3270470664087685
+1175,194460,Joe Bryan,Fulham FC,Premier League,England,Defender,3190,50,7000000.0,0.32688588007736946
+1176,392810,Casimir Ninga,Montpellier HSC; SM Caen; Angers SCO,Ligue 1,Chad,Attack,7341,130,3000000.0,0.32527401676337847
+1177,184922,Ambroise Oyongo,Montpellier HSC,Ligue 1,Cameroon,Defender,5379,74,4000000.0,0.32527401676337847
+1178,73636,Hernán Pérez,Villarreal CF; RCD Espanyol Barcelona; Deportivo Alavés,La Liga,Paraguay,Attack,6230,110,3500000.0,0.3251128304319794
+1179,131708,Kenneth Omeruo,CD Leganés,La Liga,Nigeria,Defender,4312,51,5000000.0,0.32495164410058025
+1180,140497,Florentin Pogba,AS Saint-Étienne,Ligue 1,Guinea,Defender,4818,66,4500000.0,0.3247904577691812
+1181,89313,Eneko Bóveda,SD Eibar; Athletic Bilbao; Deportivo de La Coruña,La Liga,Spain,Defender,7354,91,3000000.0,0.3247904577691812
+1182,191407,Oussama Haddadi,Dijon FCO,Ligue 1,Tunisia,Defender,6256,78,3500000.0,0.324468085106383
+1183,656441,Jean Onana,LOSC Lille,Ligue 1,Cameroon,Midfield,3635,70,6000000.0,0.32317859445519015
+1184,296356,Souleyman Doumbia,Stade Rennais FC; Angers SCO,Ligue 1,Cote d'Ivoire,Defender,7389,91,3000000.0,0.3225338491295938
+1185,587458,Kevin Agudelo,Genoa CFC; ACF Fiorentina,Serie A,Colombia,Midfield,5453,99,4000000.0,0.3220502901353965
+1186,76387,Carlos Carmona,Atalanta BC,Serie A,Chile,Midfield,7464,95,3000000.0,0.32188910380399743
+1187,38270,Sergio Sánchez,Málaga CF; RCD Espanyol Barcelona,La Liga,Spain,Defender,5465,68,4000000.0,0.3217279174725983
+1188,79723,Sean Morrison,Reading FC; Cardiff City,Premier League,England,Defender,4367,50,5000000.0,0.3214055448098001
+1189,21756,Giulio Migliaccio,ACF Fiorentina; Palermo FC; Atalanta BC,Serie A,Italy,Midfield,3954,85,5500000.0,0.32108317214700194
+1190,60551,Lossémy Karaboué,AS Nancy-Lorraine; ESTAC Troyes,Ligue 1,Cote d'Ivoire,Midfield,5478,69,4000000.0,0.3207607994842037
+1191,72519,Bobby Wood,Hamburger SV; Hannover 96,Bundesliga,United States,Attack,4880,72,4500000.0,0.3201160541586074
+1192,164912,Loïck Landre,RC Lens; Nîmes Olympique,Ligue 1,France,Defender,6391,79,3500000.0,0.3199548678272083
+1193,288429,Mads Pedersen,FC Augsburg,Bundesliga,Denmark,Defender,6427,115,3500000.0,0.3186653771760155
+1194,73517,Ørjan Nyland,FC Ingolstadt 04; Aston Villa,Bundesliga; Premier League,Norway,Goalkeeper,7563,86,3000000.0,0.3183430045132173
+1195,280387,Vincent Sierro,SC Freiburg,Bundesliga,Switzerland,Midfield,5556,78,4000000.0,0.31802063185041907
+1196,171209,Branimir Hrgota,Borussia Mönchengladbach; Eintracht Frankfurt,Bundesliga,Sweden,Attack,6446,138,3500000.0,0.3176982591876209
+1197,16458,Loukas Vyntra,Levante UD,La Liga,Greece,Defender,6458,75,3500000.0,0.3170535138620245
+1198,12386,Grégory Bourillon,FC Lorient; Stade Reims; Angers SCO,Ligue 1,France,Defender,6462,89,3500000.0,0.31673114119922635
+1199,179634,Robert Bauer,FC Ingolstadt 04; SV Werder Bremen; 1.FC Nuremberg,Bundesliga,,Defender,6478,89,3500000.0,0.31640876853642813
+1200,169052,Edenilson,Genoa CFC; Udinese Calcio,Serie A,Brazil,Midfield,5581,75,4000000.0,0.3159252095422308
+1201,99327,Isaac Cofie,Chievo Verona; Genoa CFC; AC Carpi,Serie A,Ghana,Midfield,7609,118,3000000.0,0.31576402321083175
+1202,28827,Alessandro Gazzi,Torino FC; Palermo FC,Serie A,Italy,Midfield,8636,115,2800000.0,0.31560283687943264
+1203,3256,Roberto Hilbert,Bayer 04 Leverkusen,Bundesliga,Germany,Defender,4434,58,5000000.0,0.3152804642166344
+1204,13872,Zé Castro,Deportivo de La Coruña; Rayo Vallecano,La Liga,Portugal,Defender,7629,93,3000000.0,0.31511927788523536
+1205,26878,Tobias Werner,FC Augsburg,Bundesliga,Germany,Attack,7653,105,3000000.0,0.31382978723404253
+1206,67685,Marco Fabián,Eintracht Frankfurt,Bundesliga,Mexico,Midfield,3342,43,7000000.0,0.3127014829142489
+1207,6012,Stefano Lucchini,Atalanta BC; Cesena FC,Serie A,Italy,Defender,5163,68,4300000.0,0.31254029658284976
+1208,200558,Petros,Real Betis Balompié,La Liga,Brazil,Midfield,4472,62,5000000.0,0.31254029658284976
+1209,22249,Cristian Raimondi,Atalanta BC,Serie A,Italy,Midfield,5658,88,4000000.0,0.31237911025145065
+1210,63689,Fran Rico,Granada CF; SD Eibar,La Liga,Spain,Midfield,7691,108,3000000.0,0.3118955512572534
+1211,58076,Piti,Rayo Vallecano; Granada CF,La Liga,Spain,Midfield,7734,110,3000000.0,0.3099613152804642
+1212,251848,Iñigo Córdoba,Athletic Bilbao,La Liga,Spain,Attack,4536,87,5000000.0,0.3094777562862669
+1213,171362,Pablo Insua,Deportivo de La Coruña; CD Leganés; FC Schalke 04; SD Huesca,La Liga; Bundesliga,Spain,Defender,5709,80,4000000.0,0.3094777562862669
+1214,5925,Nicola Legrottaglie,Catania FC,Serie A,Italy,Defender,3561,44,6500000.0,0.30931656995486784
+1215,182963,Lass Bangoura,Rayo Vallecano; Granada CF; Stade Reims,La Liga; Ligue 1,Guinea,Attack,5712,101,4000000.0,0.3091553836234687
+1216,41749,Modibo Diakité,Sunderland AFC; ACF Fiorentina; Deportivo de La Coruña; Cagliari Calcio; UC Sampdoria; Frosinone Calcio,Premier League; Serie A; La Liga,France,Defender,4549,53,5000000.0,0.30834945196647323
+1217,93732,Chris Mavinga,Stade Rennais FC; Stade Reims; ESTAC Troyes,Ligue 1,DR Congo,Defender,4556,56,5000000.0,0.30786589297227596
+1218,58500,Alfredo Morales,FC Ingolstadt 04; Fortuna Düsseldorf,Bundesliga,United States,Midfield,6624,101,3500000.0,0.3064152159896841
+1219,240219,Lorenzo Venuti,Benevento Calcio; ACF Fiorentina,Serie A,Italy,Defender,7829,129,3000000.0,0.3064152159896841
+1220,60028,Edgar Prib,SpVgg Greuther Fürth; Hannover 96,Bundesliga,Germany,Midfield,6642,102,3500000.0,0.3060928433268859
+1221,271455,Mihailo Ristic,Montpellier HSC,Ligue 1,Serbia,Defender,6658,118,3500000.0,0.3054480980012895
+1222,54774,Miguel de las Cuevas,CA Osasuna,La Liga,Spain,Attack,4590,68,5000000.0,0.30528691166989036
+1223,72779,Álvaro Cejudo,CA Osasuna; Real Betis Balompié,La Liga,Spain,Attack,6670,109,3500000.0,0.30480335267569314
+1224,23218,Javier Garrido,Norwich City; UD Las Palmas,Premier League; La Liga,Spain,Defender,5130,58,4500000.0,0.30319148936170215
+1225,24105,Simon Pouplin,FC Sochaux-Montbéliard; OGC Nice,Ligue 1,France,Goalkeeper,5318,60,4250000.0,0.303030303030303
+1226,67303,Russell Martin,Norwich City,Premier League,Scotland,Defender,8004,92,3000000.0,0.30286911669890393
+1227,74295,Aleksandar Ignjovski,SV Werder Bremen; Eintracht Frankfurt; SC Freiburg,Bundesliga,Serbia,Midfield,5842,91,4000000.0,0.30045132172791744
+1228,3266,Jérémie Aliadière,FC Lorient,Ligue 1,France,Attack,5202,71,4500000.0,0.3001289490651193
+1229,48078,Sam Vokes,Burnley FC,Premier League,Wales,Attack,3950,87,6000000.0,0.29996776273372017
+1230,121257,Adam Forshaw,Middlesbrough FC,Premier League,England,Midfield,4706,68,5000000.0,0.29916183107672467
+1231,57207,Jordon Mutch,Cardiff City; Crystal Palace; Queens Park Rangers,Premier League,England,Midfield,3960,75,6000000.0,0.2986782720825274
+1232,23338,Asier Riesgo,CA Osasuna; SD Eibar,La Liga,Spain,Goalkeeper,5858,68,4000000.0,0.2977111540941328
+1233,225593,Pere Milla,SD Eibar,La Liga,Spain,Attack,8225,152,3000000.0,0.2970664087685364
+1234,28833,Andrea Coda,Parma Calcio 1913; Udinese Calcio; US Livorno 1915; UC Sampdoria; Delfino Pescara 1936,Serie A,Italy,Defender,4356,61,5250000.0,0.29690522243713735
+1235,34691,Stephen Ward,Burnley FC,Premier League,Ireland,Defender,5924,68,4000000.0,0.29529335912314636
+1236,249636,Gautier Lloris,OGC Nice,Ligue 1,France,Defender,8285,96,3000000.0,0.2935203094777563
+1237,23102,Riki,Deportivo de La Coruña; Granada CF,La Liga,Spain,Attack,4046,72,6000000.0,0.29352030947775626
+1238,30308,Ivo Ilicevic,Hamburger SV; 1.FC Nuremberg,Bundesliga,Croatia,Attack,4314,69,5500000.0,0.2933591231463572
+1239,198067,Filip Helander,Hellas Verona; Bologna Football Club 1909,Serie A,Sweden,Defender,6909,84,3500000.0,0.29158607350096716
+1240,30757,Renato Civelli,OGC Nice; LOSC Lille,Ligue 1,Argentina,Defender,6919,79,3500000.0,0.29126370083816894
+1241,110309,Lucas Orbán,FC Girondins Bordeaux; Valencia CF; Levante UD; Genoa CFC,Ligue 1; La Liga; Serie A,Argentina,Defender,4801,70,5000000.0,0.2911025145067698
+1242,9850,Vangelis Moras,Hellas Verona,Serie A,Greece,Defender,8338,96,3000000.0,0.29061895551257255
+1243,289061,Alessandro Murgia,Società Sportiva Lazio S.p.A.; SPAL,Serie A,Italy,Midfield,4093,71,6000000.0,0.2901353965183752
+1244,4070,Liam Ridgewell,West Bromwich Albion,Premier League,England,Defender,5353,63,4500000.0,0.28997421018697617
+1245,387129,Róber Pier,Deportivo de La Coruña; Levante UD,La Liga,Spain,Defender,8346,109,3000000.0,0.28965183752417795
+1246,7358,Javier Pinola,1.FC Nuremberg,Bundesliga,Argentina,Defender,4101,48,6000000.0,0.28868471953578334
+1247,434358,Sofiane Alakouch,Nîmes Olympique,Ligue 1,Morocco,Defender,4819,64,5000000.0,0.2885235332043843
+1248,344892,Gauthier Hein,FC Metz,Ligue 1,France,Attack,4836,80,5000000.0,0.2875564152159897
+1249,170927,Simon Falette,FC Metz; Eintracht Frankfurt,Ligue 1; Bundesliga,Guinea,Defender,6080,71,4000000.0,0.2867504835589942
+1250,12864,Jaroslav Drobny,Hamburger SV; SV Werder Bremen; Fortuna Düsseldorf,Bundesliga,Czech Republic,Goalkeeper,4415,51,5500000.0,0.2862669245647969
+1251,217144,Aleix Febas,RCD Mallorca,La Liga,Spain,Midfield,4865,65,5000000.0,0.2856221792392005
+1252,12127,Michael Turner,Norwich City,Premier League,England,Defender,4168,48,6000000.0,0.2844938749194068
+1253,281755,Iván Alejo,SD Eibar; Getafe CF,La Liga,Spain,Attack,6145,129,4000000.0,0.28401031592520953
+1254,160968,Benno Schmitz,RB Leipzig; 1.FC Köln,Bundesliga,Germany,Defender,8654,132,3000000.0,0.2822372662798195
+1255,398808,Martin Hongla,Granada CF,La Liga,Cameroon,Midfield,4922,81,5000000.0,0.28159252095422305
+1256,158791,Sergio Postigo,Levante UD,La Liga,Spain,Defender,8721,114,3000000.0,0.2806254029658285
+1257,53077,Alberto Botía,Sevilla FC; Elche CF,La Liga,Spain,Defender,4235,51,6000000.0,0.2790135396518375
+1258,192492,Jordan Lefort,Amiens SC,Ligue 1,Mauritania,Defender,8765,101,3000000.0,0.2790135396518375
+1259,247661,Gideon Jung,Hamburger SV,Bundesliga,Germany,Defender,6258,83,4000000.0,0.27852998065764023
+1260,60570,Yohan Mollo,AS Saint-Étienne; AS Nancy-Lorraine,Ligue 1,France,Attack,4242,77,6000000.0,0.2783687943262411
+1261,387234,Szymon Żurkowski,ACF Fiorentina,Serie A,Poland,Midfield,3755,67,7000000.0,0.2764345583494519
+1262,66736,Lisandro Magallán,Deportivo Alavés,La Liga,Argentina,Defender,4281,59,6000000.0,0.27546744036105736
+1263,133794,Edgar Méndez,UD Almería; Granada CF; Deportivo Alavés,La Liga,Spain,Attack,8863,153,3000000.0,0.274822695035461
+1264,22093,Guglielmo Stendardo,Atalanta BC; Delfino Pescara 1936,Serie A,Italy,Defender,6852,85,3700000.0,0.2746615087040619
+1265,64363,Dani Castellano,UD Las Palmas,La Liga,Spain,Defender,6385,78,4000000.0,0.27466150870406186
+1266,126600,Kenny McLean,Norwich City,Premier League,Scotland,Midfield,5673,68,4500000.0,0.2743391360412637
+1267,384553,Luca Kilian,SC Paderborn 07,Bundesliga,Germany,Defender,5680,81,4500000.0,0.2736943907156673
+1268,127573,Phillipp Mwene,1.FSV Mainz 05,Bundesliga,Austria,Defender,8954,114,3000000.0,0.2728884590586718
+1269,412045,Pol Lozano,RCD Espanyol Barcelona,La Liga,Spain,Midfield,4312,72,6000000.0,0.2725660863958736
+1270,71570,Iago Herrerín,Athletic Bilbao; CD Leganés,La Liga,Spain,Goalkeeper,6430,73,4000000.0,0.27240490006447454
+1271,138935,Sergio Álvarez,Sporting Gijón; SD Eibar,La Liga,Spain,Midfield,8975,127,3000000.0,0.27224371373307543
+1272,47513,Mato Jajalo,Palermo FC; Udinese Calcio,Serie A,Bosnia-Herzegovina,Midfield,7387,122,3500000.0,0.27159896840747905
+1273,35855,Cameron Jerome,Stoke City; Crystal Palace; Norwich City,Premier League,England,Attack,4677,89,5500000.0,0.2699871050934881
+1274,59950,Damien Le Tallec,Montpellier HSC,Ligue 1,France,Midfield,6497,87,4000000.0,0.2695035460992908
+1275,21861,Andrea Cossu,Cagliari Calcio,Serie A,Italy,Midfield,4703,86,5500000.0,0.2688588007736944
+1276,292772,Dimitrios Nikolaou,FC Empoli,Serie A,Greece,Defender,6552,76,4000000.0,0.2656350741457124
+1277,45178,Valentin Stocker,Hertha BSC,Bundesliga,Switzerland,Attack,3910,68,7000000.0,0.26499032882011603
+1278,37399,Manu del Moral,Sevilla FC; Elche CF; SD Eibar,La Liga,Spain,Attack,3934,74,7000000.0,0.2640232108317215
+1279,187245,Mitchell Dijks,Bologna Football Club 1909,Serie A,Netherlands,Defender,5211,74,5000000.0,0.26386202450032237
+1280,162961,Valerio Verre,Siena FC; Delfino Pescara 1936; UC Sampdoria; Hellas Verona,Serie A,Italy,Midfield,6593,150,4000000.0,0.2633784655061251
+1281,91415,Robert Beric,AS Saint-Étienne,Ligue 1,Slovenia,Attack,4749,81,5500000.0,0.2633784655061251
+1282,434676,Ronaldo Vieira,UC Sampdoria,Serie A,Guinea-Bissau,Midfield,3958,77,7000000.0,0.2614442295293359
+1283,296783,Ezequiel Ponce,Granada CF; LOSC Lille,La Liga; Ligue 1,Argentina,Attack,3989,100,7000000.0,0.25902643455834945
+1284,186997,Christian Atsu,Everton FC; Málaga CF; Newcastle United,Premier League; La Liga,Ghana,Attack,4507,92,6000000.0,0.25838168923275306
+1285,140206,Ladislav Krejci,Bologna Football Club 1909,Serie A,Czech Republic,Midfield,5289,81,5000000.0,0.25789813023855573
+1286,46215,Javi Guerra,Real Valladolid CF; Málaga CF; Rayo Vallecano,La Liga,Spain,Attack,7764,118,3500000.0,0.2570921985815603
+1287,131275,Choco Lozano,Girona FC,La Liga,Honduras,Attack,6699,141,4000000.0,0.25660863958736296
+1288,131731,Mehdi Bourabia,US Sassuolo,Serie A,Morocco,Midfield,6715,119,4000000.0,0.2562862669245648
+1289,55240,Mauro dos Santos,UD Almería; SD Eibar; CD Leganés,La Liga,Argentina,Defender,6727,85,4000000.0,0.2556415215989684
+1290,19139,Jonathan Pitroipa,Stade Rennais FC,Ligue 1,Burkina Faso,Attack,4278,55,6500000.0,0.25515796260477114
+1291,37278,Zeljko Brkic,Udinese Calcio; Cagliari Calcio; AC Carpi,Serie A,Serbia,Goalkeeper,5965,68,4500000.0,0.2546744036105738
+1292,26199,Verza,UD Almería; Levante UD,La Liga,Spain,Missing,7903,96,3500000.0,0.25419084461637653
+1293,87672,Junior Stanislas,AFC Bournemouth,Premier League,England,Attack,6006,103,4500000.0,0.25306254029658287
+1294,7782,Duda,Málaga CF,La Liga,Portugal,Midfield,4594,108,6000000.0,0.25241779497098643
+1295,260655,Eduard Löwen,1.FC Nuremberg; Hertha BSC; FC Augsburg,Bundesliga,Germany,Midfield,4094,78,7000000.0,0.25209542230818827
+1296,442805,Iddrisu Baba,RCD Mallorca,La Liga,Ghana,Midfield,8030,116,3500000.0,0.2509671179883946
+1297,17273,Steven Taylor,Newcastle United,Premier League,England,Defender,4330,55,6500000.0,0.24967762733720178
+1298,260806,Isaac Mbenza,Montpellier HSC; Huddersfield Town; Amiens SC,Ligue 1; Premier League,Belgium,Attack,4109,79,7000000.0,0.24951644100580267
+1299,28022,Alessandro Lucarelli,Parma Calcio 1913,Serie A,Italy,Defender,8114,93,3500000.0,0.24774339136041268
+1300,346291,James Léa Siliki,Stade Rennais FC,Ligue 1,Cameroon,Midfield,4377,84,6500000.0,0.24774339136041262
+1301,432772,Samuel Grandsir,ESTAC Troyes; AS Monaco; RC Strasbourg Alsace; Stade Brestois 29,Ligue 1,France,Attack,5484,110,5000000.0,0.24693745970341713
+1302,77026,Raúl Albentosa,SD Eibar; Málaga CF; Deportivo de La Coruña,La Liga,Spain,Defender,8168,93,3500000.0,0.24677627337201807
+1303,184935,Kalifa Coulibaly,FC Nantes,Ligue 1,Mali,Attack,5531,99,5000000.0,0.24629271437782074
+1304,494236,Andy Pelmard,OGC Nice; AS Saint-Étienne; Amiens SC,Ligue 1,Madagascar,Defender,5564,74,5000000.0,0.2443584784010316
+1305,45256,Jean-Sylvain Babin,Granada CF; Sporting Gijón,La Liga,Martinique,Defender,6982,81,4000000.0,0.2437137330754352
+1306,7631,Carlos Gurpegui,Athletic Bilbao,La Liga,Spain,Defender,6986,92,4000000.0,0.24339136041263698
+1307,5339,Jérémie Bréchet,ESTAC Troyes; FC Girondins Bordeaux; GFC Ajaccio,Ligue 1,France,Defender,4228,51,7000000.0,0.24242424242424243
+1308,37388,Abel Aguilar,Deportivo de La Coruña; FC Toulouse,La Liga; Ligue 1,Colombia,Midfield,6524,77,4200000.0,0.24226305609284332
+1309,35242,Beto,Sevilla FC,La Liga,Portugal,Goalkeeper,5992,69,4800000.0,0.24226305609284332
+1310,5457,Gaël Danic,Valenciennes FC; Olympique Lyon; SC Bastia,Ligue 1,France,Attack,8286,123,3500000.0,0.24194068343004516
+1311,10642,Mike Williamson,Newcastle United,Premier League,England,Defender,7038,83,4000000.0,0.24145712443584783
+1312,31570,Georg Niedermeier,VfB Stuttgart; SC Freiburg,Bundesliga,Germany,Defender,7042,91,4000000.0,0.24113475177304966
+1313,140757,Daniel Bessa,Genoa CFC; Hellas Verona,Serie A,Italy,Midfield,5615,104,5000000.0,0.24081237911025144
+1314,21887,Giovanni Marchese,Catania FC; Genoa CFC,Serie A,Italy,Defender,6297,80,4500000.0,0.24049000644745328
+1315,45623,George Boyd,Hull City; Burnley FC,Premier League,Scotland,Attack,7066,101,4000000.0,0.24016763378465505
+1316,145466,Tim Ream,Fulham FC,Premier League,United States,Defender,7084,84,4000000.0,0.23920051579626045
+1317,1150,Raphael Schäfer,1.FC Nuremberg,Bundesliga,Germany,Goalkeeper,5670,64,5000000.0,0.23887814313346228
+1318,206947,Kévin Rodrigues,FC Toulouse; Real Sociedad; CD Leganés,Ligue 1; La Liga,Portugal,Defender,5691,92,5000000.0,0.2372662798194713
+1319,4796,Kader Mangane,Sunderland AFC; GFC Ajaccio; RC Strasbourg Alsace,Premier League; Ligue 1,Senegal,Defender,4291,53,7000000.0,0.23678272082527402
+1320,3692,Jussi Jääskeläinen,West Ham United,Premier League,Finland,Goalkeeper,5067,57,5750000.0,0.2366215344938749
+1321,35871,Fernando Tissone,RCD Mallorca; UC Sampdoria; Málaga CF,La Liga; Serie A,Argentina,Midfield,5136,72,5500000.0,0.23597678916827858
+1322,27453,Diego Colotto,RCD Espanyol Barcelona,La Liga,Argentina,Defender,7165,82,4000000.0,0.2358156028368794
+1323,45662,Alexander Esswein,1.FC Nuremberg; FC Augsburg; Hertha BSC; VfB Stuttgart,Bundesliga,Germany,Attack,8487,162,3500000.0,0.23549323017408125
+1324,282577,Lukas Klünter,1.FC Köln; Hertha BSC,Bundesliga,Germany,Defender,5720,77,5000000.0,0.23533204384268214
+1325,156779,Erik Thommy,FC Augsburg; VfB Stuttgart; Fortuna Düsseldorf,Bundesliga,Germany,Midfield,4843,96,6000000.0,0.23452611218568664
+1326,58341,Javi Varas,Celta de Vigo; Sevilla FC; UD Las Palmas,La Liga,Spain,Goalkeeper,8561,97,3500000.0,0.2338813668600903
+1327,35539,Mehdi Lacen,Getafe CF; Málaga CF,La Liga,Algeria,Midfield,8584,121,3500000.0,0.2335589941972921
+1328,30758,Darío Cvitanich,OGC Nice,Ligue 1,Argentina,Attack,4860,60,6000000.0,0.23355899419729204
+1329,228917,Jorge Miramón,SD Huesca; Levante UD,La Liga,Spain,Defender,8636,117,3500000.0,0.23243068987749843
+1330,66112,Keko Gontán,Catania FC; SD Eibar; Málaga CF; Real Valladolid CF,Serie A; La Liga,Spain,Missing,7235,121,4000000.0,0.2321083172147002
+1331,131709,Ogenyi Onazi,Società Sportiva Lazio S.p.A.,Serie A,Nigeria,Midfield,4376,75,7000000.0,0.2311411992263056
+1332,190289,Gerrit Holtmann,1.FSV Mainz 05; SC Paderborn 07,Bundesliga,Philippines,Attack,6513,135,4500000.0,0.23081882656350744
+1333,158810,Oscar Hiljemark,Palermo FC; Genoa CFC,Serie A,Sweden,Midfield,7260,99,4000000.0,0.23049645390070922
+1334,135208,Riza Durmisi,Real Betis Balompié; Società Sportiva Lazio S.p.A.; OGC Nice,La Liga; Serie A; Ligue 1,Denmark,Defender,4920,65,6000000.0,0.22985170857511283
+1335,16591,Nicolas Maurice-Belay,FC Girondins Bordeaux,Ligue 1,France,Midfield,7329,113,4000000.0,0.22920696324951645
+1336,272636,Harold Moukoudi,AS Saint-Étienne,Ligue 1,Cameroon,Defender,4924,61,6000000.0,0.22872340425531912
+1337,77974,Floyd Ayité,Stade Reims; SC Bastia; Fulham FC,Ligue 1; Premier League,Togo,Attack,8754,133,3500000.0,0.2280786589297228
+1338,35491,Mariano Andújar,Catania FC; SSC Napoli,Serie A,Argentina,Goalkeeper,6570,73,4500000.0,0.22695035460992907
+1339,36207,Fin Bartels,SV Werder Bremen,Bundesliga,Germany,Attack,8189,120,3750000.0,0.22678916827853002
+1340,197860,Pedro Rebocho,EA Guingamp,Ligue 1,Portugal,Defender,4963,57,6000000.0,0.22646679561573174
+1341,54581,Ilija Nestorovski,Palermo FC; Udinese Calcio,Serie A,North Macedonia,Attack,5857,115,5000000.0,0.22517730496453897
+1342,6750,Maurizio Domizzi,Udinese Calcio,Serie A,Italy,Defender,5858,72,5000000.0,0.22453255963894259
+1343,2923,Andreas Ivanschitz,1.FSV Mainz 05; Levante UD,Bundesliga; La Liga,Austria,Midfield,5335,80,5500000.0,0.22437137330754353
+1344,12106,Ludovic Obraniak,FC Girondins Bordeaux; SV Werder Bremen,Ligue 1; Bundesliga,Poland,Midfield,4734,63,6500000.0,0.22340425531914893
+1345,190338,Anthony Briançon,Nîmes Olympique,Ligue 1,France,Defender,5890,72,5000000.0,0.22340425531914893
+1346,33914,Mouhamadou Dabo,Olympique Lyon; ESTAC Troyes; SM Caen,Ligue 1,France,Defender,5353,72,5500000.0,0.22324306898774987
+1347,568,Martin Stranzl,Borussia Mönchengladbach,Bundesliga,Austria,Defender,6657,79,4500000.0,0.22275950999355254
+1348,202318,Farid Boulaya,SC Bastia; FC Metz,Ligue 1,Algeria,Midfield,5364,85,5500000.0,0.22243713733075438
+1349,99397,Karl Darlow,Newcastle United,Premier League,Wales,Goalkeeper,6660,74,4500000.0,0.22211476466795615
+1350,45693,Glenn Murray,Crystal Palace; AFC Bournemouth; Brighton & Hove Albion,Premier League,England,Attack,7561,148,4000000.0,0.22179239200515793
+1351,164230,Nicolas Benezet,Thonon Évian Grand Genève FC; SM Caen; EA Guingamp,Ligue 1,France,Attack,7568,130,4000000.0,0.22114764667956155
+1352,410059,Bakaye Dibassy,Amiens SC,Ligue 1,Mali,Defender,7590,88,4000000.0,0.22082527401676338
+1353,19636,Panagiotis Kone,Bologna Football Club 1909; Udinese Calcio; ACF Fiorentina; Granada CF,Serie A; La Liga,Greece,Midfield,5082,72,6000000.0,0.2200193423597679
+1354,46415,Duje Cop,Cagliari Calcio; Málaga CF; Sporting Gijón; Real Valladolid CF,Serie A; La Liga,Croatia,Attack,5962,98,5000000.0,0.2195357833655706
+1355,34409,Joe Ledley,Crystal Palace,Premier League,Wales,Midfield,5963,83,5000000.0,0.2192134107027724
+1356,45832,Ivan Santini,SC Freiburg; SM Caen,Bundesliga; Ligue 1,Croatia,Attack,5975,80,5000000.0,0.2182462927143778
+1357,337066,Toni Villa,Real Valladolid CF,La Liga,Spain,Attack,5104,98,6000000.0,0.21808510638297868
+1358,9819,Ricardo Costa,Valencia CF; Granada CF,La Liga,Portugal,Defender,5125,60,6000000.0,0.21582849774339136
+1359,18542,François Modesto,SC Bastia,Ligue 1,France,Defender,7682,92,4000000.0,0.21566731141199225
+1360,12384,Alexander Tettey,Norwich City,Premier League,Norway,Midfield,7693,101,4000000.0,0.2147001934235977
+1361,307519,Fede San Emeterio,Real Valladolid CF,La Liga,Spain,Midfield,6060,98,5000000.0,0.21437782076079948
+1362,126767,Ali Ahamada,FC Toulouse,Ligue 1,Comoros,Goalkeeper,7743,87,4000000.0,0.21244358478401032
+1363,57186,Bakary Koné,Olympique Lyon; Málaga CF; RC Strasbourg Alsace,Ligue 1; La Liga,Burkina Faso,Defender,7794,96,4000000.0,0.21050934880722116
+1364,243541,Deyverson,1.FC Köln; Levante UD; Deportivo Alavés; Getafe CF,Bundesliga; La Liga,Brazil,Attack,6153,105,5000000.0,0.21050934880722116
+1365,19708,Boško Janković,Genoa CFC; Hellas Verona,Serie A,Serbia,Attack,4705,70,7000000.0,0.20954223081882656
+1366,206912,Jimmy Cabot,ESTAC Troyes; FC Lorient,Ligue 1,France,Midfield,6188,111,5000000.0,0.20954223081882656
+1367,111482,Eric Bauthéac,OGC Nice; LOSC Lille,Ligue 1,France,Attack,7938,103,4000000.0,0.2082527401676338
+1368,20622,Arnold Mvuemba,Olympique Lyon; FC Lorient,Ligue 1,DR Congo,Midfield,6208,95,5000000.0,0.20793036750483557
+1369,140191,Ryan Fredericks,West Ham United,Premier League,England,Defender,4724,75,7000000.0,0.2076079948420374
+1370,15715,Borja Oubiña,Celta de Vigo,La Liga,Spain,Midfield,5273,61,6000000.0,0.2074468085106383
+1371,51681,Chico Flores,Swansea City,Premier League,Spain,Defender,4930,57,6500000.0,0.2074468085106383
+1372,20463,Corentin Jean,ESTAC Troyes; AS Monaco; FC Toulouse,Ligue 1,France,Attack,7988,160,4000000.0,0.2066408768536428
+1373,282058,Cheikh N'Doye,Angers SCO,Ligue 1,Senegal,Midfield,8020,92,4000000.0,0.20567375886524825
+1374,58281,Simão,Levante UD,La Liga,Mozambique,Defender,6996,92,4500000.0,0.20567375886524825
+1375,126214,Mathew Leckie,FC Ingolstadt 04; Hertha BSC,Bundesliga,Australia,Attack,8043,130,4000000.0,0.2050290135396518
+1376,148967,Konstantinos Stafylidis,Bayer 04 Leverkusen; FC Augsburg; Stoke City; TSG 1899 Hoffenheim,Bundesliga; Premier League,Greece,Defender,7034,108,4500000.0,0.20470664087685364
+1377,194638,Renato Steffen,VfL Wolfsburg,Bundesliga,Switzerland,Attack,6298,115,5000000.0,0.20438426821405542
+1378,306166,Nuno da Costa,RC Strasbourg Alsace,Ligue 1,Cape Verde,Attack,6328,107,5000000.0,0.20341715022566087
+1379,62240,Maynor Figueroa,Wigan Athletic; Hull City,Premier League,Honduras,Defender,5743,68,5500000.0,0.20245003223726632
+1380,156808,Unai Bustinza,CD Leganés,La Liga,Spain,Defender,8145,100,4000000.0,0.20148291424887171
+1381,13427,Steve Sidwell,Fulham FC; Stoke City,Premier League,England,Midfield,5795,79,5500000.0,0.20083816892327533
+1382,1368,Guy Demel,West Ham United,Premier League,Cote d'Ivoire,Defender,5373,69,6000000.0,0.20067698259187616
+1383,19946,Pablo Barrientos,Catania FC,Serie A,Argentina,Attack,4811,59,7000000.0,0.2001934235976789
+1384,242548,Fede Cartabia,Valencia CF; Córdoba CF; Deportivo de La Coruña,La Liga,Argentina,Attack,6429,105,5000000.0,0.1995486782720825
+1385,268178,Arkadiusz Reca,Atalanta BC; SPAL,Serie A,Poland,Midfield,8243,113,4000000.0,0.19922630560928434
+1386,36293,Serge Gakpé,FC Nantes; Genoa CFC; Atalanta BC; Chievo Verona; Amiens SC,Ligue 1; Serie A,Togo,Attack,8254,132,4000000.0,0.19825918762088973
+1387,175323,Óscar Duarte,RCD Espanyol Barcelona; Levante UD,La Liga,Costa Rica,Defender,8288,111,4000000.0,0.19600257898130236
+1388,74228,Marc Muniesa,Stoke City; Girona FC,Premier League; La Liga,Spain,Defender,6505,89,5000000.0,0.1956802063185042
+1389,29865,Julian Schuster,SC Freiburg,Bundesliga,Germany,Midfield,8325,110,4000000.0,0.1950354609929078
+1390,159844,Christopher Lenz,1.FC Union Berlin,Bundesliga,Germany,Defender,6523,98,5000000.0,0.19439071566731142
+1391,35536,Toño,Granada CF; Elche CF; Rayo Vallecano,La Liga,Spain,Goalkeeper,5538,65,6000000.0,0.19358478401031592
+1392,13038,Arthur Boka,VfB Stuttgart; Málaga CF,Bundesliga; La Liga,Cote d'Ivoire,Defender,6540,87,5000000.0,0.19342359767891681
+1393,341272,Álex Pozo,RCD Mallorca; Sevilla FC,La Liga,Spain,Attack,6556,103,5000000.0,0.19181173436492582
+1394,527698,Kike Pérez,Real Valladolid CF,La Liga,Spain,Midfield,7341,136,4500000.0,0.19100580270793038
+1395,72792,Niko Gießelmann,Fortuna Düsseldorf,Bundesliga,Germany,Defender,8461,122,4000000.0,0.19052224371373305
+1396,288241,Enock Kwateng,FC Nantes; FC Girondins Bordeaux,Ligue 1,France,Defender,6597,100,5000000.0,0.18987749838813667
+1397,6270,Yohann Pelé,FC Sochaux-Montbéliard; Olympique Marseille,Ligue 1,France,Goalkeeper,6603,77,5000000.0,0.1895551257253385
+1398,245744,Takuma Asano,VfB Stuttgart; Hannover 96,Bundesliga,Japan,Attack,8515,150,4000000.0,0.18923275306254028
+1399,85164,Andre Hoffmann,Hannover 96; Fortuna Düsseldorf,Bundesliga,Germany,Defender,6621,89,5000000.0,0.1879432624113475
+1400,277635,Rominigue Kouamé,LOSC Lille,Ligue 1,Mali,Midfield,6674,88,5000000.0,0.18536428110896197
+1401,287635,Assane Dioussé,FC Empoli; AS Saint-Étienne; Chievo Verona,Serie A; Ligue 1,Senegal,Midfield,6677,135,5000000.0,0.18504190844616375
+1402,119115,Diego Falcinelli,US Sassuolo; FC Crotone; ACF Fiorentina; Bologna Football Club 1909,Serie A,Italy,Attack,6726,114,5000000.0,0.18278529980657637
+1403,358143,Chidozie Awaziem,FC Nantes; CD Leganés,Ligue 1; La Liga,Nigeria,Defender,5734,74,6000000.0,0.1823017408123791
+1404,147573,Sebastian Andersson,1.FC Union Berlin,Bundesliga,Sweden,Attack,5083,75,7000000.0,0.18214055448098
+1405,47065,Filip Djordjevic,FC Nantes; Società Sportiva Lazio S.p.A.; Chievo Verona,Ligue 1; Serie A,Serbia,Attack,6127,108,5500000.0,0.18149580915538366
+1406,406008,Yan Valery,Southampton FC,Premier League,Tunisia,Defender,5092,67,7000000.0,0.18117343649258544
+1407,33210,Przemyslaw Tyton,Elche CF; VfB Stuttgart; Deportivo de La Coruña,La Liga; Bundesliga,Poland,Goalkeeper,6758,77,5000000.0,0.18020631850419083
+1408,148666,Naldo,Bologna Football Club 1909; Udinese Calcio; Getafe CF; RCD Espanyol Barcelona,Serie A; La Liga,Brazil,Defender,7639,96,4500000.0,0.18020631850419083
+1409,65331,Míchel Herrero,Levante UD; Valencia CF; Getafe CF; Real Valladolid CF,La Liga,Spain,Midfield,8806,146,4000000.0,0.18020631850419083
+1410,15983,Juan Rodríguez,Getafe CF,La Liga,Spain,Midfield,6774,89,5000000.0,0.17923920051579623
+1411,65255,Timm Klose,1.FC Nuremberg; VfL Wolfsburg; Norwich City,Bundesliga; Premier League,Switzerland,Defender,6189,79,5500000.0,0.17827208252740168
+1412,20730,Daniele Conti,Cagliari Calcio,Serie A,Italy,Midfield,6810,78,5000000.0,0.17730496453900707
+1413,5676,Olivier Sorlin,Thonon Évian Grand Genève FC,Ligue 1,France,Midfield,8921,103,4000000.0,0.17730496453900707
+1414,339820,Amath Ndiaye,Getafe CF,La Liga,Senegal,Attack,6814,134,5000000.0,0.17666021921341069
+1415,30456,Marc Wilson,Stoke City; West Bromwich Albion,Premier League,Ireland,Defender,6820,87,5000000.0,0.1760154738878143
+1416,69609,José Alberto Cañas,Real Betis Balompié; Swansea City; RCD Espanyol Barcelona,La Liga; Premier League,Spain,Midfield,6829,92,5000000.0,0.17569310122501614
+1417,49327,Bradley Johnson,Norwich City,Premier League,England,Midfield,5840,73,6000000.0,0.17553191489361702
+1418,291140,Cédric Yambéré,FC Girondins Bordeaux; Dijon FCO,Ligue 1,Central African Republic,Defender,8979,107,4000000.0,0.17504835589941975
+1419,256678,Filippo Romagna,Cagliari Calcio; US Sassuolo,Serie A,Italy,Defender,5199,66,7000000.0,0.17472598323662153
+1420,52328,Gonzalo Bergessio,Catania FC; UC Sampdoria,Serie A,Argentina,Attack,5844,85,6000000.0,0.1742424242424242
+1421,39532,Victor Anichebe,Everton FC; West Bromwich Albion; Sunderland AFC,Premier League,Nigeria,Attack,5550,100,6500000.0,0.1723081882656351
+1422,297583,Woo-yeong Jeong,Borussia Mönchengladbach,Bundesliga,"Korea, South",Midfield,6331,162,5500000.0,0.172147001934236
+1423,459655,Matteo Lovato,Hellas Verona,Serie A,Italy,Defender,5231,90,7000000.0,0.17214700193423593
+1424,52345,Didier Digard,OGC Nice; Real Betis Balompié; CA Osasuna,Ligue 1; La Liga,France,Midfield,6941,90,5000000.0,0.17198581560283688
+1425,207924,Jozabed Sánchez,Rayo Vallecano; Celta de Vigo,La Liga,Spain,Midfield,6961,113,5000000.0,0.17101869761444227
+1426,28862,Michael Agazzi,Cagliari Calcio; Chievo Verona,Serie A,Italy,Goalkeeper,5259,59,7000000.0,0.17021276595744678
+1427,115382,Guilherme,Udinese Calcio; Deportivo de La Coruña,Serie A; La Liga,Qatar,Midfield,7991,100,4500000.0,0.16892327530625406
+1428,125314,Pontus Jansson,Torino FC,Serie A,Sweden,Defender,5286,65,7000000.0,0.168923275306254
+1429,141835,Álvaro Vázquez,RCD Espanyol Barcelona; Getafe CF; Swansea City,La Liga; Premier League,Spain,Attack,5937,109,6000000.0,0.16843971631205673
+1430,147051,Yvon Mvogo,RB Leipzig,Bundesliga,Switzerland,Goalkeeper,8068,91,4500000.0,0.16698903932946485
+1431,45395,Jonathan Howson,Norwich City,Premier League,England,Midfield,7079,93,5000000.0,0.16666666666666663
+1432,12096,Franck Béria,LOSC Lille,Ligue 1,France,Defender,8099,98,4500000.0,0.16634429400386846
+1433,40043,Leon Britton,Swansea City,Premier League,England,Midfield,8100,113,4500000.0,0.1660219213410703
+1434,187847,Yassine Benzia,Olympique Lyon; LOSC Lille; Dijon FCO,Ligue 1,Algeria,Midfield,7087,130,5000000.0,0.16537717601547386
+1435,302991,Erick Cabaco,AS Nancy-Lorraine; Levante UD; Getafe CF,Ligue 1; La Liga,Uruguay,Defender,7098,100,5000000.0,0.1650548033526757
+1436,342209,Kévin N'Doram,AS Monaco; FC Metz,Ligue 1,France,Midfield,6030,88,6000000.0,0.1642488716956802
+1437,37920,Kamil Grosicki,Stade Rennais FC; Hull City,Ligue 1; Premier League,Poland,Attack,5354,99,7000000.0,0.16376531270148287
+1438,189475,Carlos Gruezo,VfB Stuttgart; FC Augsburg,Bundesliga,Ecuador,Midfield,6038,87,6000000.0,0.1632817537072856
+1439,54137,Caiuby,FC Augsburg,Bundesliga,Brazil,Attack,7136,100,5000000.0,0.16312056737588654
+1440,45319,Gabriel Mercado,Sevilla FC,La Liga,Argentina,Defender,6047,78,6000000.0,0.1626370083816892
+1441,51176,Marcel Risse,1.FSV Mainz 05; 1.FC Köln,Bundesliga,Germany,Attack,8235,118,4500000.0,0.16215344938749193
+1442,12763,Steven Naismith,Everton FC; Norwich City,Premier League,Scotland,Attack,6080,116,6000000.0,0.16118633139909733
+1443,289257,Jon Guridi,Real Sociedad,La Liga,Spain,Midfield,7188,127,5000000.0,0.16118633139909733
+1444,78082,Cheick Diabaté,FC Girondins Bordeaux; FC Metz; Benevento Calcio,Ligue 1; Serie A,Mali,Attack,7196,110,5000000.0,0.16054158607350094
+1445,270411,Saîf-Eddine Khaoui,Olympique Marseille; ESTAC Troyes; SM Caen,Ligue 1,Tunisia,Midfield,7211,148,5000000.0,0.16021921341070278
+1446,6160,Mauricio Pinilla,Cagliari Calcio; Genoa CFC; Atalanta BC,Serie A,Chile,Attack,6583,111,5500000.0,0.1598968407479046
+1447,142281,Anthony Ujah,1.FC Köln; SV Werder Bremen; 1.FSV Mainz 05; 1.FC Union Berlin,Bundesliga,Nigeria,Attack,6584,124,5500000.0,0.1595744680851064
+1448,269878,Marcus Ingvartsen,1.FC Union Berlin,Bundesliga,Denmark,Attack,5805,114,6500000.0,0.1578014184397163
+1449,131090,Diego Reyes,Real Sociedad; RCD Espanyol Barcelona; CD Leganés,La Liga,Mexico,Defender,5521,67,7000000.0,0.15667311411992263
+1450,22186,Davide Biondini,Atalanta BC; Genoa CFC; US Sassuolo,Serie A,Italy,Midfield,8053,126,4800000.0,0.15618955512572535
+1451,167796,Paolo Faragò,Cagliari Calcio,Serie A,Italy,Midfield,6212,100,6000000.0,0.15490006447453253
+1452,28005,Joan Verdú,RCD Espanyol Barcelona; Real Betis Balompié; Levante UD; ACF Fiorentina,La Liga; Serie A,Spain,Midfield,5556,75,7000000.0,0.15490006447453253
+1453,58074,Carlos Martínez,Real Sociedad,La Liga,Spain,Defender,7375,90,5000000.0,0.15441650548033525
+1454,241231,Yoan Cardinale,OGC Nice,Ligue 1,France,Goalkeeper,6683,75,5500000.0,0.15377176015473892
+1455,93690,Brice Dja Djedje,Thonon Évian Grand Genève FC; Olympique Marseille,Ligue 1,Cote d'Ivoire,Midfield,8424,104,4500000.0,0.15377176015473887
+1456,103547,Artjoms Rudnevs,Hamburger SV; Hannover 96; 1.FC Köln,Bundesliga,Latvia,Attack,5846,108,6500000.0,0.1532882011605416
+1457,49693,Andreas Weimann,Aston Villa,Premier League,Austria,Attack,6690,98,5500000.0,0.15312701482914248
+1458,86848,Matthias Zimmermann,SpVgg Greuther Fürth; VfB Stuttgart; Fortuna Düsseldorf,Bundesliga,Germany,Defender,7448,88,5000000.0,0.15215989684074788
+1459,192875,William Troost-Ekong,Udinese Calcio,Serie A,Nigeria,Defender,7473,91,5000000.0,0.1515151515151515
+1460,1586,Christian Schulz,Hannover 96,Bundesliga,Germany,Defender,8518,102,4500000.0,0.15119277885235333
+1461,29712,John Ruddy,Norwich City; Wolverhampton Wanderers,Premier League,England,Goalkeeper,7508,85,5000000.0,0.15054803352675694
+1462,481834,Andrea Carboni,Cagliari Calcio,Serie A,Italy,Defender,7522,103,5000000.0,0.15022566086395872
+1463,171410,Prince Gouano,Amiens SC,Ligue 1,France,Defender,5642,65,7000000.0,0.1499032882011605
+1464,171167,Jairo Samperio,Sevilla FC; 1.FSV Mainz 05; UD Las Palmas,La Liga; Bundesliga,Spain,Attack,6364,108,6000000.0,0.14974210186976145
+1465,51356,Raúl Bobadilla,FC Augsburg; Borussia Mönchengladbach,Bundesliga,Paraguay,Attack,6754,107,5500000.0,0.1495809155383624
+1466,335225,Manu Morlanes,Villarreal CF; CD Leganés,La Liga,Spain,Midfield,7598,152,5000000.0,0.1470019342359768
+1467,35562,Ángel Lafita,Getafe CF,La Liga,Spain,Attack,5719,84,7000000.0,0.14571244358478397
+1468,238809,Florent Hadergjonaj,FC Ingolstadt 04; Huddersfield Town,Bundesliga; Premier League,Kosovo,Midfield,5735,72,7000000.0,0.1444229529335912
+1469,352392,Lucas Perrin,Olympique Marseille,Ligue 1,France,Defender,7657,99,5000000.0,0.14345583494519665
+1470,353403,Samuel Moutoussamy,FC Nantes,Ligue 1,DR Congo,Midfield,7710,144,5000000.0,0.14119922630560927
+1471,79893,Yannis Salibur,EA Guingamp; AS Saint-Étienne; RCD Mallorca,Ligue 1; La Liga,France,Attack,7712,118,5000000.0,0.1408768536428111
+1472,263860,Jason Remeseiro,Levante UD; Getafe CF,La Liga,Spain,Attack,6545,116,6000000.0,0.140715667311412
+1473,45639,Mubarak Wakaso,RCD Espanyol Barcelona; UD Las Palmas; Granada CF; Deportivo Alavés,La Liga,Ghana,Midfield,7732,123,5000000.0,0.14023210831721467
+1474,427161,Lebo Mothiba,LOSC Lille; RC Strasbourg Alsace,Ligue 1,South Africa,Attack,5827,118,7000000.0,0.14023210831721467
+1475,199927,Davide Biraschi,Genoa CFC,Serie A,Italy,Defender,8943,116,4500000.0,0.139103803997421
+1476,145769,Sergio León,Elche CF; CA Osasuna; Real Betis Balompié; Levante UD,La Liga,Spain,Attack,7757,160,5000000.0,0.13862024500322373
+1477,564305,Michel Adopo,Torino FC,Serie A,France,Midfield,5841,94,7000000.0,0.13765312701482912
+1478,67090,Dídac Vilà,Real Betis Balompié; SD Eibar; RCD Espanyol Barcelona,La Liga,Spain,Defender,7800,107,5000000.0,0.13668600902643457
+1479,395083,Andreaw Gravillon,Benevento Calcio,Serie A,Guadeloupe,Defender,5851,74,7000000.0,0.13604126370083813
+1480,44417,Cédric Mongongu,Thonon Évian Grand Genève FC; Montpellier HSC,Ligue 1,DR Congo,Defender,6268,79,6500000.0,0.1320116054158607
+1481,240158,Francesco Vicari,SPAL,Serie A,Italy,Defender,8102,96,5000000.0,0.12991618310767244
+1482,72315,Javi Márquez,RCD Mallorca; Elche CF; Granada CF,La Liga,Spain,Midfield,6729,105,6000000.0,0.12959381044487422
+1483,290593,Sada Thioub,Nîmes Olympique; Angers SCO,Ligue 1,Senegal,Attack,7258,133,5500000.0,0.12669245647969052
+1484,12906,Michaël Ciani,FC Girondins Bordeaux; Società Sportiva Lazio S.p.A.; RCD Espanyol Barcelona; FC Lorient,Ligue 1; Serie A; La Liga,France,Defender,6057,79,7000000.0,0.12475822050290136
+1485,35560,Mikel González,Real Sociedad,La Liga,Spain,Defender,8273,99,5000000.0,0.12411347517730498
+1486,293944,Habib Maïga,AS Saint-Étienne; FC Metz,Ligue 1,Cote d'Ivoire,Midfield,7384,99,5500000.0,0.12250161186331399
+1487,45272,Youssouf Mulumbu,West Bromwich Albion; Norwich City,Premier League,DR Congo,Midfield,6869,89,6000000.0,0.12169568020631849
+1488,41507,Manuel Schmiedebach,Hannover 96; 1.FC Union Berlin,Bundesliga,Germany,Midfield,7540,105,5500000.0,0.11863313990973567
+1489,34130,Tom Heaton,Burnley FC; Aston Villa,Premier League,England,Goalkeeper,6961,78,6000000.0,0.11863313990973562
+1490,38434,Daniel Schwaab,Bayer 04 Leverkusen; VfB Stuttgart,Bundesliga,Germany,Defender,8398,108,5000000.0,0.11863313990973562
+1491,16137,Franco Brienza,Palermo FC; Atalanta BC; Cesena FC; Bologna Football Club 1909,Serie A,Italy,Midfield,6200,100,7000000.0,0.11863313990973562
+1492,81532,Celso Borges,Deportivo de La Coruña,La Liga,Costa Rica,Midfield,8411,107,5000000.0,0.11831076724693745
+1493,31952,Guillaume Gillet,SC Bastia; FC Nantes,Ligue 1,Belgium,Midfield,8445,96,5000000.0,0.11766602192134107
+1494,28336,Mile Jedinak,Crystal Palace,Premier League,Australia,Midfield,7055,90,6000000.0,0.11492585428755642
+1495,42033,Philipp Bargfrede,SV Werder Bremen,Bundesliga,Germany,Midfield,8647,132,5000000.0,0.11283043197936815
+1496,45305,Miguel Torres,Getafe CF; Málaga CF,La Liga,Spain,Defender,7113,90,6000000.0,0.11202450032237266
+1497,37011,Nathan Dyer,Swansea City; Leicester City,Premier League,England,Attack,7675,141,5500000.0,0.1118633139909736
+1498,57791,Diego Castro,Getafe CF,La Liga,Spain,Attack,7131,97,6000000.0,0.11105738233397805
+1499,38607,Federico Di Francesco,Delfino Pescara 1936; Bologna Football Club 1909; US Sassuolo; SPAL,Serie A,Italy,Attack,8740,158,5000000.0,0.11025145067698261
+1500,177065,Florin Andone,Córdoba CF; Deportivo de La Coruña; Brighton & Hove Albion,La Liga; Premier League,Romania,Attack,7165,117,6000000.0,0.11025145067698255
+1501,126528,Maxime Poundjé,FC Girondins Bordeaux,Ligue 1,France,Defender,8748,118,5000000.0,0.10992907801418439
+1502,61637,Emmanuel Rivière,FC Toulouse; AS Monaco; Newcastle United; CA Osasuna; FC Metz,Ligue 1; Premier League; La Liga,Martinique,Attack,7171,138,6000000.0,0.10976789168278528
+1503,52059,Zanka,Huddersfield Town; Fortuna Düsseldorf,Premier League; Bundesliga,Denmark,Defender,8766,111,5000000.0,0.10863958736299162
+1504,205587,Opa Nguette,Valenciennes FC; FC Metz,Ligue 1,Senegal,Attack,8778,146,5000000.0,0.10799484203739523
+1505,129513,Alexandru Maxim,VfB Stuttgart; 1.FSV Mainz 05,Bundesliga,Romania,Midfield,6492,140,7000000.0,0.10702772404900063
+1506,3713,Massimo Maccarone,FC Empoli,Serie A,Italy,Attack,6762,99,6500000.0,0.10686653771760157
+1507,81386,Grégory Sertic,FC Girondins Bordeaux; Olympique Marseille,Ligue 1,France,Midfield,8833,120,5000000.0,0.10606060606060608
+1508,127987,Carles Gil,Elche CF; Valencia CF; Aston Villa; Deportivo de La Coruña,La Liga; Premier League,Spain,Midfield,6501,102,7000000.0,0.10606060606060602
+1509,85706,Enda Stevens,Aston Villa; Sheffield United,Premier League,Ireland,Defender,6517,75,7000000.0,0.10477111540941325
+1510,45668,Konstantin Rausch,Hannover 96; VfB Stuttgart; SV Darmstadt 98; 1.FC Köln,Bundesliga,Russia,Defender,8882,126,5000000.0,0.10444874274661509
+1511,57842,Christopher Schindler,Huddersfield Town,Premier League,Germany,Defender,6528,74,7000000.0,0.1038039974210187
+1512,40074,Stefan Ilsanker,RB Leipzig; Eintracht Frankfurt,Bundesliga,Austria,Midfield,7946,130,5500000.0,0.10348162475822054
+1513,37501,Imanol Agirretxe,Real Sociedad,La Liga,Spain,Attack,7338,122,6000000.0,0.10332043842682137
+1514,30697,Ron Vlaar,Aston Villa,Premier League,Netherlands,Defender,6843,79,6500000.0,0.10235332043842682
+1515,26263,Maxi López,UC Sampdoria; Catania FC; Torino FC; Chievo Verona; Udinese Calcio,Serie A,Argentina,Attack,6844,141,6500000.0,0.1020309477756286
+1516,91763,Pablo Hernández,Celta de Vigo,La Liga,Chile,Midfield,7380,118,6000000.0,0.10138620245003221
+1517,5946,Cesare Bovo,Genoa CFC; Torino FC; Delfino Pescara 1936,Serie A,Italy,Defender,6862,83,6500000.0,0.10138620245003221
+1518,260166,Ui-jo Hwang,FC Girondins Bordeaux,Ligue 1,"Korea, South",Midfield,6686,92,7000000.0,0.09445519019987103
+1519,136111,Nicola Leali,Frosinone Calcio,Serie A,Italy,Goalkeeper,7605,87,6000000.0,0.09397163120567376
+1520,58345,Jonathas,Torino FC; Delfino Pescara 1936; Elche CF; Real Sociedad; Hannover 96,Serie A; La Liga; Bundesliga,Brazil,Attack,6694,106,7000000.0,0.09381044487427465
+1521,85935,James McClean,Sunderland AFC; West Bromwich Albion,Premier League,Ireland,Midfield,7607,135,6000000.0,0.09364925854287554
+1522,405687,Tom Krauß,RB Leipzig,Bundesliga,Germany,Midfield,6741,102,7000000.0,0.09155383623468727
+1523,146690,George Baldock,Sheffield United,Premier League,Greece,Defender,7179,83,6500000.0,0.08881366860090262
+1524,181768,Hernani,AS Saint-Étienne; Parma Calcio 1913,Ligue 1; Serie A,Brazil,Midfield,7238,126,6500000.0,0.08558994197292069
+1525,30687,Maxi Moralez,Atalanta BC,Serie A,Argentina,Midfield,7943,108,6000000.0,0.08236621534493871
+1526,41281,Nicolás Pareja,Sevilla FC,La Liga,Argentina,Defender,6941,85,7000000.0,0.08204384268214054
+1527,291110,Enzo Crivelli,FC Girondins Bordeaux; SC Bastia; SM Caen; Angers SCO,Ligue 1,,Attack,7948,129,6000000.0,0.08172147001934232
+1528,167105,Lukas Lerager,FC Girondins Bordeaux; Genoa CFC,Ligue 1; Serie A,Denmark,Midfield,8261,106,6000000.0,0.07205029013539649
+1529,520468,Iago,FC Augsburg,Bundesliga,Brazil,Defender,7642,101,6500000.0,0.07108317214700194
+1530,126552,Loïs Diony,Dijon FCO; AS Saint-Étienne,Ligue 1,France,Attack,8294,141,6000000.0,0.07011605415860733
+1531,47285,Ibrahima Traoré,VfB Stuttgart; Borussia Mönchengladbach,Bundesliga,Guinea,Attack,8332,162,6000000.0,0.06914893617021273
+1532,18227,Curtis Davies,Hull City,Premier League,England,Defender,7277,84,7000000.0,0.06705351386202446
+1533,59957,Benjamin Moukandjo,AS Nancy-Lorraine; Stade Reims; FC Lorient,Ligue 1,Cameroon,Attack,8349,122,6000000.0,0.0668923275306254
+1534,203507,Adrien Hunou,Stade Rennais FC,Ligue 1,France,Attack,8387,158,6000000.0,0.06656995486782719
+1535,5928,Sergio Pellissier,Chievo Verona,Serie A,Italy,Attack,7379,160,7000000.0,0.06415215989684075
+1536,49755,Dale Stephens,Brighton & Hove Albion,Premier League,England,Midfield,8637,109,6000000.0,0.06076724693745966
+1537,55510,Marco Höger,FC Schalke 04; 1.FC Köln,Bundesliga,Germany,Midfield,8650,132,6000000.0,0.06012250161186328
+1538,216240,Lucas Olaza,Celta de Vigo,La Liga,Uruguay,Defender,8709,105,6000000.0,0.058833010960670507
+1539,1662,Sascha Riether,Fulham FC; SC Freiburg; FC Schalke 04,Premier League; Bundesliga,Germany,Defender,8710,108,6000000.0,0.05851063829787234
+1540,55742,Harry Arter,AFC Bournemouth; Cardiff City,Premier League,Ireland,Midfield,7602,94,7000000.0,0.05673758865248224
+1541,55619,Nordin Amrabat,Málaga CF; Watford FC; CD Leganés,La Liga; Premier League,Morocco,Attack,8794,133,6000000.0,0.05512572533849125
+1542,37363,Lee Cattermole,Sunderland AFC,Premier League,England,Midfield,7635,101,7000000.0,0.054803352675693084
+1543,57110,Anthony Mounier,Montpellier HSC; Bologna Football Club 1909; Atalanta BC,Ligue 1; Serie A,France,Attack,8811,138,6000000.0,0.05431979368149581
+1544,67416,Neil Taylor,Swansea City; Aston Villa,Premier League,Wales,Defender,8841,110,6000000.0,0.05319148936170209
+1545,154171,Benjamin Corgnet,FC Lorient; AS Saint-Étienne; RC Strasbourg Alsace,Ligue 1,France,Midfield,8279,146,6500000.0,0.05077369439071566
+1546,39883,Morgan Amalfitano,Olympique Marseille; West Bromwich Albion; West Ham United; LOSC Lille; Stade Rennais FC,Ligue 1; Premier League,France,Midfield,7847,132,7000000.0,0.0460992907801418
+1547,195246,Pascal Stenzel,SC Freiburg,Bundesliga,Germany,Defender,8655,151,6500000.0,0.03884590586718245
+1548,67252,Ryan Bennett,Norwich City; Wolverhampton Wanderers; Leicester City,Premier League,England,Defender,8247,103,7000000.0,0.03578336557059958
+1549,287700,Mohamed Fares,Hellas Verona; SPAL,Serie A,Algeria,Defender,8249,115,7000000.0,0.035460992907801414
+1550,450417,Dylan Bronn,FC Metz,Ligue 1,Tunisia,Defender,8500,105,7000000.0,0.026434558349451964
+1551,6033,Francesco Lodi,Catania FC; Genoa CFC; Parma Calcio 1913; Udinese Calcio,Serie A,Italy,Midfield,8625,109,7000000.0,0.024177949709864588

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obscurity Index</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --border: #2a2e38;
+    --text: #e8e9ec;
+    --muted: #9aa0ab;
+    --accent: #6ee7b7;
+    --input-bg: #0c0e12;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 3rem 1.5rem 1.5rem;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0 0 0.5rem;
+    font-size: 2.2rem;
+    letter-spacing: -0.02em;
+  }
+  header p {
+    margin: 0.75rem auto 0;
+    color: var(--muted);
+    max-width: 640px;
+    line-height: 1.5;
+  }
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 4rem;
+  }
+  .criteria {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1.5rem 0 2rem;
+  }
+  .criteria span {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  .controls {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+  }
+  .controls input, .controls select {
+    background: var(--input-bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.9rem;
+  }
+  .controls input {
+    flex: 1 1 220px;
+    min-width: 180px;
+  }
+  .controls select {
+    flex: 0 1 200px;
+  }
+  .controls input:focus, .controls select:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+  }
+  .result-count {
+    color: var(--muted);
+    font-size: 0.82rem;
+    margin: 0 0 0.75rem;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  thead th {
+    text-align: left;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  thead th .arrow { opacity: 0.5; margin-left: 0.25rem; }
+  thead th.active .arrow { opacity: 1; color: var(--accent); }
+  tbody td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.88rem;
+    vertical-align: top;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: rgba(255,255,255,0.03); }
+  .rank {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    width: 2.5rem;
+  }
+  .name { font-weight: 600; }
+  .clubs, .leagues { color: var(--muted); font-size: 0.82rem; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  th.num { text-align: right; }
+  .score { color: var(--accent); font-weight: 600; }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 2.5rem 1rem;
+  }
+  .muted { color: var(--muted); font-size: 0.82rem; }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    padding: 2rem 0 3rem;
+  }
+  @media (max-width: 700px) {
+    .hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🕵️ Obscurity Index</h1>
+    <p>
+      Hvem er den mest obskure fotballspilleren i Premier League, La Liga, Serie A, Bundesliga og
+      Ligue 1, 2012/13&ndash;2019/20? Denne listen rangerer spillere som hadde en reell, men kort
+      og ubemerket karriere i de fem store ligaene &mdash; lite spilletid, lav markedsverdi, og
+      aldri en tur innom et av storklubbene.
+    </p>
+    <div class="criteria">
+      <span>&le; 9 000 ligaminutter (~100 kamper)</span>
+      <span>&ge; 30 kamper</span>
+      <span>Aldri i topplag</span>
+      <span>&le; 7M&euro; peak markedsverdi</span>
+    </div>
+  </header>
+  <main>
+    <div class="controls">
+      <input id="search" type="text" placeholder="Søk på spillernavn…" autocomplete="off">
+      <select id="league-filter">
+        <option value="">Alle ligaer</option>
+      </select>
+      <select id="club-filter">
+        <option value="">Alle klubber</option>
+      </select>
+    </div>
+    <p class="result-count" id="result-count"></p>
+    <table id="table">
+      <thead>
+        <tr>
+          <th data-key="rank" class="rank">#<span class="arrow"></span></th>
+          <th data-key="name">Spiller<span class="arrow"></span></th>
+          <th data-key="clubs" class="hide-mobile">Klubb(er)<span class="arrow"></span></th>
+          <th data-key="leagues" class="hide-mobile">Liga<span class="arrow"></span></th>
+          <th data-key="total_appearances" class="num">Kamper<span class="arrow"></span></th>
+          <th data-key="total_minutes_top5" class="num hide-mobile">Minutter<span class="arrow"></span></th>
+          <th data-key="peak_market_value_eur" class="num">Peak-verdi<span class="arrow"></span></th>
+          <th data-key="obscurity_score" class="num">Score<span class="arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <p class="empty" id="empty-state" style="display:none">Ingen spillere matcher søket/filtrene.</p>
+    <p class="muted" style="margin-top:1.5rem">
+      Kilde: <a href="https://www.kaggle.com/datasets/davidcariboo/player-scores" style="color:inherit">davidcariboo/player-scores</a> (Transfermarkt-data via Kaggle).
+      Score = gjennomsnitt av inverterte percentil-ranger for karriereminutter og peak markedsverdi, blant spillere som passerer obskuritetsfilteret.
+    </p>
+  </main>
+  <footer>obscurity-index</footer>
+
+  <script>
+    const eur = (v) => new Intl.NumberFormat("nb-NO", { maximumFractionDigits: 0 }).format(v) + " €";
+
+    let players = [];
+    let sortKey = "rank";
+    let sortDir = 1; // 1 = ascending
+
+    const els = {
+      search: document.getElementById("search"),
+      league: document.getElementById("league-filter"),
+      club: document.getElementById("club-filter"),
+      rows: document.getElementById("rows"),
+      count: document.getElementById("result-count"),
+      empty: document.getElementById("empty-state"),
+      table: document.getElementById("table"),
+    };
+
+    function uniqueSorted(values) {
+      return [...new Set(values)].sort((a, b) => a.localeCompare(b, "nb"));
+    }
+
+    function populateFilters() {
+      const leagues = uniqueSorted(players.flatMap((p) => p.leagues.split("; ")));
+      const clubs = uniqueSorted(players.flatMap((p) => p.clubs.split("; ")));
+      for (const l of leagues) {
+        const opt = document.createElement("option");
+        opt.value = l;
+        opt.textContent = l;
+        els.league.appendChild(opt);
+      }
+      for (const c of clubs) {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        els.club.appendChild(opt);
+      }
+    }
+
+    function applyFiltersAndSort() {
+      const q = els.search.value.trim().toLowerCase();
+      const league = els.league.value;
+      const club = els.club.value;
+
+      let filtered = players.filter((p) => {
+        if (q && !p.name.toLowerCase().includes(q)) return false;
+        if (league && !p.leagues.split("; ").includes(league)) return false;
+        if (club && !p.clubs.split("; ").includes(club)) return false;
+        return true;
+      });
+
+      filtered.sort((a, b) => {
+        const av = a[sortKey];
+        const bv = b[sortKey];
+        if (typeof av === "string") return av.localeCompare(bv, "nb") * sortDir;
+        return (av - bv) * sortDir;
+      });
+
+      render(filtered);
+    }
+
+    function render(list) {
+      els.count.textContent = `${list.length} av ${players.length} spillere`;
+      els.rows.innerHTML = "";
+      els.table.style.display = list.length ? "" : "none";
+      els.empty.style.display = list.length ? "none" : "";
+
+      const frag = document.createDocumentFragment();
+      for (const p of list) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td class="rank">${p.rank}</td>
+          <td class="name">${p.name}</td>
+          <td class="clubs hide-mobile">${p.clubs}</td>
+          <td class="leagues hide-mobile">${p.leagues}</td>
+          <td class="num">${p.total_appearances}</td>
+          <td class="num hide-mobile">${p.total_minutes_top5}</td>
+          <td class="num">${eur(p.peak_market_value_eur)}</td>
+          <td class="num score">${(p.obscurity_score * 100).toFixed(1)}</td>
+        `;
+        frag.appendChild(tr);
+      }
+      els.rows.appendChild(frag);
+    }
+
+    function updateHeaderArrows() {
+      document.querySelectorAll("th[data-key]").forEach((th) => {
+        th.classList.toggle("active", th.dataset.key === sortKey);
+        const arrow = th.querySelector(".arrow");
+        arrow.textContent = th.dataset.key === sortKey ? (sortDir === 1 ? "▲" : "▼") : "";
+      });
+    }
+
+    document.querySelectorAll("th[data-key]").forEach((th) => {
+      th.addEventListener("click", () => {
+        const key = th.dataset.key;
+        if (sortKey === key) {
+          sortDir *= -1;
+        } else {
+          sortKey = key;
+          sortDir = 1;
+        }
+        updateHeaderArrows();
+        applyFiltersAndSort();
+      });
+    });
+
+    els.search.addEventListener("input", applyFiltersAndSort);
+    els.league.addEventListener("change", applyFiltersAndSort);
+    els.club.addEventListener("change", applyFiltersAndSort);
+
+    fetch("data/players.json")
+      .then((r) => r.json())
+      .then((data) => {
+        players = data;
+        populateFilters();
+        updateHeaderArrows();
+        applyFiltersAndSort();
+      })
+      .catch((err) => {
+        els.count.textContent = "Klarte ikke å laste spillerdata.";
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
