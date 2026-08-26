@@ -20,6 +20,12 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--bg);
     color: var(--text);
+    overflow-x: hidden;
+  }
+  .table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-radius: 12px;
   }
   header {
     padding: 3rem 1.5rem 1.5rem;
@@ -171,6 +177,7 @@
       </select>
     </div>
     <p class="result-count" id="result-count"></p>
+    <div class="table-scroll">
     <table id="table">
       <thead>
         <tr>
@@ -186,6 +193,7 @@
       </thead>
       <tbody id="rows"></tbody>
     </table>
+    </div>
     <p class="empty" id="empty-state" style="display:none">Ingen spillere matcher søket/filtrene.</p>
     <p class="muted" style="margin-top:1.5rem">
       Kilde: <a href="https://www.kaggle.com/datasets/davidcariboo/player-scores" style="color:inherit">davidcariboo/player-scores</a> (Transfermarkt-data via Kaggle).
